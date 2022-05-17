@@ -1,0 +1,8983 @@
+ID,Disease
+1,AIDS
+2,Varicose veins
+3,Fungal infection
+4,Varicose veins
+5,Varicose veins
+6,Allergy
+7,Allergy
+8,Varicose veins
+9,Tuberculosis
+10,Varicose veins
+11,Osteoarthristis
+12,Varicose veins
+13,Allergy
+14,Allergy
+15,Dengue
+16,Allergy
+17,Urinary tract infection
+18,Acne
+19,Allergy
+20,Hepatitis D
+21,Fungal infection
+22,Acne
+23,Hyperthyroidism
+24,Diabetes 
+25,Acne
+26,Varicose veins
+27,Acne
+28,Varicose veins
+29,Common Cold
+30,Varicose veins
+31,Hepatitis B
+32,Varicose veins
+33,Varicose veins
+34,AIDS
+35,Allergy
+36,Allergy
+37,Acne
+38,Varicose veins
+39,Hepatitis C
+40,GERD
+41,Varicose veins
+42,Varicose veins
+43,Urinary tract infection
+44,Hepatitis D
+45,Typhoid
+46,Cervical spondylosis
+47,Psoriasis
+48,Acne
+49,Varicose veins
+50,Bronchial Asthma
+51,(vertigo) Paroymsal  Positional Vertigo
+52,Allergy
+53,Peptic ulcer diseae
+54,Gastroenteritis
+55,Allergy
+56,Hepatitis D
+57,Varicose veins
+58,Varicose veins
+59,Allergy
+60,Allergy
+61,Hepatitis C
+62,Malaria
+63,Allergy
+64,Varicose veins
+65,Impetigo
+66,Alcoholic hepatitis
+67,Acne
+68,Acne
+69,Allergy
+70,Drug Reaction
+71,Hypertension 
+72,Dimorphic hemmorhoids(piles)
+73,Hypertension 
+74,Fungal infection
+75,Acne
+76,Hepatitis D
+77,Allergy
+78,Hepatitis E
+79,Varicose veins
+80,Hepatitis D
+81,Allergy
+82,Drug Reaction
+83,Hepatitis C
+84,Allergy
+85,Fungal infection
+86,Diabetes 
+87,Hepatitis C
+88,Allergy
+89,Acne
+90,Varicose veins
+91,Acne
+92,Chronic cholestasis
+93,Arthritis
+94,Hyperthyroidism
+95,Impetigo
+96,Varicose veins
+97,Varicose veins
+98,Allergy
+99,Diabetes 
+100,Allergy
+101,Acne
+102,Allergy
+103,Varicose veins
+104,hepatitis A
+105,Pneumonia
+106,Acne
+107,Allergy
+108,GERD
+109,Jaundice
+110,Acne
+111,Migraine
+112,Hypertension 
+113,Allergy
+114,Acne
+115,Drug Reaction
+116,Osteoarthristis
+117,Allergy
+118,Acne
+119,Allergy
+120,Typhoid
+121,Hepatitis E
+122,Acne
+123,Varicose veins
+124,Hepatitis E
+125,(vertigo) Paroymsal  Positional Vertigo
+126,Chicken pox
+127,Arthritis
+128,Hepatitis D
+129,Allergy
+130,Allergy
+131,Hypothyroidism
+132,Allergy
+133,Diabetes 
+134,Chronic cholestasis
+135,Varicose veins
+136,Allergy
+137,Allergy
+138,Varicose veins
+139,Allergy
+140,Dimorphic hemmorhoids(piles)
+141,Acne
+142,AIDS
+143,Common Cold
+144,Dimorphic hemmorhoids(piles)
+145,Impetigo
+146,Fungal infection
+147,Allergy
+148,Allergy
+149,Acne
+150,Allergy
+151,Allergy
+152,Hypoglycemia
+153,Hepatitis D
+154,Gastroenteritis
+155,Fungal infection
+156,Heart attack
+157,Hepatitis D
+158,Allergy
+159,Allergy
+160,Chronic cholestasis
+161,Acne
+162,Hypoglycemia
+163,Allergy
+164,Hepatitis D
+165,Urinary tract infection
+166,Diabetes 
+167,Acne
+168,Varicose veins
+169,Malaria
+170,Acne
+171,Acne
+172,Allergy
+173,Psoriasis
+174,Varicose veins
+175,Allergy
+176,Allergy
+177,Paralysis (brain hemorrhage)
+178,Heart attack
+179,Acne
+180,Allergy
+181,Acne
+182,Fungal infection
+183,Hepatitis C
+184,AIDS
+185,Allergy
+186,Varicose veins
+187,Varicose veins
+188,Typhoid
+189,Allergy
+190,Varicose veins
+191,Allergy
+192,Malaria
+193,Alcoholic hepatitis
+194,Hepatitis C
+195,Urinary tract infection
+196,Varicose veins
+197,GERD
+198,Allergy
+199,Varicose veins
+200,Allergy
+201,GERD
+202,Allergy
+203,Allergy
+204,Common Cold
+205,Impetigo
+206,Hepatitis D
+207,Hepatitis D
+208,Varicose veins
+209,Fungal infection
+210,Allergy
+211,Varicose veins
+212,Allergy
+213,Allergy
+214,Allergy
+215,Psoriasis
+216,Heart attack
+217,Acne
+218,Fungal infection
+219,Varicose veins
+220,Diabetes 
+221,Acne
+222,Acne
+223,GERD
+224,Bronchial Asthma
+225,Urinary tract infection
+226,Drug Reaction
+227,Bronchial Asthma
+228,Allergy
+229,Varicose veins
+230,hepatitis A
+231,Varicose veins
+232,Allergy
+233,Paralysis (brain hemorrhage)
+234,Bronchial Asthma
+235,Acne
+236,Acne
+237,Alcoholic hepatitis
+238,Hepatitis D
+239,Acne
+240,Acne
+241,Urinary tract infection
+242,Paralysis (brain hemorrhage)
+243,Acne
+244,Acne
+245,Allergy
+246,Varicose veins
+247,Dengue
+248,Arthritis
+249,Hyperthyroidism
+250,Bronchial Asthma
+251,Allergy
+252,Allergy
+253,hepatitis A
+254,Acne
+255,Acne
+256,Allergy
+257,Pneumonia
+258,Varicose veins
+259,Hepatitis D
+260,Hyperthyroidism
+261,Acne
+262,Allergy
+263,Allergy
+264,Hypertension 
+265,Allergy
+266,Acne
+267,Allergy
+268,Acne
+269,Fungal infection
+270,Acne
+271,Acne
+272,Allergy
+273,Allergy
+274,Impetigo
+275,Drug Reaction
+276,Dimorphic hemmorhoids(piles)
+277,Allergy
+278,Hypothyroidism
+279,Acne
+280,Bronchial Asthma
+281,Allergy
+282,Acne
+283,Gastroenteritis
+284,Varicose veins
+285,Varicose veins
+286,Allergy
+287,Jaundice
+288,Varicose veins
+289,Acne
+290,Allergy
+291,Allergy
+292,Bronchial Asthma
+293,Acne
+294,Jaundice
+295,Hypothyroidism
+296,Hepatitis D
+297,Migraine
+298,Cervical spondylosis
+299,Allergy
+300,Hepatitis D
+301,Chicken pox
+302,Dimorphic hemmorhoids(piles)
+303,Dengue
+304,Allergy
+305,Heart attack
+306,Fungal infection
+307,Hypoglycemia
+308,Bronchial Asthma
+309,Paralysis (brain hemorrhage)
+310,hepatitis A
+311,Paralysis (brain hemorrhage)
+312,Fungal infection
+313,Acne
+314,Impetigo
+315,Acne
+316,Gastroenteritis
+317,Acne
+318,Hepatitis D
+319,Heart attack
+320,Allergy
+321,Allergy
+322,Hypothyroidism
+323,Acne
+324,Pneumonia
+325,Peptic ulcer diseae
+326,Gastroenteritis
+327,Arthritis
+328,Dengue
+329,Acne
+330,Chronic cholestasis
+331,Acne
+332,Acne
+333,Allergy
+334,Varicose veins
+335,Gastroenteritis
+336,Hepatitis B
+337,Acne
+338,Psoriasis
+339,Allergy
+340,Hepatitis D
+341,Allergy
+342,Allergy
+343,Allergy
+344,Hyperthyroidism
+345,Allergy
+346,Acne
+347,Chicken pox
+348,Urinary tract infection
+349,Acne
+350,Varicose veins
+351,Typhoid
+352,Pneumonia
+353,Jaundice
+354,Common Cold
+355,Hepatitis B
+356,Varicose veins
+357,Allergy
+358,Allergy
+359,Cervical spondylosis
+360,Typhoid
+361,Acne
+362,Allergy
+363,Allergy
+364,Heart attack
+365,Varicose veins
+366,Cervical spondylosis
+367,Diabetes 
+368,Tuberculosis
+369,Hyperthyroidism
+370,Jaundice
+371,Drug Reaction
+372,Heart attack
+373,Impetigo
+374,Migraine
+375,Allergy
+376,Allergy
+377,Hypoglycemia
+378,Allergy
+379,Allergy
+380,Allergy
+381,Diabetes 
+382,Heart attack
+383,Acne
+384,Acne
+385,Hepatitis B
+386,Varicose veins
+387,Acne
+388,Acne
+389,Acne
+390,Allergy
+391,Drug Reaction
+392,Hepatitis C
+393,Varicose veins
+394,Arthritis
+395,Allergy
+396,Varicose veins
+397,Hepatitis C
+398,Common Cold
+399,Allergy
+400,Dengue
+401,Dimorphic hemmorhoids(piles)
+402,Allergy
+403,Varicose veins
+404,Acne
+405,Allergy
+406,Allergy
+407,Cervical spondylosis
+408,Acne
+409,Typhoid
+410,Acne
+411,Pneumonia
+412,Hepatitis C
+413,Drug Reaction
+414,Varicose veins
+415,Acne
+416,Allergy
+417,Allergy
+418,Acne
+419,Dimorphic hemmorhoids(piles)
+420,Allergy
+421,Allergy
+422,Paralysis (brain hemorrhage)
+423,Bronchial Asthma
+424,Varicose veins
+425,Allergy
+426,Allergy
+427,Acne
+428,Acne
+429,Acne
+430,Allergy
+431,Hepatitis B
+432,Allergy
+433,Varicose veins
+434,Pneumonia
+435,Varicose veins
+436,Acne
+437,Allergy
+438,Acne
+439,Alcoholic hepatitis
+440,Acne
+441,Drug Reaction
+442,Varicose veins
+443,Acne
+444,Allergy
+445,Hypertension 
+446,Allergy
+447,Varicose veins
+448,Impetigo
+449,Pneumonia
+450,Allergy
+451,Varicose veins
+452,Drug Reaction
+453,Urinary tract infection
+454,Arthritis
+455,Hyperthyroidism
+456,Impetigo
+457,Typhoid
+458,Varicose veins
+459,Acne
+460,AIDS
+461,Hyperthyroidism
+462,Hepatitis B
+463,Osteoarthristis
+464,Malaria
+465,Allergy
+466,Acne
+467,Allergy
+468,hepatitis A
+469,Allergy
+470,Varicose veins
+471,hepatitis A
+472,Varicose veins
+473,Acne
+474,Allergy
+475,Allergy
+476,Hepatitis C
+477,Allergy
+478,Pneumonia
+479,Jaundice
+480,Peptic ulcer diseae
+481,Acne
+482,Varicose veins
+483,Allergy
+484,Acne
+485,Allergy
+486,Hepatitis B
+487,Paralysis (brain hemorrhage)
+488,Allergy
+489,Varicose veins
+490,Heart attack
+491,Varicose veins
+492,Urinary tract infection
+493,Varicose veins
+494,Acne
+495,(vertigo) Paroymsal  Positional Vertigo
+496,Dimorphic hemmorhoids(piles)
+497,Allergy
+498,Allergy
+499,Hyperthyroidism
+500,Acne
+501,Jaundice
+502,Tuberculosis
+503,Acne
+504,Acne
+505,Varicose veins
+506,Fungal infection
+507,Acne
+508,Acne
+509,Acne
+510,Acne
+511,Allergy
+512,Allergy
+513,Acne
+514,Allergy
+515,GERD
+516,Urinary tract infection
+517,AIDS
+518,Varicose veins
+519,Varicose veins
+520,Hepatitis D
+521,Fungal infection
+522,Osteoarthristis
+523,Varicose veins
+524,Acne
+525,Common Cold
+526,Impetigo
+527,Allergy
+528,Acne
+529,Varicose veins
+530,Tuberculosis
+531,Varicose veins
+532,Hepatitis D
+533,Psoriasis
+534,Allergy
+535,Cervical spondylosis
+536,Allergy
+537,Alcoholic hepatitis
+538,GERD
+539,Allergy
+540,Urinary tract infection
+541,Allergy
+542,Hepatitis C
+543,Acne
+544,Chicken pox
+545,Acne
+546,Varicose veins
+547,Acne
+548,Allergy
+549,Acne
+550,Varicose veins
+551,(vertigo) Paroymsal  Positional Vertigo
+552,Varicose veins
+553,Acne
+554,Acne
+555,Allergy
+556,Impetigo
+557,Varicose veins
+558,Hypoglycemia
+559,Allergy
+560,Fungal infection
+561,Varicose veins
+562,Allergy
+563,Cervical spondylosis
+564,Tuberculosis
+565,Acne
+566,Allergy
+567,Varicose veins
+568,Varicose veins
+569,Fungal infection
+570,Allergy
+571,Acne
+572,Acne
+573,Heart attack
+574,Jaundice
+575,Varicose veins
+576,Typhoid
+577,Acne
+578,Acne
+579,Acne
+580,Typhoid
+581,Acne
+582,Hepatitis C
+583,Urinary tract infection
+584,Allergy
+585,Acne
+586,Acne
+587,Acne
+588,Allergy
+589,Tuberculosis
+590,Chronic cholestasis
+591,Acne
+592,Varicose veins
+593,Allergy
+594,Hepatitis B
+595,Peptic ulcer diseae
+596,Allergy
+597,Osteoarthristis
+598,Bronchial Asthma
+599,Peptic ulcer diseae
+600,Malaria
+601,Allergy
+602,Acne
+603,Tuberculosis
+604,Acne
+605,Paralysis (brain hemorrhage)
+606,Allergy
+607,GERD
+608,Alcoholic hepatitis
+609,Tuberculosis
+610,Allergy
+611,Varicose veins
+612,Acne
+613,Acne
+614,Urinary tract infection
+615,Acne
+616,Allergy
+617,GERD
+618,Varicose veins
+619,Varicose veins
+620,Gastroenteritis
+621,Varicose veins
+622,Pneumonia
+623,Varicose veins
+624,Acne
+625,Hyperthyroidism
+626,Dimorphic hemmorhoids(piles)
+627,Jaundice
+628,Allergy
+629,Fungal infection
+630,AIDS
+631,Varicose veins
+632,Pneumonia
+633,Varicose veins
+634,Gastroenteritis
+635,Acne
+636,Allergy
+637,Gastroenteritis
+638,Allergy
+639,Acne
+640,Allergy
+641,Acne
+642,Allergy
+643,Jaundice
+644,Dengue
+645,Allergy
+646,Varicose veins
+647,Allergy
+648,Varicose veins
+649,Hepatitis D
+650,Acne
+651,Acne
+652,Drug Reaction
+653,Acne
+654,Psoriasis
+655,Varicose veins
+656,Dimorphic hemmorhoids(piles)
+657,GERD
+658,Peptic ulcer diseae
+659,Varicose veins
+660,Allergy
+661,Acne
+662,Allergy
+663,Hepatitis E
+664,Acne
+665,Hepatitis E
+666,Common Cold
+667,Varicose veins
+668,Varicose veins
+669,Acne
+670,Acne
+671,Varicose veins
+672,Varicose veins
+673,Chronic cholestasis
+674,Acne
+675,Fungal infection
+676,Common Cold
+677,Varicose veins
+678,Varicose veins
+679,Allergy
+680,Allergy
+681,Hypothyroidism
+682,Hepatitis C
+683,Allergy
+684,Allergy
+685,Urinary tract infection
+686,Hyperthyroidism
+687,Acne
+688,Varicose veins
+689,Allergy
+690,(vertigo) Paroymsal  Positional Vertigo
+691,Acne
+692,Chronic cholestasis
+693,Allergy
+694,Varicose veins
+695,Acne
+696,Allergy
+697,Varicose veins
+698,Common Cold
+699,Allergy
+700,Acne
+701,Allergy
+702,Tuberculosis
+703,Hypoglycemia
+704,Varicose veins
+705,Osteoarthristis
+706,Hepatitis C
+707,Fungal infection
+708,Jaundice
+709,Varicose veins
+710,Allergy
+711,Acne
+712,Acne
+713,Hypothyroidism
+714,Jaundice
+715,Allergy
+716,Varicose veins
+717,GERD
+718,Allergy
+719,Varicose veins
+720,GERD
+721,Varicose veins
+722,Acne
+723,Common Cold
+724,Allergy
+725,Varicose veins
+726,Chicken pox
+727,Allergy
+728,Acne
+729,Varicose veins
+730,Hepatitis C
+731,Acne
+732,hepatitis A
+733,Fungal infection
+734,Psoriasis
+735,Allergy
+736,Allergy
+737,Hypoglycemia
+738,Bronchial Asthma
+739,Varicose veins
+740,Varicose veins
+741,Fungal infection
+742,Varicose veins
+743,Allergy
+744,Varicose veins
+745,Alcoholic hepatitis
+746,Varicose veins
+747,Tuberculosis
+748,Peptic ulcer diseae
+749,Bronchial Asthma
+750,Hepatitis C
+751,Acne
+752,Chicken pox
+753,Typhoid
+754,Acne
+755,AIDS
+756,Acne
+757,Cervical spondylosis
+758,GERD
+759,Allergy
+760,Common Cold
+761,Varicose veins
+762,Hepatitis E
+763,Varicose veins
+764,Acne
+765,Chronic cholestasis
+766,Fungal infection
+767,Dimorphic hemmorhoids(piles)
+768,Fungal infection
+769,Tuberculosis
+770,Tuberculosis
+771,Heart attack
+772,Hyperthyroidism
+773,Varicose veins
+774,Varicose veins
+775,Hepatitis E
+776,Varicose veins
+777,Acne
+778,Common Cold
+779,Varicose veins
+780,Allergy
+781,Varicose veins
+782,Diabetes 
+783,Common Cold
+784,Diabetes 
+785,Bronchial Asthma
+786,Hypertension 
+787,Hypothyroidism
+788,Allergy
+789,Allergy
+790,Allergy
+791,Allergy
+792,Acne
+793,Diabetes 
+794,Psoriasis
+795,Acne
+796,(vertigo) Paroymsal  Positional Vertigo
+797,Typhoid
+798,Allergy
+799,Allergy
+800,Hepatitis E
+801,Allergy
+802,Acne
+803,Varicose veins
+804,Acne
+805,Acne
+806,Dengue
+807,Heart attack
+808,Bronchial Asthma
+809,Varicose veins
+810,Varicose veins
+811,Acne
+812,Varicose veins
+813,Acne
+814,Allergy
+815,Allergy
+816,GERD
+817,Acne
+818,Typhoid
+819,Varicose veins
+820,Allergy
+821,hepatitis A
+822,Acne
+823,Hypothyroidism
+824,Acne
+825,Varicose veins
+826,Allergy
+827,Osteoarthristis
+828,Impetigo
+829,Dimorphic hemmorhoids(piles)
+830,Acne
+831,Varicose veins
+832,Pneumonia
+833,Varicose veins
+834,(vertigo) Paroymsal  Positional Vertigo
+835,Osteoarthristis
+836,Varicose veins
+837,Acne
+838,Allergy
+839,Acne
+840,Acne
+841,Acne
+842,Acne
+843,Bronchial Asthma
+844,Cervical spondylosis
+845,Acne
+846,Allergy
+847,hepatitis A
+848,Common Cold
+849,Tuberculosis
+850,Diabetes 
+851,Jaundice
+852,Acne
+853,Fungal infection
+854,hepatitis A
+855,Hepatitis B
+856,Allergy
+857,AIDS
+858,Hypoglycemia
+859,Chicken pox
+860,Common Cold
+861,Varicose veins
+862,Varicose veins
+863,Acne
+864,Acne
+865,Varicose veins
+866,Varicose veins
+867,Varicose veins
+868,Psoriasis
+869,Peptic ulcer diseae
+870,GERD
+871,Varicose veins
+872,Peptic ulcer diseae
+873,Allergy
+874,Acne
+875,Acne
+876,Osteoarthristis
+877,Allergy
+878,Acne
+879,Acne
+880,Acne
+881,Acne
+882,Allergy
+883,Acne
+884,Varicose veins
+885,Cervical spondylosis
+886,Acne
+887,Hypothyroidism
+888,Acne
+889,Dengue
+890,Varicose veins
+891,Allergy
+892,Allergy
+893,Hepatitis D
+894,Allergy
+895,Malaria
+896,Urinary tract infection
+897,Acne
+898,Allergy
+899,Acne
+900,Varicose veins
+901,Hepatitis C
+902,Cervical spondylosis
+903,Dengue
+904,Chicken pox
+905,Drug Reaction
+906,Allergy
+907,Acne
+908,Varicose veins
+909,Typhoid
+910,Allergy
+911,Varicose veins
+912,Allergy
+913,Acne
+914,Fungal infection
+915,Urinary tract infection
+916,Varicose veins
+917,Acne
+918,Chicken pox
+919,Acne
+920,AIDS
+921,Varicose veins
+922,Impetigo
+923,Allergy
+924,Hypoglycemia
+925,Acne
+926,Acne
+927,Varicose veins
+928,Alcoholic hepatitis
+929,Varicose veins
+930,Arthritis
+931,Allergy
+932,Fungal infection
+933,Hypothyroidism
+934,Varicose veins
+935,Varicose veins
+936,Migraine
+937,Acne
+938,(vertigo) Paroymsal  Positional Vertigo
+939,Bronchial Asthma
+940,Hepatitis C
+941,(vertigo) Paroymsal  Positional Vertigo
+942,Heart attack
+943,Acne
+944,Hypothyroidism
+945,Acne
+946,Fungal infection
+947,Chronic cholestasis
+948,Acne
+949,Paralysis (brain hemorrhage)
+950,Varicose veins
+951,Dimorphic hemmorhoids(piles)
+952,Allergy
+953,Paralysis (brain hemorrhage)
+954,Alcoholic hepatitis
+955,Hypertension 
+956,GERD
+957,Allergy
+958,Varicose veins
+959,(vertigo) Paroymsal  Positional Vertigo
+960,Acne
+961,Varicose veins
+962,Acne
+963,Hypoglycemia
+964,Acne
+965,Dengue
+966,Fungal infection
+967,Hepatitis B
+968,Allergy
+969,Acne
+970,Varicose veins
+971,Acne
+972,Typhoid
+973,Allergy
+974,Acne
+975,Gastroenteritis
+976,Hypoglycemia
+977,Varicose veins
+978,Varicose veins
+979,Varicose veins
+980,Hepatitis E
+981,Varicose veins
+982,Acne
+983,Allergy
+984,Acne
+985,Varicose veins
+986,Urinary tract infection
+987,Cervical spondylosis
+988,Varicose veins
+989,Varicose veins
+990,Allergy
+991,Allergy
+992,Acne
+993,Allergy
+994,Tuberculosis
+995,Alcoholic hepatitis
+996,Dengue
+997,Acne
+998,Acne
+999,Hepatitis B
+1000,AIDS
+1001,Allergy
+1002,Hepatitis D
+1003,Acne
+1004,Acne
+1005,(vertigo) Paroymsal  Positional Vertigo
+1006,Acne
+1007,Acne
+1008,Pneumonia
+1009,Varicose veins
+1010,Varicose veins
+1011,Dengue
+1012,Acne
+1013,Diabetes 
+1014,Diabetes 
+1015,Acne
+1016,Osteoarthristis
+1017,Varicose veins
+1018,Chicken pox
+1019,Acne
+1020,Varicose veins
+1021,Varicose veins
+1022,Psoriasis
+1023,Acne
+1024,Diabetes 
+1025,Acne
+1026,GERD
+1027,Bronchial Asthma
+1028,Dengue
+1029,Varicose veins
+1030,Varicose veins
+1031,Acne
+1032,Allergy
+1033,Allergy
+1034,(vertigo) Paroymsal  Positional Vertigo
+1035,Pneumonia
+1036,Varicose veins
+1037,Hypoglycemia
+1038,(vertigo) Paroymsal  Positional Vertigo
+1039,Migraine
+1040,Hypertension 
+1041,Varicose veins
+1042,Hepatitis C
+1043,Common Cold
+1044,Bronchial Asthma
+1045,Acne
+1046,Varicose veins
+1047,Peptic ulcer diseae
+1048,Jaundice
+1049,Bronchial Asthma
+1050,Paralysis (brain hemorrhage)
+1051,Allergy
+1052,Varicose veins
+1053,Gastroenteritis
+1054,Allergy
+1055,Common Cold
+1056,Psoriasis
+1057,Heart attack
+1058,Allergy
+1059,Allergy
+1060,Varicose veins
+1061,Varicose veins
+1062,Hypertension 
+1063,Acne
+1064,Urinary tract infection
+1065,Acne
+1066,(vertigo) Paroymsal  Positional Vertigo
+1067,Bronchial Asthma
+1068,Psoriasis
+1069,Acne
+1070,Acne
+1071,Allergy
+1072,Migraine
+1073,Acne
+1074,Common Cold
+1075,Allergy
+1076,Varicose veins
+1077,Varicose veins
+1078,Peptic ulcer diseae
+1079,Acne
+1080,Allergy
+1081,Acne
+1082,Malaria
+1083,hepatitis A
+1084,Jaundice
+1085,Migraine
+1086,Varicose veins
+1087,Alcoholic hepatitis
+1088,Varicose veins
+1089,Allergy
+1090,Hypertension 
+1091,Acne
+1092,Varicose veins
+1093,Acne
+1094,Allergy
+1095,Allergy
+1096,Acne
+1097,Paralysis (brain hemorrhage)
+1098,GERD
+1099,Acne
+1100,hepatitis A
+1101,Varicose veins
+1102,Varicose veins
+1103,Allergy
+1104,Migraine
+1105,Allergy
+1106,Acne
+1107,Allergy
+1108,Varicose veins
+1109,Diabetes 
+1110,Dengue
+1111,AIDS
+1112,Allergy
+1113,Acne
+1114,Acne
+1115,Allergy
+1116,Acne
+1117,Allergy
+1118,Arthritis
+1119,Acne
+1120,GERD
+1121,Allergy
+1122,Heart attack
+1123,Allergy
+1124,Allergy
+1125,Chronic cholestasis
+1126,Allergy
+1127,Acne
+1128,Fungal infection
+1129,Acne
+1130,Varicose veins
+1131,Hepatitis C
+1132,Heart attack
+1133,Cervical spondylosis
+1134,Acne
+1135,Acne
+1136,Hepatitis B
+1137,Allergy
+1138,Acne
+1139,hepatitis A
+1140,Varicose veins
+1141,Acne
+1142,Allergy
+1143,Acne
+1144,Acne
+1145,Varicose veins
+1146,Allergy
+1147,Urinary tract infection
+1148,Jaundice
+1149,Dimorphic hemmorhoids(piles)
+1150,Heart attack
+1151,Acne
+1152,Acne
+1153,(vertigo) Paroymsal  Positional Vertigo
+1154,Hepatitis C
+1155,Hepatitis C
+1156,Drug Reaction
+1157,Migraine
+1158,Migraine
+1159,Hyperthyroidism
+1160,Hepatitis B
+1161,Arthritis
+1162,Dengue
+1163,Fungal infection
+1164,Varicose veins
+1165,Allergy
+1166,Hepatitis D
+1167,Hepatitis B
+1168,Varicose veins
+1169,Heart attack
+1170,Chicken pox
+1171,Hypertension 
+1172,Paralysis (brain hemorrhage)
+1173,Allergy
+1174,Acne
+1175,Hypoglycemia
+1176,Allergy
+1177,AIDS
+1178,Chicken pox
+1179,Cervical spondylosis
+1180,Migraine
+1181,Impetigo
+1182,Hypertension 
+1183,Migraine
+1184,Allergy
+1185,Acne
+1186,Allergy
+1187,Acne
+1188,Psoriasis
+1189,Osteoarthristis
+1190,Allergy
+1191,Varicose veins
+1192,Varicose veins
+1193,Osteoarthristis
+1194,Common Cold
+1195,Varicose veins
+1196,Typhoid
+1197,Varicose veins
+1198,Allergy
+1199,Drug Reaction
+1200,Allergy
+1201,GERD
+1202,Varicose veins
+1203,Osteoarthristis
+1204,Acne
+1205,Acne
+1206,Hepatitis B
+1207,Allergy
+1208,Arthritis
+1209,Acne
+1210,Common Cold
+1211,Varicose veins
+1212,Acne
+1213,Chicken pox
+1214,Varicose veins
+1215,Allergy
+1216,Allergy
+1217,Common Cold
+1218,Allergy
+1219,hepatitis A
+1220,Drug Reaction
+1221,(vertigo) Paroymsal  Positional Vertigo
+1222,Acne
+1223,Acne
+1224,Chronic cholestasis
+1225,Alcoholic hepatitis
+1226,Allergy
+1227,Hepatitis D
+1228,Acne
+1229,Allergy
+1230,Hypoglycemia
+1231,Allergy
+1232,Allergy
+1233,Typhoid
+1234,Peptic ulcer diseae
+1235,Acne
+1236,Common Cold
+1237,Hepatitis C
+1238,Alcoholic hepatitis
+1239,Allergy
+1240,Jaundice
+1241,Migraine
+1242,Allergy
+1243,Acne
+1244,Acne
+1245,Allergy
+1246,Dimorphic hemmorhoids(piles)
+1247,Acne
+1248,hepatitis A
+1249,Allergy
+1250,Allergy
+1251,Acne
+1252,Allergy
+1253,Chicken pox
+1254,Pneumonia
+1255,Acne
+1256,Dengue
+1257,Allergy
+1258,Allergy
+1259,Hypertension 
+1260,Hepatitis D
+1261,Hepatitis B
+1262,Arthritis
+1263,Allergy
+1264,Allergy
+1265,Malaria
+1266,Varicose veins
+1267,Allergy
+1268,Allergy
+1269,Allergy
+1270,Drug Reaction
+1271,Allergy
+1272,Acne
+1273,Hypertension 
+1274,Hepatitis D
+1275,Hypothyroidism
+1276,Varicose veins
+1277,Allergy
+1278,Chicken pox
+1279,Varicose veins
+1280,Varicose veins
+1281,Allergy
+1282,Acne
+1283,Acne
+1284,Allergy
+1285,Allergy
+1286,Allergy
+1287,Common Cold
+1288,Acne
+1289,Acne
+1290,Allergy
+1291,Fungal infection
+1292,Hypertension 
+1293,Varicose veins
+1294,Allergy
+1295,Acne
+1296,Malaria
+1297,Hypoglycemia
+1298,Gastroenteritis
+1299,Acne
+1300,Varicose veins
+1301,Drug Reaction
+1302,Typhoid
+1303,Acne
+1304,Urinary tract infection
+1305,Hypothyroidism
+1306,Allergy
+1307,Hypoglycemia
+1308,Allergy
+1309,Acne
+1310,Psoriasis
+1311,Varicose veins
+1312,Varicose veins
+1313,Hepatitis D
+1314,Varicose veins
+1315,Paralysis (brain hemorrhage)
+1316,Varicose veins
+1317,Hypertension 
+1318,Allergy
+1319,Common Cold
+1320,Allergy
+1321,Common Cold
+1322,Allergy
+1323,Allergy
+1324,Chronic cholestasis
+1325,Varicose veins
+1326,Hepatitis C
+1327,Gastroenteritis
+1328,Allergy
+1329,Varicose veins
+1330,hepatitis A
+1331,Hepatitis E
+1332,Varicose veins
+1333,Urinary tract infection
+1334,Migraine
+1335,Allergy
+1336,Common Cold
+1337,Peptic ulcer diseae
+1338,Allergy
+1339,Allergy
+1340,Varicose veins
+1341,Allergy
+1342,Dengue
+1343,Psoriasis
+1344,Varicose veins
+1345,Acne
+1346,Varicose veins
+1347,Varicose veins
+1348,Varicose veins
+1349,Bronchial Asthma
+1350,Fungal infection
+1351,Varicose veins
+1352,Gastroenteritis
+1353,Impetigo
+1354,Varicose veins
+1355,Typhoid
+1356,Hepatitis C
+1357,Varicose veins
+1358,Malaria
+1359,Acne
+1360,Varicose veins
+1361,Varicose veins
+1362,Acne
+1363,Urinary tract infection
+1364,Allergy
+1365,Acne
+1366,Allergy
+1367,Allergy
+1368,AIDS
+1369,Allergy
+1370,Acne
+1371,Varicose veins
+1372,Urinary tract infection
+1373,Acne
+1374,hepatitis A
+1375,Hypothyroidism
+1376,Varicose veins
+1377,Varicose veins
+1378,Varicose veins
+1379,Bronchial Asthma
+1380,Hypertension 
+1381,Drug Reaction
+1382,Bronchial Asthma
+1383,Dengue
+1384,Common Cold
+1385,Allergy
+1386,Varicose veins
+1387,Impetigo
+1388,Allergy
+1389,Acne
+1390,Allergy
+1391,Acne
+1392,Acne
+1393,Arthritis
+1394,Peptic ulcer diseae
+1395,Acne
+1396,Heart attack
+1397,Acne
+1398,Chicken pox
+1399,AIDS
+1400,Fungal infection
+1401,Acne
+1402,Allergy
+1403,Varicose veins
+1404,Psoriasis
+1405,Acne
+1406,Psoriasis
+1407,Varicose veins
+1408,Heart attack
+1409,Drug Reaction
+1410,Acne
+1411,Allergy
+1412,Varicose veins
+1413,Varicose veins
+1414,Allergy
+1415,Allergy
+1416,Allergy
+1417,Hepatitis D
+1418,Hepatitis E
+1419,Typhoid
+1420,Hepatitis E
+1421,Fungal infection
+1422,Tuberculosis
+1423,Allergy
+1424,Varicose veins
+1425,Bronchial Asthma
+1426,Typhoid
+1427,Allergy
+1428,Hepatitis B
+1429,Chicken pox
+1430,Allergy
+1431,Fungal infection
+1432,Acne
+1433,GERD
+1434,Varicose veins
+1435,Allergy
+1436,Acne
+1437,Acne
+1438,Allergy
+1439,Allergy
+1440,Acne
+1441,Acne
+1442,Allergy
+1443,Varicose veins
+1444,Cervical spondylosis
+1445,Hyperthyroidism
+1446,Allergy
+1447,Acne
+1448,Acne
+1449,Varicose veins
+1450,Allergy
+1451,Acne
+1452,Impetigo
+1453,Fungal infection
+1454,Migraine
+1455,Varicose veins
+1456,Acne
+1457,hepatitis A
+1458,Allergy
+1459,Allergy
+1460,Acne
+1461,Allergy
+1462,Migraine
+1463,Common Cold
+1464,Varicose veins
+1465,Acne
+1466,Hepatitis C
+1467,Hepatitis B
+1468,Acne
+1469,Hepatitis D
+1470,Allergy
+1471,Allergy
+1472,Acne
+1473,(vertigo) Paroymsal  Positional Vertigo
+1474,Varicose veins
+1475,Acne
+1476,Varicose veins
+1477,Typhoid
+1478,Allergy
+1479,Pneumonia
+1480,Acne
+1481,Hypertension 
+1482,Varicose veins
+1483,Bronchial Asthma
+1484,Urinary tract infection
+1485,Varicose veins
+1486,Diabetes 
+1487,Varicose veins
+1488,Acne
+1489,(vertigo) Paroymsal  Positional Vertigo
+1490,Pneumonia
+1491,Allergy
+1492,Allergy
+1493,Acne
+1494,Hypertension 
+1495,Hypertension 
+1496,GERD
+1497,Acne
+1498,Allergy
+1499,Dengue
+1500,Pneumonia
+1501,Peptic ulcer diseae
+1502,Varicose veins
+1503,Hypothyroidism
+1504,Acne
+1505,Acne
+1506,Diabetes 
+1507,Hepatitis D
+1508,Acne
+1509,Acne
+1510,Allergy
+1511,AIDS
+1512,Acne
+1513,Allergy
+1514,Chronic cholestasis
+1515,Drug Reaction
+1516,Varicose veins
+1517,Allergy
+1518,AIDS
+1519,Allergy
+1520,Acne
+1521,Allergy
+1522,Varicose veins
+1523,Psoriasis
+1524,Allergy
+1525,Peptic ulcer diseae
+1526,Impetigo
+1527,hepatitis A
+1528,Varicose veins
+1529,Acne
+1530,Hypoglycemia
+1531,Psoriasis
+1532,Fungal infection
+1533,Paralysis (brain hemorrhage)
+1534,Fungal infection
+1535,Allergy
+1536,Acne
+1537,Alcoholic hepatitis
+1538,Varicose veins
+1539,Allergy
+1540,Acne
+1541,Acne
+1542,Allergy
+1543,Acne
+1544,Allergy
+1545,Cervical spondylosis
+1546,Dimorphic hemmorhoids(piles)
+1547,Psoriasis
+1548,Acne
+1549,Hypothyroidism
+1550,Hypoglycemia
+1551,Hypothyroidism
+1552,Malaria
+1553,Acne
+1554,Acne
+1555,Acne
+1556,Acne
+1557,Varicose veins
+1558,Migraine
+1559,Hypoglycemia
+1560,Heart attack
+1561,Acne
+1562,Allergy
+1563,Varicose veins
+1564,Acne
+1565,Allergy
+1566,Diabetes 
+1567,Acne
+1568,Drug Reaction
+1569,Dengue
+1570,Hepatitis D
+1571,Cervical spondylosis
+1572,Varicose veins
+1573,Pneumonia
+1574,Allergy
+1575,Varicose veins
+1576,Varicose veins
+1577,Allergy
+1578,Dimorphic hemmorhoids(piles)
+1579,Varicose veins
+1580,Varicose veins
+1581,Osteoarthristis
+1582,Varicose veins
+1583,Hypertension 
+1584,Acne
+1585,Allergy
+1586,Allergy
+1587,Hepatitis C
+1588,Psoriasis
+1589,AIDS
+1590,Diabetes 
+1591,Hypertension 
+1592,Dimorphic hemmorhoids(piles)
+1593,Migraine
+1594,Jaundice
+1595,Varicose veins
+1596,Allergy
+1597,Drug Reaction
+1598,Acne
+1599,Allergy
+1600,Varicose veins
+1601,Varicose veins
+1602,Acne
+1603,Allergy
+1604,Cervical spondylosis
+1605,Hepatitis E
+1606,Hypoglycemia
+1607,Varicose veins
+1608,Acne
+1609,Allergy
+1610,Hepatitis E
+1611,Allergy
+1612,Varicose veins
+1613,Dimorphic hemmorhoids(piles)
+1614,Hepatitis B
+1615,Varicose veins
+1616,Allergy
+1617,Paralysis (brain hemorrhage)
+1618,Allergy
+1619,Tuberculosis
+1620,Acne
+1621,Acne
+1622,Allergy
+1623,Acne
+1624,Typhoid
+1625,Heart attack
+1626,Acne
+1627,Psoriasis
+1628,Allergy
+1629,Hepatitis B
+1630,Acne
+1631,Acne
+1632,Impetigo
+1633,Allergy
+1634,Acne
+1635,Acne
+1636,GERD
+1637,Acne
+1638,Typhoid
+1639,Acne
+1640,Hepatitis D
+1641,Gastroenteritis
+1642,Chronic cholestasis
+1643,Hyperthyroidism
+1644,Varicose veins
+1645,Allergy
+1646,Acne
+1647,Jaundice
+1648,Hepatitis D
+1649,Varicose veins
+1650,Common Cold
+1651,Allergy
+1652,Acne
+1653,Pneumonia
+1654,Pneumonia
+1655,Drug Reaction
+1656,Acne
+1657,Allergy
+1658,Urinary tract infection
+1659,Hypertension 
+1660,Varicose veins
+1661,Allergy
+1662,Impetigo
+1663,Allergy
+1664,Allergy
+1665,Heart attack
+1666,Allergy
+1667,Hypertension 
+1668,Dengue
+1669,Chicken pox
+1670,Arthritis
+1671,Varicose veins
+1672,Varicose veins
+1673,Cervical spondylosis
+1674,Allergy
+1675,Allergy
+1676,Varicose veins
+1677,Osteoarthristis
+1678,Varicose veins
+1679,Varicose veins
+1680,Hypertension 
+1681,Acne
+1682,Pneumonia
+1683,Acne
+1684,Allergy
+1685,Varicose veins
+1686,Acne
+1687,Fungal infection
+1688,Peptic ulcer diseae
+1689,Varicose veins
+1690,Migraine
+1691,Allergy
+1692,Fungal infection
+1693,Varicose veins
+1694,Acne
+1695,Tuberculosis
+1696,Acne
+1697,Acne
+1698,Acne
+1699,Malaria
+1700,Migraine
+1701,Varicose veins
+1702,Migraine
+1703,Acne
+1704,Varicose veins
+1705,Cervical spondylosis
+1706,Allergy
+1707,Varicose veins
+1708,AIDS
+1709,GERD
+1710,Varicose veins
+1711,Acne
+1712,Acne
+1713,Acne
+1714,Urinary tract infection
+1715,Allergy
+1716,AIDS
+1717,Acne
+1718,Urinary tract infection
+1719,Diabetes 
+1720,Acne
+1721,Urinary tract infection
+1722,Fungal infection
+1723,Tuberculosis
+1724,Hepatitis E
+1725,Varicose veins
+1726,Acne
+1727,Hepatitis D
+1728,AIDS
+1729,Dimorphic hemmorhoids(piles)
+1730,Impetigo
+1731,Typhoid
+1732,Acne
+1733,Varicose veins
+1734,Allergy
+1735,Hypoglycemia
+1736,Dengue
+1737,Jaundice
+1738,Tuberculosis
+1739,Acne
+1740,Migraine
+1741,Varicose veins
+1742,Jaundice
+1743,Allergy
+1744,Urinary tract infection
+1745,Varicose veins
+1746,Hyperthyroidism
+1747,Varicose veins
+1748,Hepatitis B
+1749,Bronchial Asthma
+1750,Hyperthyroidism
+1751,Hypoglycemia
+1752,Urinary tract infection
+1753,Paralysis (brain hemorrhage)
+1754,Acne
+1755,Allergy
+1756,Acne
+1757,Allergy
+1758,Varicose veins
+1759,Migraine
+1760,Allergy
+1761,Gastroenteritis
+1762,Acne
+1763,Bronchial Asthma
+1764,Acne
+1765,Jaundice
+1766,Acne
+1767,Urinary tract infection
+1768,Tuberculosis
+1769,Acne
+1770,Acne
+1771,Acne
+1772,Acne
+1773,Varicose veins
+1774,Acne
+1775,Varicose veins
+1776,Pneumonia
+1777,Acne
+1778,Hypothyroidism
+1779,Hypoglycemia
+1780,Acne
+1781,Dengue
+1782,Varicose veins
+1783,Allergy
+1784,Varicose veins
+1785,Allergy
+1786,Varicose veins
+1787,Varicose veins
+1788,Allergy
+1789,Hypertension 
+1790,Varicose veins
+1791,Arthritis
+1792,Alcoholic hepatitis
+1793,Acne
+1794,Migraine
+1795,Malaria
+1796,Varicose veins
+1797,Hepatitis B
+1798,Acne
+1799,Allergy
+1800,Diabetes 
+1801,Peptic ulcer diseae
+1802,Allergy
+1803,Varicose veins
+1804,Pneumonia
+1805,GERD
+1806,Bronchial Asthma
+1807,Varicose veins
+1808,Allergy
+1809,Varicose veins
+1810,Allergy
+1811,(vertigo) Paroymsal  Positional Vertigo
+1812,Acne
+1813,Varicose veins
+1814,Psoriasis
+1815,Peptic ulcer diseae
+1816,Acne
+1817,Paralysis (brain hemorrhage)
+1818,Allergy
+1819,Allergy
+1820,Jaundice
+1821,Jaundice
+1822,Cervical spondylosis
+1823,Acne
+1824,Migraine
+1825,Malaria
+1826,Drug Reaction
+1827,Fungal infection
+1828,Varicose veins
+1829,Varicose veins
+1830,Arthritis
+1831,Allergy
+1832,Acne
+1833,Allergy
+1834,Varicose veins
+1835,Urinary tract infection
+1836,Chicken pox
+1837,AIDS
+1838,Fungal infection
+1839,Allergy
+1840,Varicose veins
+1841,Varicose veins
+1842,hepatitis A
+1843,Tuberculosis
+1844,Acne
+1845,Chicken pox
+1846,AIDS
+1847,Urinary tract infection
+1848,Migraine
+1849,Varicose veins
+1850,Allergy
+1851,Varicose veins
+1852,Arthritis
+1853,Allergy
+1854,Acne
+1855,Fungal infection
+1856,Malaria
+1857,Varicose veins
+1858,GERD
+1859,Varicose veins
+1860,Hyperthyroidism
+1861,Acne
+1862,Acne
+1863,Hypertension 
+1864,Hypoglycemia
+1865,Allergy
+1866,Acne
+1867,Allergy
+1868,Hepatitis C
+1869,Allergy
+1870,Acne
+1871,Acne
+1872,Allergy
+1873,Allergy
+1874,Allergy
+1875,Varicose veins
+1876,Varicose veins
+1877,Typhoid
+1878,Acne
+1879,Acne
+1880,Allergy
+1881,Varicose veins
+1882,Varicose veins
+1883,Urinary tract infection
+1884,GERD
+1885,Allergy
+1886,Hepatitis B
+1887,Acne
+1888,hepatitis A
+1889,Varicose veins
+1890,Hypothyroidism
+1891,Acne
+1892,Allergy
+1893,Varicose veins
+1894,Acne
+1895,Acne
+1896,Acne
+1897,Gastroenteritis
+1898,Arthritis
+1899,Allergy
+1900,Peptic ulcer diseae
+1901,Acne
+1902,Chronic cholestasis
+1903,Typhoid
+1904,Hepatitis C
+1905,Drug Reaction
+1906,Hypertension 
+1907,Hypoglycemia
+1908,Chicken pox
+1909,Drug Reaction
+1910,Alcoholic hepatitis
+1911,Acne
+1912,Varicose veins
+1913,Diabetes 
+1914,Hepatitis E
+1915,GERD
+1916,Acne
+1917,Acne
+1918,Hepatitis D
+1919,Allergy
+1920,Chronic cholestasis
+1921,Varicose veins
+1922,GERD
+1923,Hypothyroidism
+1924,Acne
+1925,Heart attack
+1926,Acne
+1927,Varicose veins
+1928,Heart attack
+1929,Allergy
+1930,Acne
+1931,GERD
+1932,Allergy
+1933,Dimorphic hemmorhoids(piles)
+1934,Hepatitis B
+1935,Varicose veins
+1936,Typhoid
+1937,Common Cold
+1938,Allergy
+1939,Varicose veins
+1940,Drug Reaction
+1941,Acne
+1942,Allergy
+1943,Pneumonia
+1944,Allergy
+1945,Acne
+1946,Acne
+1947,Allergy
+1948,Allergy
+1949,Psoriasis
+1950,Acne
+1951,Varicose veins
+1952,Arthritis
+1953,Varicose veins
+1954,Varicose veins
+1955,Allergy
+1956,Dengue
+1957,Bronchial Asthma
+1958,Varicose veins
+1959,Impetigo
+1960,Tuberculosis
+1961,Allergy
+1962,Acne
+1963,Allergy
+1964,Varicose veins
+1965,Acne
+1966,hepatitis A
+1967,Impetigo
+1968,Allergy
+1969,Allergy
+1970,Hepatitis C
+1971,Acne
+1972,Varicose veins
+1973,Allergy
+1974,Allergy
+1975,Acne
+1976,Hepatitis C
+1977,Allergy
+1978,Paralysis (brain hemorrhage)
+1979,Dengue
+1980,Acne
+1981,Acne
+1982,Fungal infection
+1983,Alcoholic hepatitis
+1984,Allergy
+1985,Paralysis (brain hemorrhage)
+1986,Acne
+1987,Jaundice
+1988,Chicken pox
+1989,Allergy
+1990,Osteoarthristis
+1991,Malaria
+1992,Malaria
+1993,Dengue
+1994,Acne
+1995,Allergy
+1996,Dengue
+1997,Hepatitis D
+1998,Varicose veins
+1999,Malaria
+2000,Acne
+2001,Allergy
+2002,Allergy
+2003,Hepatitis B
+2004,(vertigo) Paroymsal  Positional Vertigo
+2005,Allergy
+2006,AIDS
+2007,Pneumonia
+2008,Allergy
+2009,Fungal infection
+2010,Alcoholic hepatitis
+2011,Alcoholic hepatitis
+2012,Dimorphic hemmorhoids(piles)
+2013,Hepatitis D
+2014,Drug Reaction
+2015,Acne
+2016,Acne
+2017,GERD
+2018,Allergy
+2019,Varicose veins
+2020,Gastroenteritis
+2021,Allergy
+2022,Allergy
+2023,Paralysis (brain hemorrhage)
+2024,hepatitis A
+2025,Allergy
+2026,Hyperthyroidism
+2027,Varicose veins
+2028,Urinary tract infection
+2029,Allergy
+2030,Acne
+2031,Allergy
+2032,Hepatitis D
+2033,Allergy
+2034,Drug Reaction
+2035,Pneumonia
+2036,Osteoarthristis
+2037,Alcoholic hepatitis
+2038,Acne
+2039,Hypertension 
+2040,Arthritis
+2041,Acne
+2042,Acne
+2043,Malaria
+2044,Varicose veins
+2045,Hepatitis E
+2046,Allergy
+2047,Acne
+2048,Acne
+2049,Allergy
+2050,Diabetes 
+2051,Allergy
+2052,Varicose veins
+2053,Allergy
+2054,Allergy
+2055,Impetigo
+2056,Acne
+2057,Hepatitis D
+2058,Dengue
+2059,Varicose veins
+2060,Allergy
+2061,Varicose veins
+2062,Varicose veins
+2063,Allergy
+2064,Allergy
+2065,Chicken pox
+2066,Allergy
+2067,Bronchial Asthma
+2068,Chronic cholestasis
+2069,Acne
+2070,Pneumonia
+2071,Chicken pox
+2072,Hepatitis E
+2073,Acne
+2074,Acne
+2075,Heart attack
+2076,Migraine
+2077,Acne
+2078,Common Cold
+2079,Varicose veins
+2080,Acne
+2081,Varicose veins
+2082,Dengue
+2083,Chronic cholestasis
+2084,Diabetes 
+2085,Acne
+2086,GERD
+2087,Hyperthyroidism
+2088,Acne
+2089,Allergy
+2090,Hepatitis E
+2091,Acne
+2092,Varicose veins
+2093,Urinary tract infection
+2094,Acne
+2095,Allergy
+2096,Typhoid
+2097,Varicose veins
+2098,Hepatitis D
+2099,Allergy
+2100,Hypertension 
+2101,Acne
+2102,Allergy
+2103,Bronchial Asthma
+2104,Tuberculosis
+2105,Acne
+2106,Osteoarthristis
+2107,Allergy
+2108,Allergy
+2109,Allergy
+2110,Hepatitis D
+2111,Varicose veins
+2112,Alcoholic hepatitis
+2113,Hepatitis C
+2114,Heart attack
+2115,Hepatitis B
+2116,Varicose veins
+2117,Hypothyroidism
+2118,Allergy
+2119,AIDS
+2120,Varicose veins
+2121,Psoriasis
+2122,Varicose veins
+2123,Acne
+2124,Varicose veins
+2125,(vertigo) Paroymsal  Positional Vertigo
+2126,Paralysis (brain hemorrhage)
+2127,Varicose veins
+2128,Allergy
+2129,Malaria
+2130,Malaria
+2131,Varicose veins
+2132,Allergy
+2133,Acne
+2134,Chicken pox
+2135,GERD
+2136,Hypothyroidism
+2137,Hyperthyroidism
+2138,Peptic ulcer diseae
+2139,Hypothyroidism
+2140,Arthritis
+2141,Typhoid
+2142,hepatitis A
+2143,Malaria
+2144,Acne
+2145,Hepatitis D
+2146,Peptic ulcer diseae
+2147,Allergy
+2148,Acne
+2149,Varicose veins
+2150,Hypoglycemia
+2151,Varicose veins
+2152,Cervical spondylosis
+2153,Heart attack
+2154,Hepatitis E
+2155,Acne
+2156,Hypertension 
+2157,Varicose veins
+2158,Allergy
+2159,Varicose veins
+2160,Urinary tract infection
+2161,Varicose veins
+2162,Varicose veins
+2163,Drug Reaction
+2164,Acne
+2165,Jaundice
+2166,Acne
+2167,Allergy
+2168,Varicose veins
+2169,Hepatitis E
+2170,Cervical spondylosis
+2171,AIDS
+2172,Varicose veins
+2173,Malaria
+2174,Allergy
+2175,Hypoglycemia
+2176,Diabetes 
+2177,Varicose veins
+2178,Varicose veins
+2179,Dengue
+2180,Heart attack
+2181,Varicose veins
+2182,Allergy
+2183,Cervical spondylosis
+2184,Dengue
+2185,Diabetes 
+2186,AIDS
+2187,Peptic ulcer diseae
+2188,Hepatitis B
+2189,Hyperthyroidism
+2190,Drug Reaction
+2191,Acne
+2192,Urinary tract infection
+2193,Acne
+2194,Allergy
+2195,Peptic ulcer diseae
+2196,Hepatitis C
+2197,Allergy
+2198,Acne
+2199,Acne
+2200,Alcoholic hepatitis
+2201,Heart attack
+2202,Acne
+2203,Acne
+2204,GERD
+2205,Chronic cholestasis
+2206,Acne
+2207,Acne
+2208,GERD
+2209,Varicose veins
+2210,Varicose veins
+2211,Cervical spondylosis
+2212,Varicose veins
+2213,Allergy
+2214,(vertigo) Paroymsal  Positional Vertigo
+2215,Varicose veins
+2216,Hepatitis C
+2217,(vertigo) Paroymsal  Positional Vertigo
+2218,Allergy
+2219,Allergy
+2220,Urinary tract infection
+2221,Varicose veins
+2222,Allergy
+2223,Hyperthyroidism
+2224,Allergy
+2225,Chicken pox
+2226,Arthritis
+2227,Varicose veins
+2228,(vertigo) Paroymsal  Positional Vertigo
+2229,Acne
+2230,Acne
+2231,Acne
+2232,Alcoholic hepatitis
+2233,Migraine
+2234,Allergy
+2235,Drug Reaction
+2236,Heart attack
+2237,Chronic cholestasis
+2238,Hepatitis E
+2239,Arthritis
+2240,Allergy
+2241,Allergy
+2242,Diabetes 
+2243,Allergy
+2244,Urinary tract infection
+2245,Fungal infection
+2246,Varicose veins
+2247,Allergy
+2248,Urinary tract infection
+2249,Acne
+2250,Hyperthyroidism
+2251,Pneumonia
+2252,Acne
+2253,Acne
+2254,Acne
+2255,Alcoholic hepatitis
+2256,Acne
+2257,Chicken pox
+2258,Psoriasis
+2259,Varicose veins
+2260,Allergy
+2261,Allergy
+2262,Hepatitis D
+2263,Allergy
+2264,Arthritis
+2265,Allergy
+2266,Psoriasis
+2267,Allergy
+2268,Acne
+2269,Varicose veins
+2270,Allergy
+2271,Diabetes 
+2272,Varicose veins
+2273,Allergy
+2274,Acne
+2275,Jaundice
+2276,Varicose veins
+2277,Allergy
+2278,Acne
+2279,Psoriasis
+2280,Hypoglycemia
+2281,Migraine
+2282,Allergy
+2283,Cervical spondylosis
+2284,Impetigo
+2285,Acne
+2286,Allergy
+2287,Gastroenteritis
+2288,Osteoarthristis
+2289,hepatitis A
+2290,Hypoglycemia
+2291,Heart attack
+2292,Hepatitis E
+2293,Allergy
+2294,GERD
+2295,Hypoglycemia
+2296,Dengue
+2297,Common Cold
+2298,Acne
+2299,Chronic cholestasis
+2300,Varicose veins
+2301,Allergy
+2302,Migraine
+2303,Varicose veins
+2304,Fungal infection
+2305,Acne
+2306,Dengue
+2307,Allergy
+2308,Allergy
+2309,Allergy
+2310,Chicken pox
+2311,Allergy
+2312,Acne
+2313,(vertigo) Paroymsal  Positional Vertigo
+2314,Common Cold
+2315,Hyperthyroidism
+2316,Allergy
+2317,Alcoholic hepatitis
+2318,Acne
+2319,Allergy
+2320,hepatitis A
+2321,Paralysis (brain hemorrhage)
+2322,Varicose veins
+2323,Allergy
+2324,Varicose veins
+2325,Cervical spondylosis
+2326,Dimorphic hemmorhoids(piles)
+2327,Acne
+2328,Allergy
+2329,Urinary tract infection
+2330,Heart attack
+2331,Paralysis (brain hemorrhage)
+2332,Allergy
+2333,Hepatitis D
+2334,Hypothyroidism
+2335,Heart attack
+2336,Gastroenteritis
+2337,Allergy
+2338,Hepatitis D
+2339,Heart attack
+2340,Acne
+2341,Tuberculosis
+2342,Acne
+2343,Allergy
+2344,Acne
+2345,Varicose veins
+2346,Acne
+2347,Acne
+2348,Varicose veins
+2349,Allergy
+2350,Acne
+2351,Pneumonia
+2352,Acne
+2353,Drug Reaction
+2354,Varicose veins
+2355,Bronchial Asthma
+2356,Acne
+2357,Acne
+2358,Urinary tract infection
+2359,Allergy
+2360,Acne
+2361,Acne
+2362,Varicose veins
+2363,Allergy
+2364,Drug Reaction
+2365,AIDS
+2366,Varicose veins
+2367,hepatitis A
+2368,Allergy
+2369,Drug Reaction
+2370,Chronic cholestasis
+2371,Varicose veins
+2372,Pneumonia
+2373,Arthritis
+2374,Acne
+2375,Allergy
+2376,Fungal infection
+2377,Varicose veins
+2378,Jaundice
+2379,Allergy
+2380,(vertigo) Paroymsal  Positional Vertigo
+2381,Allergy
+2382,Varicose veins
+2383,Heart attack
+2384,Allergy
+2385,Acne
+2386,Acne
+2387,Hypoglycemia
+2388,Acne
+2389,Hepatitis D
+2390,Fungal infection
+2391,Acne
+2392,Allergy
+2393,Allergy
+2394,Acne
+2395,Acne
+2396,Arthritis
+2397,Fungal infection
+2398,Varicose veins
+2399,Varicose veins
+2400,Varicose veins
+2401,Dimorphic hemmorhoids(piles)
+2402,Allergy
+2403,Gastroenteritis
+2404,Acne
+2405,Allergy
+2406,Acne
+2407,Acne
+2408,Varicose veins
+2409,Allergy
+2410,GERD
+2411,Hyperthyroidism
+2412,Allergy
+2413,Acne
+2414,Allergy
+2415,Drug Reaction
+2416,Allergy
+2417,Allergy
+2418,Osteoarthristis
+2419,hepatitis A
+2420,Jaundice
+2421,Bronchial Asthma
+2422,Hypoglycemia
+2423,Allergy
+2424,Acne
+2425,Acne
+2426,Varicose veins
+2427,GERD
+2428,Acne
+2429,Hepatitis C
+2430,Acne
+2431,Hepatitis E
+2432,Varicose veins
+2433,Arthritis
+2434,Hypoglycemia
+2435,Allergy
+2436,Varicose veins
+2437,Varicose veins
+2438,Acne
+2439,Fungal infection
+2440,Acne
+2441,Varicose veins
+2442,Malaria
+2443,AIDS
+2444,Dimorphic hemmorhoids(piles)
+2445,AIDS
+2446,hepatitis A
+2447,Paralysis (brain hemorrhage)
+2448,Acne
+2449,Acne
+2450,Varicose veins
+2451,Allergy
+2452,Arthritis
+2453,Peptic ulcer diseae
+2454,Acne
+2455,Varicose veins
+2456,Paralysis (brain hemorrhage)
+2457,(vertigo) Paroymsal  Positional Vertigo
+2458,Varicose veins
+2459,Acne
+2460,Urinary tract infection
+2461,Acne
+2462,Acne
+2463,Allergy
+2464,Acne
+2465,Allergy
+2466,Acne
+2467,GERD
+2468,(vertigo) Paroymsal  Positional Vertigo
+2469,Allergy
+2470,Cervical spondylosis
+2471,Allergy
+2472,Hypoglycemia
+2473,Chronic cholestasis
+2474,Acne
+2475,Varicose veins
+2476,Hyperthyroidism
+2477,Osteoarthristis
+2478,Acne
+2479,Allergy
+2480,Acne
+2481,Allergy
+2482,Allergy
+2483,GERD
+2484,Acne
+2485,Hyperthyroidism
+2486,Peptic ulcer diseae
+2487,Allergy
+2488,Acne
+2489,Acne
+2490,Allergy
+2491,Varicose veins
+2492,Acne
+2493,Hypothyroidism
+2494,Acne
+2495,Allergy
+2496,Acne
+2497,Arthritis
+2498,Acne
+2499,Allergy
+2500,Allergy
+2501,Hepatitis D
+2502,Varicose veins
+2503,Acne
+2504,GERD
+2505,Typhoid
+2506,Allergy
+2507,Jaundice
+2508,Allergy
+2509,Pneumonia
+2510,Paralysis (brain hemorrhage)
+2511,Varicose veins
+2512,Hypoglycemia
+2513,GERD
+2514,GERD
+2515,Varicose veins
+2516,Allergy
+2517,Allergy
+2518,Allergy
+2519,Acne
+2520,Urinary tract infection
+2521,Allergy
+2522,Acne
+2523,Impetigo
+2524,Bronchial Asthma
+2525,Allergy
+2526,Hypertension 
+2527,Diabetes 
+2528,Varicose veins
+2529,Varicose veins
+2530,Gastroenteritis
+2531,Allergy
+2532,Dengue
+2533,Allergy
+2534,Hyperthyroidism
+2535,Impetigo
+2536,Varicose veins
+2537,Fungal infection
+2538,Allergy
+2539,Arthritis
+2540,Peptic ulcer diseae
+2541,Psoriasis
+2542,Allergy
+2543,Psoriasis
+2544,Bronchial Asthma
+2545,Acne
+2546,Acne
+2547,Varicose veins
+2548,Hepatitis C
+2549,Varicose veins
+2550,Acne
+2551,Jaundice
+2552,Malaria
+2553,Common Cold
+2554,Psoriasis
+2555,Chicken pox
+2556,Arthritis
+2557,Acne
+2558,Varicose veins
+2559,Allergy
+2560,Allergy
+2561,Paralysis (brain hemorrhage)
+2562,Varicose veins
+2563,Psoriasis
+2564,Varicose veins
+2565,(vertigo) Paroymsal  Positional Vertigo
+2566,Allergy
+2567,Allergy
+2568,Acne
+2569,Allergy
+2570,Gastroenteritis
+2571,Allergy
+2572,Typhoid
+2573,Hyperthyroidism
+2574,Hypothyroidism
+2575,Bronchial Asthma
+2576,Bronchial Asthma
+2577,Acne
+2578,Varicose veins
+2579,Acne
+2580,Tuberculosis
+2581,Acne
+2582,Psoriasis
+2583,(vertigo) Paroymsal  Positional Vertigo
+2584,Typhoid
+2585,Fungal infection
+2586,Tuberculosis
+2587,Chronic cholestasis
+2588,Acne
+2589,Acne
+2590,Psoriasis
+2591,Gastroenteritis
+2592,Acne
+2593,Acne
+2594,Urinary tract infection
+2595,Varicose veins
+2596,Hepatitis C
+2597,Allergy
+2598,Acne
+2599,Acne
+2600,Gastroenteritis
+2601,Acne
+2602,Acne
+2603,(vertigo) Paroymsal  Positional Vertigo
+2604,Allergy
+2605,Allergy
+2606,Hepatitis C
+2607,Drug Reaction
+2608,Hypothyroidism
+2609,Peptic ulcer diseae
+2610,Acne
+2611,Hepatitis E
+2612,Alcoholic hepatitis
+2613,GERD
+2614,Tuberculosis
+2615,Psoriasis
+2616,Hepatitis B
+2617,Dengue
+2618,Allergy
+2619,Allergy
+2620,Allergy
+2621,Migraine
+2622,Dimorphic hemmorhoids(piles)
+2623,Acne
+2624,Urinary tract infection
+2625,Acne
+2626,Acne
+2627,Drug Reaction
+2628,Chronic cholestasis
+2629,Allergy
+2630,Acne
+2631,Impetigo
+2632,Varicose veins
+2633,Hepatitis C
+2634,Hepatitis E
+2635,Varicose veins
+2636,Allergy
+2637,Acne
+2638,Allergy
+2639,Varicose veins
+2640,Varicose veins
+2641,Varicose veins
+2642,Allergy
+2643,Heart attack
+2644,Allergy
+2645,Varicose veins
+2646,Typhoid
+2647,AIDS
+2648,Hepatitis B
+2649,Hepatitis E
+2650,Typhoid
+2651,Osteoarthristis
+2652,Arthritis
+2653,Allergy
+2654,hepatitis A
+2655,Acne
+2656,Acne
+2657,Varicose veins
+2658,Hepatitis B
+2659,Malaria
+2660,Hyperthyroidism
+2661,Allergy
+2662,Allergy
+2663,Varicose veins
+2664,Diabetes 
+2665,Varicose veins
+2666,Varicose veins
+2667,Acne
+2668,Acne
+2669,Hepatitis E
+2670,Varicose veins
+2671,Dimorphic hemmorhoids(piles)
+2672,Arthritis
+2673,Urinary tract infection
+2674,Varicose veins
+2675,Allergy
+2676,Pneumonia
+2677,Allergy
+2678,Allergy
+2679,Diabetes 
+2680,Osteoarthristis
+2681,Hyperthyroidism
+2682,Chicken pox
+2683,Hepatitis B
+2684,Common Cold
+2685,Allergy
+2686,Acne
+2687,Acne
+2688,Chicken pox
+2689,Typhoid
+2690,Allergy
+2691,Gastroenteritis
+2692,Cervical spondylosis
+2693,Allergy
+2694,Allergy
+2695,AIDS
+2696,Varicose veins
+2697,Acne
+2698,Tuberculosis
+2699,Acne
+2700,Hypothyroidism
+2701,Acne
+2702,Varicose veins
+2703,Acne
+2704,Hypoglycemia
+2705,Hepatitis E
+2706,(vertigo) Paroymsal  Positional Vertigo
+2707,Allergy
+2708,Hypothyroidism
+2709,Cervical spondylosis
+2710,Varicose veins
+2711,Common Cold
+2712,Hepatitis D
+2713,Allergy
+2714,Allergy
+2715,Varicose veins
+2716,Fungal infection
+2717,Hepatitis D
+2718,Migraine
+2719,Cervical spondylosis
+2720,Acne
+2721,Allergy
+2722,Chicken pox
+2723,Gastroenteritis
+2724,Acne
+2725,Allergy
+2726,Malaria
+2727,Drug Reaction
+2728,Migraine
+2729,Tuberculosis
+2730,Dengue
+2731,Impetigo
+2732,Varicose veins
+2733,Allergy
+2734,Varicose veins
+2735,Allergy
+2736,Jaundice
+2737,(vertigo) Paroymsal  Positional Vertigo
+2738,Paralysis (brain hemorrhage)
+2739,Allergy
+2740,Varicose veins
+2741,Jaundice
+2742,Allergy
+2743,Acne
+2744,Tuberculosis
+2745,Dengue
+2746,Gastroenteritis
+2747,Alcoholic hepatitis
+2748,Acne
+2749,Malaria
+2750,(vertigo) Paroymsal  Positional Vertigo
+2751,Acne
+2752,Hypoglycemia
+2753,Varicose veins
+2754,Allergy
+2755,Acne
+2756,Varicose veins
+2757,Acne
+2758,Allergy
+2759,Hypothyroidism
+2760,Dengue
+2761,Jaundice
+2762,Hypoglycemia
+2763,Allergy
+2764,Paralysis (brain hemorrhage)
+2765,Typhoid
+2766,Alcoholic hepatitis
+2767,Allergy
+2768,Paralysis (brain hemorrhage)
+2769,Hypothyroidism
+2770,Acne
+2771,Acne
+2772,Acne
+2773,Allergy
+2774,Allergy
+2775,Allergy
+2776,Chronic cholestasis
+2777,Allergy
+2778,Varicose veins
+2779,Allergy
+2780,Acne
+2781,Gastroenteritis
+2782,Tuberculosis
+2783,Dengue
+2784,Allergy
+2785,Acne
+2786,Acne
+2787,Varicose veins
+2788,Allergy
+2789,Migraine
+2790,Varicose veins
+2791,Allergy
+2792,Varicose veins
+2793,Drug Reaction
+2794,hepatitis A
+2795,Chronic cholestasis
+2796,Fungal infection
+2797,Allergy
+2798,Acne
+2799,Hypertension 
+2800,Allergy
+2801,GERD
+2802,hepatitis A
+2803,Urinary tract infection
+2804,Allergy
+2805,Varicose veins
+2806,Tuberculosis
+2807,Osteoarthristis
+2808,Cervical spondylosis
+2809,Allergy
+2810,Varicose veins
+2811,Varicose veins
+2812,Varicose veins
+2813,Alcoholic hepatitis
+2814,Chicken pox
+2815,Malaria
+2816,Paralysis (brain hemorrhage)
+2817,Acne
+2818,Varicose veins
+2819,Hepatitis D
+2820,Diabetes 
+2821,Varicose veins
+2822,Hepatitis E
+2823,Jaundice
+2824,Dengue
+2825,Allergy
+2826,Acne
+2827,Acne
+2828,Acne
+2829,Chronic cholestasis
+2830,Allergy
+2831,Diabetes 
+2832,Typhoid
+2833,Bronchial Asthma
+2834,Psoriasis
+2835,Allergy
+2836,Chicken pox
+2837,Dimorphic hemmorhoids(piles)
+2838,Allergy
+2839,Common Cold
+2840,Hepatitis B
+2841,Acne
+2842,Allergy
+2843,Osteoarthristis
+2844,Pneumonia
+2845,Arthritis
+2846,Malaria
+2847,Acne
+2848,Urinary tract infection
+2849,Hypothyroidism
+2850,Typhoid
+2851,Migraine
+2852,Common Cold
+2853,Allergy
+2854,Varicose veins
+2855,Drug Reaction
+2856,Dimorphic hemmorhoids(piles)
+2857,Urinary tract infection
+2858,Allergy
+2859,Heart attack
+2860,Osteoarthristis
+2861,Gastroenteritis
+2862,Tuberculosis
+2863,Hepatitis D
+2864,Osteoarthristis
+2865,GERD
+2866,Allergy
+2867,Allergy
+2868,Allergy
+2869,Hypertension 
+2870,Hepatitis D
+2871,Acne
+2872,Malaria
+2873,Tuberculosis
+2874,Allergy
+2875,Impetigo
+2876,Varicose veins
+2877,Impetigo
+2878,Acne
+2879,hepatitis A
+2880,Varicose veins
+2881,Paralysis (brain hemorrhage)
+2882,Varicose veins
+2883,Varicose veins
+2884,Varicose veins
+2885,Varicose veins
+2886,Acne
+2887,Allergy
+2888,Fungal infection
+2889,Varicose veins
+2890,Common Cold
+2891,Hypertension 
+2892,Acne
+2893,Acne
+2894,Varicose veins
+2895,Chronic cholestasis
+2896,Allergy
+2897,Acne
+2898,Acne
+2899,AIDS
+2900,Typhoid
+2901,Urinary tract infection
+2902,Allergy
+2903,GERD
+2904,Psoriasis
+2905,hepatitis A
+2906,Tuberculosis
+2907,Migraine
+2908,Acne
+2909,Varicose veins
+2910,Varicose veins
+2911,(vertigo) Paroymsal  Positional Vertigo
+2912,Acne
+2913,Migraine
+2914,Bronchial Asthma
+2915,Varicose veins
+2916,Dengue
+2917,Impetigo
+2918,Acne
+2919,Allergy
+2920,Allergy
+2921,Allergy
+2922,Allergy
+2923,Migraine
+2924,Diabetes 
+2925,Allergy
+2926,Allergy
+2927,Varicose veins
+2928,Varicose veins
+2929,Acne
+2930,Diabetes 
+2931,Malaria
+2932,Varicose veins
+2933,Hyperthyroidism
+2934,Hepatitis D
+2935,Diabetes 
+2936,Acne
+2937,Allergy
+2938,Varicose veins
+2939,Dengue
+2940,Dengue
+2941,Varicose veins
+2942,Acne
+2943,Allergy
+2944,Allergy
+2945,Varicose veins
+2946,Psoriasis
+2947,Acne
+2948,Osteoarthristis
+2949,Acne
+2950,Varicose veins
+2951,Allergy
+2952,Chronic cholestasis
+2953,Varicose veins
+2954,Allergy
+2955,Allergy
+2956,Allergy
+2957,Varicose veins
+2958,Diabetes 
+2959,Allergy
+2960,GERD
+2961,GERD
+2962,Typhoid
+2963,Varicose veins
+2964,Dengue
+2965,Acne
+2966,Acne
+2967,Varicose veins
+2968,Varicose veins
+2969,Common Cold
+2970,Peptic ulcer diseae
+2971,Hepatitis D
+2972,AIDS
+2973,Allergy
+2974,Psoriasis
+2975,Typhoid
+2976,(vertigo) Paroymsal  Positional Vertigo
+2977,Allergy
+2978,Impetigo
+2979,Allergy
+2980,Acne
+2981,hepatitis A
+2982,Varicose veins
+2983,Varicose veins
+2984,Acne
+2985,Allergy
+2986,Allergy
+2987,Hepatitis B
+2988,Allergy
+2989,Acne
+2990,Arthritis
+2991,Acne
+2992,Allergy
+2993,Acne
+2994,Migraine
+2995,Allergy
+2996,Acne
+2997,Allergy
+2998,Hepatitis D
+2999,Varicose veins
+3000,Varicose veins
+3001,Dengue
+3002,Allergy
+3003,Allergy
+3004,Acne
+3005,Allergy
+3006,Dimorphic hemmorhoids(piles)
+3007,(vertigo) Paroymsal  Positional Vertigo
+3008,Acne
+3009,Hypothyroidism
+3010,Peptic ulcer diseae
+3011,Allergy
+3012,Varicose veins
+3013,Allergy
+3014,hepatitis A
+3015,Varicose veins
+3016,Acne
+3017,Gastroenteritis
+3018,Acne
+3019,Varicose veins
+3020,Drug Reaction
+3021,Urinary tract infection
+3022,Varicose veins
+3023,Varicose veins
+3024,Malaria
+3025,Allergy
+3026,Acne
+3027,Fungal infection
+3028,Allergy
+3029,Allergy
+3030,Allergy
+3031,Varicose veins
+3032,Paralysis (brain hemorrhage)
+3033,Jaundice
+3034,Acne
+3035,Allergy
+3036,Acne
+3037,Dimorphic hemmorhoids(piles)
+3038,Cervical spondylosis
+3039,Allergy
+3040,Hepatitis E
+3041,Impetigo
+3042,Allergy
+3043,Allergy
+3044,Peptic ulcer diseae
+3045,Hypoglycemia
+3046,Malaria
+3047,Osteoarthristis
+3048,Acne
+3049,Arthritis
+3050,Hepatitis D
+3051,Diabetes 
+3052,Acne
+3053,Drug Reaction
+3054,GERD
+3055,Acne
+3056,Allergy
+3057,Varicose veins
+3058,Impetigo
+3059,Acne
+3060,Acne
+3061,Acne
+3062,Chronic cholestasis
+3063,Allergy
+3064,Fungal infection
+3065,Allergy
+3066,Dengue
+3067,Acne
+3068,Acne
+3069,Allergy
+3070,Hypothyroidism
+3071,Acne
+3072,Allergy
+3073,(vertigo) Paroymsal  Positional Vertigo
+3074,Allergy
+3075,Hepatitis E
+3076,Varicose veins
+3077,Acne
+3078,Varicose veins
+3079,Allergy
+3080,Migraine
+3081,Migraine
+3082,Varicose veins
+3083,Acne
+3084,Varicose veins
+3085,Allergy
+3086,Acne
+3087,Varicose veins
+3088,Varicose veins
+3089,Hepatitis B
+3090,Allergy
+3091,Allergy
+3092,Allergy
+3093,Allergy
+3094,Dengue
+3095,Bronchial Asthma
+3096,Allergy
+3097,Gastroenteritis
+3098,Urinary tract infection
+3099,Acne
+3100,Varicose veins
+3101,Allergy
+3102,Allergy
+3103,Fungal infection
+3104,Acne
+3105,Allergy
+3106,Migraine
+3107,Heart attack
+3108,Chronic cholestasis
+3109,Allergy
+3110,Acne
+3111,Gastroenteritis
+3112,Allergy
+3113,Allergy
+3114,Allergy
+3115,hepatitis A
+3116,Varicose veins
+3117,Allergy
+3118,Hypertension 
+3119,Varicose veins
+3120,Varicose veins
+3121,Psoriasis
+3122,Fungal infection
+3123,Pneumonia
+3124,Hepatitis D
+3125,Allergy
+3126,Typhoid
+3127,Peptic ulcer diseae
+3128,Varicose veins
+3129,Varicose veins
+3130,Acne
+3131,Allergy
+3132,Osteoarthristis
+3133,Varicose veins
+3134,Allergy
+3135,Gastroenteritis
+3136,Acne
+3137,Jaundice
+3138,Varicose veins
+3139,Allergy
+3140,Paralysis (brain hemorrhage)
+3141,Varicose veins
+3142,Chicken pox
+3143,Varicose veins
+3144,Gastroenteritis
+3145,Jaundice
+3146,Heart attack
+3147,Malaria
+3148,Varicose veins
+3149,Varicose veins
+3150,Acne
+3151,Allergy
+3152,Allergy
+3153,Acne
+3154,Allergy
+3155,Acne
+3156,Varicose veins
+3157,Drug Reaction
+3158,Allergy
+3159,Allergy
+3160,Allergy
+3161,Allergy
+3162,Allergy
+3163,Urinary tract infection
+3164,Varicose veins
+3165,Acne
+3166,Acne
+3167,Allergy
+3168,Acne
+3169,Acne
+3170,Acne
+3171,Acne
+3172,(vertigo) Paroymsal  Positional Vertigo
+3173,(vertigo) Paroymsal  Positional Vertigo
+3174,Arthritis
+3175,Allergy
+3176,Fungal infection
+3177,Acne
+3178,Peptic ulcer diseae
+3179,Acne
+3180,Hepatitis D
+3181,Varicose veins
+3182,Osteoarthristis
+3183,Bronchial Asthma
+3184,Paralysis (brain hemorrhage)
+3185,Acne
+3186,Gastroenteritis
+3187,Varicose veins
+3188,Varicose veins
+3189,Allergy
+3190,Allergy
+3191,Hypertension 
+3192,Allergy
+3193,Allergy
+3194,Hypoglycemia
+3195,Hypoglycemia
+3196,Acne
+3197,Acne
+3198,Varicose veins
+3199,Varicose veins
+3200,Acne
+3201,Acne
+3202,Allergy
+3203,Acne
+3204,Varicose veins
+3205,Common Cold
+3206,Acne
+3207,Varicose veins
+3208,Acne
+3209,Acne
+3210,Allergy
+3211,Common Cold
+3212,Malaria
+3213,Pneumonia
+3214,Hepatitis E
+3215,Allergy
+3216,Allergy
+3217,Allergy
+3218,Typhoid
+3219,Varicose veins
+3220,Allergy
+3221,Acne
+3222,Allergy
+3223,Arthritis
+3224,Migraine
+3225,Acne
+3226,Acne
+3227,GERD
+3228,(vertigo) Paroymsal  Positional Vertigo
+3229,Hyperthyroidism
+3230,Varicose veins
+3231,Varicose veins
+3232,AIDS
+3233,Acne
+3234,Acne
+3235,Acne
+3236,Allergy
+3237,Alcoholic hepatitis
+3238,Paralysis (brain hemorrhage)
+3239,Cervical spondylosis
+3240,Allergy
+3241,Allergy
+3242,Psoriasis
+3243,Allergy
+3244,(vertigo) Paroymsal  Positional Vertigo
+3245,Allergy
+3246,Diabetes 
+3247,Allergy
+3248,Tuberculosis
+3249,Allergy
+3250,Cervical spondylosis
+3251,Varicose veins
+3252,Acne
+3253,Heart attack
+3254,Chronic cholestasis
+3255,Allergy
+3256,Allergy
+3257,Pneumonia
+3258,Acne
+3259,Allergy
+3260,Allergy
+3261,Varicose veins
+3262,Allergy
+3263,GERD
+3264,Allergy
+3265,Allergy
+3266,Tuberculosis
+3267,Tuberculosis
+3268,Allergy
+3269,Gastroenteritis
+3270,Acne
+3271,Hepatitis C
+3272,Osteoarthristis
+3273,Acne
+3274,Peptic ulcer diseae
+3275,Hepatitis B
+3276,Varicose veins
+3277,Acne
+3278,Varicose veins
+3279,Acne
+3280,Varicose veins
+3281,Allergy
+3282,Acne
+3283,Allergy
+3284,Allergy
+3285,(vertigo) Paroymsal  Positional Vertigo
+3286,Drug Reaction
+3287,Hepatitis B
+3288,Allergy
+3289,Allergy
+3290,Acne
+3291,Acne
+3292,Arthritis
+3293,Acne
+3294,Allergy
+3295,Acne
+3296,Hyperthyroidism
+3297,Tuberculosis
+3298,Allergy
+3299,Varicose veins
+3300,Varicose veins
+3301,Hepatitis D
+3302,Allergy
+3303,Gastroenteritis
+3304,Osteoarthristis
+3305,Allergy
+3306,Varicose veins
+3307,Hepatitis B
+3308,Chicken pox
+3309,Acne
+3310,(vertigo) Paroymsal  Positional Vertigo
+3311,Gastroenteritis
+3312,Dimorphic hemmorhoids(piles)
+3313,Hepatitis D
+3314,Acne
+3315,Allergy
+3316,Hepatitis B
+3317,GERD
+3318,Acne
+3319,Hypertension 
+3320,Osteoarthristis
+3321,Allergy
+3322,Acne
+3323,Acne
+3324,Allergy
+3325,Tuberculosis
+3326,Fungal infection
+3327,Allergy
+3328,Acne
+3329,Allergy
+3330,Varicose veins
+3331,Allergy
+3332,Acne
+3333,Acne
+3334,Acne
+3335,Varicose veins
+3336,Allergy
+3337,Varicose veins
+3338,Typhoid
+3339,Diabetes 
+3340,Chicken pox
+3341,Psoriasis
+3342,Allergy
+3343,Acne
+3344,Allergy
+3345,Arthritis
+3346,Chicken pox
+3347,Fungal infection
+3348,Hepatitis E
+3349,Varicose veins
+3350,Allergy
+3351,Hypothyroidism
+3352,Acne
+3353,Allergy
+3354,Gastroenteritis
+3355,Varicose veins
+3356,Varicose veins
+3357,Acne
+3358,Jaundice
+3359,Alcoholic hepatitis
+3360,Allergy
+3361,Acne
+3362,Acne
+3363,Allergy
+3364,Chicken pox
+3365,Hepatitis D
+3366,Acne
+3367,Acne
+3368,hepatitis A
+3369,Varicose veins
+3370,Varicose veins
+3371,Acne
+3372,Alcoholic hepatitis
+3373,Bronchial Asthma
+3374,Varicose veins
+3375,Hypertension 
+3376,Varicose veins
+3377,Acne
+3378,Migraine
+3379,Chronic cholestasis
+3380,Acne
+3381,Acne
+3382,Migraine
+3383,Acne
+3384,Varicose veins
+3385,Hepatitis B
+3386,Acne
+3387,Heart attack
+3388,Acne
+3389,Common Cold
+3390,Gastroenteritis
+3391,Varicose veins
+3392,Hyperthyroidism
+3393,Drug Reaction
+3394,Acne
+3395,Varicose veins
+3396,hepatitis A
+3397,Hyperthyroidism
+3398,Varicose veins
+3399,Allergy
+3400,Bronchial Asthma
+3401,Allergy
+3402,hepatitis A
+3403,Typhoid
+3404,Allergy
+3405,Varicose veins
+3406,Allergy
+3407,AIDS
+3408,Acne
+3409,Acne
+3410,hepatitis A
+3411,Allergy
+3412,Bronchial Asthma
+3413,Chicken pox
+3414,Allergy
+3415,Allergy
+3416,Acne
+3417,Heart attack
+3418,Allergy
+3419,Migraine
+3420,Allergy
+3421,Dimorphic hemmorhoids(piles)
+3422,Impetigo
+3423,Allergy
+3424,Allergy
+3425,Varicose veins
+3426,Malaria
+3427,Drug Reaction
+3428,Acne
+3429,Hypothyroidism
+3430,Allergy
+3431,Allergy
+3432,Dengue
+3433,Acne
+3434,Acne
+3435,Acne
+3436,Urinary tract infection
+3437,Common Cold
+3438,Allergy
+3439,Varicose veins
+3440,Hypoglycemia
+3441,Allergy
+3442,Acne
+3443,Allergy
+3444,Allergy
+3445,Psoriasis
+3446,Allergy
+3447,Fungal infection
+3448,Allergy
+3449,(vertigo) Paroymsal  Positional Vertigo
+3450,Fungal infection
+3451,Acne
+3452,Acne
+3453,Diabetes 
+3454,Drug Reaction
+3455,Acne
+3456,Acne
+3457,Allergy
+3458,Arthritis
+3459,Dengue
+3460,Acne
+3461,Acne
+3462,Varicose veins
+3463,Heart attack
+3464,Varicose veins
+3465,Migraine
+3466,Acne
+3467,Arthritis
+3468,Heart attack
+3469,Acne
+3470,Alcoholic hepatitis
+3471,Acne
+3472,Varicose veins
+3473,Acne
+3474,Hyperthyroidism
+3475,Allergy
+3476,Allergy
+3477,Dimorphic hemmorhoids(piles)
+3478,Acne
+3479,Allergy
+3480,Jaundice
+3481,Acne
+3482,Varicose veins
+3483,Drug Reaction
+3484,Bronchial Asthma
+3485,Allergy
+3486,Acne
+3487,Psoriasis
+3488,Acne
+3489,Allergy
+3490,Allergy
+3491,Acne
+3492,hepatitis A
+3493,Jaundice
+3494,Acne
+3495,Chronic cholestasis
+3496,Allergy
+3497,Common Cold
+3498,Dimorphic hemmorhoids(piles)
+3499,Hepatitis C
+3500,Acne
+3501,Varicose veins
+3502,Peptic ulcer diseae
+3503,Acne
+3504,Hyperthyroidism
+3505,Acne
+3506,Allergy
+3507,Allergy
+3508,Allergy
+3509,Urinary tract infection
+3510,Varicose veins
+3511,Urinary tract infection
+3512,Allergy
+3513,Allergy
+3514,Malaria
+3515,GERD
+3516,Allergy
+3517,Varicose veins
+3518,Hypoglycemia
+3519,Acne
+3520,Allergy
+3521,Jaundice
+3522,Hypothyroidism
+3523,Varicose veins
+3524,Acne
+3525,Drug Reaction
+3526,Acne
+3527,Bronchial Asthma
+3528,Acne
+3529,Arthritis
+3530,Allergy
+3531,Hepatitis E
+3532,Acne
+3533,Varicose veins
+3534,Acne
+3535,Hypothyroidism
+3536,Urinary tract infection
+3537,Hepatitis D
+3538,Heart attack
+3539,Jaundice
+3540,Hypothyroidism
+3541,hepatitis A
+3542,Allergy
+3543,Varicose veins
+3544,Chicken pox
+3545,Dimorphic hemmorhoids(piles)
+3546,Arthritis
+3547,Hypertension 
+3548,Varicose veins
+3549,Varicose veins
+3550,Allergy
+3551,Hypertension 
+3552,Osteoarthristis
+3553,Allergy
+3554,Impetigo
+3555,Allergy
+3556,Acne
+3557,Varicose veins
+3558,Cervical spondylosis
+3559,Allergy
+3560,Hypertension 
+3561,Common Cold
+3562,Pneumonia
+3563,Acne
+3564,Peptic ulcer diseae
+3565,Hepatitis D
+3566,Acne
+3567,Heart attack
+3568,Hypertension 
+3569,Tuberculosis
+3570,Varicose veins
+3571,Peptic ulcer diseae
+3572,Varicose veins
+3573,Urinary tract infection
+3574,Hypothyroidism
+3575,Fungal infection
+3576,Gastroenteritis
+3577,Psoriasis
+3578,Acne
+3579,Psoriasis
+3580,Varicose veins
+3581,Allergy
+3582,Drug Reaction
+3583,Acne
+3584,Hepatitis B
+3585,Allergy
+3586,Dengue
+3587,Allergy
+3588,Common Cold
+3589,Allergy
+3590,Varicose veins
+3591,Peptic ulcer diseae
+3592,Hepatitis E
+3593,Varicose veins
+3594,Varicose veins
+3595,Heart attack
+3596,Varicose veins
+3597,Urinary tract infection
+3598,Dimorphic hemmorhoids(piles)
+3599,Acne
+3600,hepatitis A
+3601,Alcoholic hepatitis
+3602,Hepatitis C
+3603,Alcoholic hepatitis
+3604,Tuberculosis
+3605,Allergy
+3606,Acne
+3607,Peptic ulcer diseae
+3608,Hepatitis B
+3609,Acne
+3610,Varicose veins
+3611,Paralysis (brain hemorrhage)
+3612,Tuberculosis
+3613,Acne
+3614,Hyperthyroidism
+3615,Psoriasis
+3616,Acne
+3617,Psoriasis
+3618,Varicose veins
+3619,Acne
+3620,Varicose veins
+3621,Alcoholic hepatitis
+3622,Acne
+3623,Varicose veins
+3624,Fungal infection
+3625,Allergy
+3626,Cervical spondylosis
+3627,Alcoholic hepatitis
+3628,Allergy
+3629,Acne
+3630,Bronchial Asthma
+3631,Fungal infection
+3632,Hyperthyroidism
+3633,Varicose veins
+3634,Allergy
+3635,Acne
+3636,Arthritis
+3637,Varicose veins
+3638,Allergy
+3639,Gastroenteritis
+3640,Chronic cholestasis
+3641,Acne
+3642,Chronic cholestasis
+3643,Allergy
+3644,Hepatitis B
+3645,Allergy
+3646,Acne
+3647,Allergy
+3648,Acne
+3649,Varicose veins
+3650,Allergy
+3651,Varicose veins
+3652,Hypoglycemia
+3653,Acne
+3654,Allergy
+3655,Allergy
+3656,Allergy
+3657,Migraine
+3658,(vertigo) Paroymsal  Positional Vertigo
+3659,Acne
+3660,(vertigo) Paroymsal  Positional Vertigo
+3661,Hepatitis E
+3662,Acne
+3663,Allergy
+3664,Diabetes 
+3665,Varicose veins
+3666,Varicose veins
+3667,Chicken pox
+3668,Dengue
+3669,Varicose veins
+3670,Chicken pox
+3671,Allergy
+3672,Malaria
+3673,Varicose veins
+3674,Acne
+3675,Allergy
+3676,Hypothyroidism
+3677,Allergy
+3678,Dimorphic hemmorhoids(piles)
+3679,Allergy
+3680,Osteoarthristis
+3681,Allergy
+3682,Hepatitis B
+3683,Allergy
+3684,Fungal infection
+3685,Acne
+3686,Allergy
+3687,Bronchial Asthma
+3688,Allergy
+3689,Impetigo
+3690,Varicose veins
+3691,Acne
+3692,Allergy
+3693,Acne
+3694,Acne
+3695,Allergy
+3696,Typhoid
+3697,Malaria
+3698,Fungal infection
+3699,Acne
+3700,Varicose veins
+3701,Varicose veins
+3702,Impetigo
+3703,Chicken pox
+3704,Allergy
+3705,Acne
+3706,Varicose veins
+3707,Typhoid
+3708,Alcoholic hepatitis
+3709,Tuberculosis
+3710,Dimorphic hemmorhoids(piles)
+3711,Osteoarthristis
+3712,Fungal infection
+3713,Varicose veins
+3714,Chronic cholestasis
+3715,hepatitis A
+3716,Acne
+3717,Peptic ulcer diseae
+3718,Varicose veins
+3719,Allergy
+3720,Acne
+3721,Varicose veins
+3722,Allergy
+3723,Dengue
+3724,Varicose veins
+3725,Allergy
+3726,Chronic cholestasis
+3727,Acne
+3728,Chicken pox
+3729,Acne
+3730,Chicken pox
+3731,Acne
+3732,Malaria
+3733,Allergy
+3734,Acne
+3735,Allergy
+3736,Pneumonia
+3737,Varicose veins
+3738,Bronchial Asthma
+3739,Acne
+3740,Common Cold
+3741,Varicose veins
+3742,Cervical spondylosis
+3743,Allergy
+3744,Paralysis (brain hemorrhage)
+3745,Heart attack
+3746,Allergy
+3747,Hepatitis B
+3748,Osteoarthristis
+3749,Diabetes 
+3750,Malaria
+3751,Arthritis
+3752,Acne
+3753,Tuberculosis
+3754,Hepatitis D
+3755,Acne
+3756,Allergy
+3757,Hepatitis C
+3758,Hypertension 
+3759,Hypothyroidism
+3760,Drug Reaction
+3761,Allergy
+3762,Varicose veins
+3763,Acne
+3764,Drug Reaction
+3765,Hepatitis C
+3766,Allergy
+3767,Allergy
+3768,Allergy
+3769,Arthritis
+3770,Bronchial Asthma
+3771,Dimorphic hemmorhoids(piles)
+3772,Varicose veins
+3773,Bronchial Asthma
+3774,Psoriasis
+3775,Allergy
+3776,Acne
+3777,Malaria
+3778,Hepatitis E
+3779,Chronic cholestasis
+3780,Allergy
+3781,Acne
+3782,Urinary tract infection
+3783,Hyperthyroidism
+3784,Hepatitis C
+3785,Acne
+3786,Allergy
+3787,Hepatitis B
+3788,Hepatitis E
+3789,Osteoarthristis
+3790,Drug Reaction
+3791,Jaundice
+3792,Gastroenteritis
+3793,Bronchial Asthma
+3794,Hepatitis D
+3795,Acne
+3796,Common Cold
+3797,Hepatitis C
+3798,Drug Reaction
+3799,Impetigo
+3800,Allergy
+3801,Hepatitis D
+3802,Varicose veins
+3803,Acne
+3804,Dengue
+3805,Acne
+3806,Varicose veins
+3807,Arthritis
+3808,Allergy
+3809,Acne
+3810,Typhoid
+3811,Paralysis (brain hemorrhage)
+3812,AIDS
+3813,Varicose veins
+3814,Acne
+3815,Varicose veins
+3816,Fungal infection
+3817,Varicose veins
+3818,Allergy
+3819,Allergy
+3820,Allergy
+3821,Acne
+3822,Paralysis (brain hemorrhage)
+3823,Fungal infection
+3824,Varicose veins
+3825,Acne
+3826,Hypothyroidism
+3827,Acne
+3828,Allergy
+3829,Dengue
+3830,Varicose veins
+3831,Allergy
+3832,Acne
+3833,Allergy
+3834,Osteoarthristis
+3835,Pneumonia
+3836,Acne
+3837,Allergy
+3838,Peptic ulcer diseae
+3839,Acne
+3840,Allergy
+3841,Varicose veins
+3842,Acne
+3843,Varicose veins
+3844,Varicose veins
+3845,Malaria
+3846,Allergy
+3847,Hypertension 
+3848,Migraine
+3849,Varicose veins
+3850,Typhoid
+3851,Diabetes 
+3852,Varicose veins
+3853,Acne
+3854,Hepatitis D
+3855,Acne
+3856,Fungal infection
+3857,Pneumonia
+3858,Acne
+3859,Acne
+3860,Peptic ulcer diseae
+3861,Varicose veins
+3862,Acne
+3863,Hepatitis B
+3864,Acne
+3865,Varicose veins
+3866,Allergy
+3867,Allergy
+3868,Acne
+3869,(vertigo) Paroymsal  Positional Vertigo
+3870,Paralysis (brain hemorrhage)
+3871,Heart attack
+3872,Arthritis
+3873,Hepatitis E
+3874,Allergy
+3875,Malaria
+3876,Chronic cholestasis
+3877,Psoriasis
+3878,Hepatitis C
+3879,Jaundice
+3880,Varicose veins
+3881,Hypothyroidism
+3882,Jaundice
+3883,Varicose veins
+3884,Allergy
+3885,Acne
+3886,Acne
+3887,Allergy
+3888,Varicose veins
+3889,Chronic cholestasis
+3890,Urinary tract infection
+3891,Fungal infection
+3892,Varicose veins
+3893,GERD
+3894,Acne
+3895,Varicose veins
+3896,Varicose veins
+3897,Varicose veins
+3898,Allergy
+3899,Gastroenteritis
+3900,Allergy
+3901,Varicose veins
+3902,Acne
+3903,Peptic ulcer diseae
+3904,Cervical spondylosis
+3905,Diabetes 
+3906,Acne
+3907,Varicose veins
+3908,Acne
+3909,Varicose veins
+3910,Hepatitis E
+3911,Allergy
+3912,Varicose veins
+3913,GERD
+3914,Gastroenteritis
+3915,Acne
+3916,Tuberculosis
+3917,Arthritis
+3918,Migraine
+3919,Allergy
+3920,Psoriasis
+3921,Varicose veins
+3922,Hepatitis C
+3923,Paralysis (brain hemorrhage)
+3924,Varicose veins
+3925,GERD
+3926,Allergy
+3927,Cervical spondylosis
+3928,Hepatitis B
+3929,Varicose veins
+3930,Varicose veins
+3931,Hypertension 
+3932,Allergy
+3933,GERD
+3934,Migraine
+3935,Allergy
+3936,AIDS
+3937,Varicose veins
+3938,Hypothyroidism
+3939,Malaria
+3940,Fungal infection
+3941,Arthritis
+3942,Allergy
+3943,Jaundice
+3944,Paralysis (brain hemorrhage)
+3945,Varicose veins
+3946,Drug Reaction
+3947,Allergy
+3948,Hypoglycemia
+3949,Chicken pox
+3950,Varicose veins
+3951,(vertigo) Paroymsal  Positional Vertigo
+3952,Jaundice
+3953,Varicose veins
+3954,Allergy
+3955,Hypertension 
+3956,Allergy
+3957,Acne
+3958,Allergy
+3959,Allergy
+3960,Urinary tract infection
+3961,Allergy
+3962,Varicose veins
+3963,Jaundice
+3964,Acne
+3965,Allergy
+3966,hepatitis A
+3967,Varicose veins
+3968,Acne
+3969,Allergy
+3970,Acne
+3971,Acne
+3972,Diabetes 
+3973,AIDS
+3974,Varicose veins
+3975,Varicose veins
+3976,Varicose veins
+3977,Varicose veins
+3978,Acne
+3979,Hepatitis D
+3980,Heart attack
+3981,Acne
+3982,Osteoarthristis
+3983,Acne
+3984,Allergy
+3985,Fungal infection
+3986,Pneumonia
+3987,Acne
+3988,Acne
+3989,Cervical spondylosis
+3990,Acne
+3991,Common Cold
+3992,Hypoglycemia
+3993,Varicose veins
+3994,Malaria
+3995,(vertigo) Paroymsal  Positional Vertigo
+3996,Acne
+3997,Acne
+3998,Malaria
+3999,AIDS
+4000,(vertigo) Paroymsal  Positional Vertigo
+4001,Hepatitis B
+4002,Varicose veins
+4003,Varicose veins
+4004,Varicose veins
+4005,Hepatitis E
+4006,Allergy
+4007,Acne
+4008,Varicose veins
+4009,Acne
+4010,Varicose veins
+4011,Acne
+4012,Acne
+4013,Hypothyroidism
+4014,Hepatitis C
+4015,Allergy
+4016,Acne
+4017,Acne
+4018,Peptic ulcer diseae
+4019,AIDS
+4020,Fungal infection
+4021,Acne
+4022,Acne
+4023,Allergy
+4024,Varicose veins
+4025,GERD
+4026,Acne
+4027,Varicose veins
+4028,Hepatitis C
+4029,Acne
+4030,Acne
+4031,Allergy
+4032,Varicose veins
+4033,Hypothyroidism
+4034,Gastroenteritis
+4035,Hepatitis B
+4036,Hepatitis B
+4037,Hepatitis D
+4038,Varicose veins
+4039,Allergy
+4040,Acne
+4041,Dengue
+4042,Varicose veins
+4043,Allergy
+4044,Varicose veins
+4045,Hypertension 
+4046,Acne
+4047,Allergy
+4048,Acne
+4049,Allergy
+4050,Hypoglycemia
+4051,Acne
+4052,Hepatitis B
+4053,Hyperthyroidism
+4054,Fungal infection
+4055,Fungal infection
+4056,(vertigo) Paroymsal  Positional Vertigo
+4057,Varicose veins
+4058,Paralysis (brain hemorrhage)
+4059,Pneumonia
+4060,Jaundice
+4061,Varicose veins
+4062,Varicose veins
+4063,Hypothyroidism
+4064,Migraine
+4065,Alcoholic hepatitis
+4066,Hepatitis C
+4067,Acne
+4068,Allergy
+4069,Dengue
+4070,Allergy
+4071,Acne
+4072,Cervical spondylosis
+4073,Osteoarthristis
+4074,Allergy
+4075,Psoriasis
+4076,Varicose veins
+4077,Acne
+4078,Acne
+4079,Varicose veins
+4080,Chronic cholestasis
+4081,Acne
+4082,Acne
+4083,Varicose veins
+4084,Allergy
+4085,Acne
+4086,Allergy
+4087,Common Cold
+4088,Varicose veins
+4089,Varicose veins
+4090,Acne
+4091,Hepatitis C
+4092,Acne
+4093,Alcoholic hepatitis
+4094,Acne
+4095,Chicken pox
+4096,Hepatitis D
+4097,Heart attack
+4098,Allergy
+4099,Heart attack
+4100,Acne
+4101,Cervical spondylosis
+4102,Hepatitis C
+4103,Pneumonia
+4104,Impetigo
+4105,AIDS
+4106,Alcoholic hepatitis
+4107,Allergy
+4108,Acne
+4109,Acne
+4110,Varicose veins
+4111,Osteoarthristis
+4112,Typhoid
+4113,Bronchial Asthma
+4114,Cervical spondylosis
+4115,Varicose veins
+4116,Osteoarthristis
+4117,Dimorphic hemmorhoids(piles)
+4118,Allergy
+4119,Allergy
+4120,(vertigo) Paroymsal  Positional Vertigo
+4121,Allergy
+4122,Acne
+4123,Acne
+4124,Varicose veins
+4125,Common Cold
+4126,Alcoholic hepatitis
+4127,Common Cold
+4128,Acne
+4129,(vertigo) Paroymsal  Positional Vertigo
+4130,Urinary tract infection
+4131,Allergy
+4132,Tuberculosis
+4133,Varicose veins
+4134,Allergy
+4135,Dimorphic hemmorhoids(piles)
+4136,Allergy
+4137,Varicose veins
+4138,Allergy
+4139,Chicken pox
+4140,Psoriasis
+4141,Chicken pox
+4142,Acne
+4143,Allergy
+4144,Acne
+4145,Cervical spondylosis
+4146,Allergy
+4147,(vertigo) Paroymsal  Positional Vertigo
+4148,Urinary tract infection
+4149,Hepatitis B
+4150,Allergy
+4151,Hypertension 
+4152,Paralysis (brain hemorrhage)
+4153,Allergy
+4154,Allergy
+4155,Diabetes 
+4156,Bronchial Asthma
+4157,Drug Reaction
+4158,Fungal infection
+4159,Varicose veins
+4160,GERD
+4161,AIDS
+4162,Varicose veins
+4163,Acne
+4164,Allergy
+4165,Peptic ulcer diseae
+4166,Allergy
+4167,Allergy
+4168,Gastroenteritis
+4169,Peptic ulcer diseae
+4170,Hepatitis C
+4171,Acne
+4172,Varicose veins
+4173,Acne
+4174,Hepatitis B
+4175,Impetigo
+4176,Dengue
+4177,Varicose veins
+4178,Dimorphic hemmorhoids(piles)
+4179,Allergy
+4180,Hepatitis B
+4181,Varicose veins
+4182,Varicose veins
+4183,Allergy
+4184,Cervical spondylosis
+4185,Pneumonia
+4186,Bronchial Asthma
+4187,Gastroenteritis
+4188,Varicose veins
+4189,Fungal infection
+4190,Dimorphic hemmorhoids(piles)
+4191,(vertigo) Paroymsal  Positional Vertigo
+4192,Hypertension 
+4193,(vertigo) Paroymsal  Positional Vertigo
+4194,Allergy
+4195,Acne
+4196,Paralysis (brain hemorrhage)
+4197,Varicose veins
+4198,Allergy
+4199,Allergy
+4200,GERD
+4201,Bronchial Asthma
+4202,Hepatitis C
+4203,Allergy
+4204,Heart attack
+4205,Allergy
+4206,Allergy
+4207,Allergy
+4208,Malaria
+4209,Acne
+4210,Allergy
+4211,Allergy
+4212,Tuberculosis
+4213,Acne
+4214,Hypertension 
+4215,Psoriasis
+4216,Varicose veins
+4217,Fungal infection
+4218,Osteoarthristis
+4219,Pneumonia
+4220,Allergy
+4221,Psoriasis
+4222,AIDS
+4223,Acne
+4224,Osteoarthristis
+4225,Acne
+4226,Varicose veins
+4227,Allergy
+4228,Fungal infection
+4229,Common Cold
+4230,Gastroenteritis
+4231,Fungal infection
+4232,Hypothyroidism
+4233,Allergy
+4234,Tuberculosis
+4235,Acne
+4236,Allergy
+4237,Varicose veins
+4238,Allergy
+4239,Varicose veins
+4240,Allergy
+4241,Varicose veins
+4242,Pneumonia
+4243,Allergy
+4244,Allergy
+4245,Fungal infection
+4246,Acne
+4247,GERD
+4248,Allergy
+4249,Typhoid
+4250,Varicose veins
+4251,Varicose veins
+4252,Varicose veins
+4253,AIDS
+4254,Varicose veins
+4255,Hypothyroidism
+4256,Acne
+4257,Varicose veins
+4258,Allergy
+4259,Allergy
+4260,Allergy
+4261,Alcoholic hepatitis
+4262,Alcoholic hepatitis
+4263,Bronchial Asthma
+4264,Fungal infection
+4265,Varicose veins
+4266,Diabetes 
+4267,Acne
+4268,Hepatitis C
+4269,Allergy
+4270,Acne
+4271,Varicose veins
+4272,Diabetes 
+4273,Tuberculosis
+4274,Acne
+4275,Heart attack
+4276,Psoriasis
+4277,Acne
+4278,Impetigo
+4279,Hepatitis C
+4280,Varicose veins
+4281,Psoriasis
+4282,Allergy
+4283,Varicose veins
+4284,Urinary tract infection
+4285,(vertigo) Paroymsal  Positional Vertigo
+4286,Hypertension 
+4287,Hypothyroidism
+4288,Allergy
+4289,Peptic ulcer diseae
+4290,Acne
+4291,Acne
+4292,Urinary tract infection
+4293,Hepatitis C
+4294,Varicose veins
+4295,Varicose veins
+4296,Bronchial Asthma
+4297,Acne
+4298,Acne
+4299,Acne
+4300,Alcoholic hepatitis
+4301,Acne
+4302,Tuberculosis
+4303,Varicose veins
+4304,Hypertension 
+4305,Acne
+4306,Tuberculosis
+4307,Allergy
+4308,Diabetes 
+4309,Allergy
+4310,AIDS
+4311,Hepatitis B
+4312,GERD
+4313,Allergy
+4314,Acne
+4315,Hypoglycemia
+4316,Psoriasis
+4317,Cervical spondylosis
+4318,Hepatitis B
+4319,Hypoglycemia
+4320,Paralysis (brain hemorrhage)
+4321,Allergy
+4322,Dengue
+4323,Acne
+4324,Varicose veins
+4325,Fungal infection
+4326,Hypertension 
+4327,Tuberculosis
+4328,Bronchial Asthma
+4329,Allergy
+4330,Acne
+4331,Varicose veins
+4332,Allergy
+4333,Hypertension 
+4334,Varicose veins
+4335,Acne
+4336,Gastroenteritis
+4337,Migraine
+4338,Malaria
+4339,Allergy
+4340,Allergy
+4341,Hepatitis B
+4342,Acne
+4343,Acne
+4344,AIDS
+4345,Peptic ulcer diseae
+4346,Hypoglycemia
+4347,Osteoarthristis
+4348,(vertigo) Paroymsal  Positional Vertigo
+4349,Dimorphic hemmorhoids(piles)
+4350,Acne
+4351,Acne
+4352,Allergy
+4353,Paralysis (brain hemorrhage)
+4354,Acne
+4355,Acne
+4356,Jaundice
+4357,Allergy
+4358,Allergy
+4359,Impetigo
+4360,Allergy
+4361,Acne
+4362,Gastroenteritis
+4363,Osteoarthristis
+4364,Acne
+4365,Varicose veins
+4366,Varicose veins
+4367,Acne
+4368,Hepatitis D
+4369,Allergy
+4370,Impetigo
+4371,Allergy
+4372,Gastroenteritis
+4373,Acne
+4374,Allergy
+4375,Allergy
+4376,Acne
+4377,Allergy
+4378,Common Cold
+4379,Allergy
+4380,Pneumonia
+4381,Drug Reaction
+4382,Varicose veins
+4383,Psoriasis
+4384,Drug Reaction
+4385,Varicose veins
+4386,Varicose veins
+4387,Drug Reaction
+4388,Cervical spondylosis
+4389,Allergy
+4390,Impetigo
+4391,Tuberculosis
+4392,GERD
+4393,Fungal infection
+4394,Psoriasis
+4395,Varicose veins
+4396,Cervical spondylosis
+4397,Pneumonia
+4398,Heart attack
+4399,Allergy
+4400,Acne
+4401,Acne
+4402,Drug Reaction
+4403,Bronchial Asthma
+4404,Migraine
+4405,Allergy
+4406,GERD
+4407,Fungal infection
+4408,Hypoglycemia
+4409,Pneumonia
+4410,Osteoarthristis
+4411,Drug Reaction
+4412,Varicose veins
+4413,Migraine
+4414,Migraine
+4415,Psoriasis
+4416,Acne
+4417,Chicken pox
+4418,Acne
+4419,Varicose veins
+4420,Acne
+4421,Typhoid
+4422,Common Cold
+4423,Allergy
+4424,Acne
+4425,Varicose veins
+4426,Allergy
+4427,Allergy
+4428,Psoriasis
+4429,Jaundice
+4430,Hyperthyroidism
+4431,Acne
+4432,Allergy
+4433,Varicose veins
+4434,Varicose veins
+4435,Malaria
+4436,AIDS
+4437,Alcoholic hepatitis
+4438,Varicose veins
+4439,Arthritis
+4440,Fungal infection
+4441,Varicose veins
+4442,Acne
+4443,Fungal infection
+4444,Allergy
+4445,Peptic ulcer diseae
+4446,Diabetes 
+4447,Tuberculosis
+4448,Allergy
+4449,Allergy
+4450,Diabetes 
+4451,Varicose veins
+4452,Varicose veins
+4453,Paralysis (brain hemorrhage)
+4454,Migraine
+4455,Allergy
+4456,Allergy
+4457,Migraine
+4458,Allergy
+4459,Allergy
+4460,Allergy
+4461,Acne
+4462,Varicose veins
+4463,Typhoid
+4464,Allergy
+4465,Hepatitis B
+4466,Varicose veins
+4467,Common Cold
+4468,Acne
+4469,Psoriasis
+4470,Common Cold
+4471,Fungal infection
+4472,Paralysis (brain hemorrhage)
+4473,Varicose veins
+4474,Pneumonia
+4475,Allergy
+4476,Hypothyroidism
+4477,Osteoarthristis
+4478,Varicose veins
+4479,Malaria
+4480,Varicose veins
+4481,Allergy
+4482,Hepatitis E
+4483,Allergy
+4484,Psoriasis
+4485,Allergy
+4486,Gastroenteritis
+4487,Malaria
+4488,Varicose veins
+4489,Hepatitis D
+4490,Allergy
+4491,Hepatitis E
+4492,Varicose veins
+4493,Acne
+4494,Varicose veins
+4495,Fungal infection
+4496,Varicose veins
+4497,Dimorphic hemmorhoids(piles)
+4498,Acne
+4499,Acne
+4500,Dimorphic hemmorhoids(piles)
+4501,Varicose veins
+4502,Allergy
+4503,Acne
+4504,(vertigo) Paroymsal  Positional Vertigo
+4505,Varicose veins
+4506,Varicose veins
+4507,AIDS
+4508,Chronic cholestasis
+4509,Allergy
+4510,Tuberculosis
+4511,Allergy
+4512,Allergy
+4513,Allergy
+4514,Bronchial Asthma
+4515,Varicose veins
+4516,Acne
+4517,Allergy
+4518,Hepatitis C
+4519,Allergy
+4520,Malaria
+4521,Hepatitis C
+4522,Hypoglycemia
+4523,Varicose veins
+4524,Dimorphic hemmorhoids(piles)
+4525,Allergy
+4526,Typhoid
+4527,Varicose veins
+4528,Varicose veins
+4529,Allergy
+4530,Acne
+4531,Varicose veins
+4532,Acne
+4533,Fungal infection
+4534,Allergy
+4535,Varicose veins
+4536,Urinary tract infection
+4537,Allergy
+4538,Allergy
+4539,Allergy
+4540,Acne
+4541,Peptic ulcer diseae
+4542,Varicose veins
+4543,Hepatitis B
+4544,Varicose veins
+4545,Bronchial Asthma
+4546,Acne
+4547,Allergy
+4548,Allergy
+4549,Acne
+4550,Bronchial Asthma
+4551,Malaria
+4552,Acne
+4553,Varicose veins
+4554,Varicose veins
+4555,Dimorphic hemmorhoids(piles)
+4556,Varicose veins
+4557,Urinary tract infection
+4558,Acne
+4559,Allergy
+4560,Pneumonia
+4561,Hypoglycemia
+4562,AIDS
+4563,Hepatitis D
+4564,Tuberculosis
+4565,Varicose veins
+4566,Tuberculosis
+4567,Gastroenteritis
+4568,Cervical spondylosis
+4569,Acne
+4570,Varicose veins
+4571,Allergy
+4572,Urinary tract infection
+4573,Paralysis (brain hemorrhage)
+4574,Hypothyroidism
+4575,Typhoid
+4576,Hepatitis E
+4577,Chicken pox
+4578,Acne
+4579,Allergy
+4580,Psoriasis
+4581,Hepatitis E
+4582,Varicose veins
+4583,Allergy
+4584,Varicose veins
+4585,Varicose veins
+4586,Paralysis (brain hemorrhage)
+4587,Hypothyroidism
+4588,Hepatitis E
+4589,hepatitis A
+4590,Hypothyroidism
+4591,Acne
+4592,Varicose veins
+4593,(vertigo) Paroymsal  Positional Vertigo
+4594,Varicose veins
+4595,Acne
+4596,Urinary tract infection
+4597,Acne
+4598,Peptic ulcer diseae
+4599,Drug Reaction
+4600,Allergy
+4601,Alcoholic hepatitis
+4602,Hyperthyroidism
+4603,Impetigo
+4604,Allergy
+4605,Hepatitis D
+4606,Varicose veins
+4607,Bronchial Asthma
+4608,Allergy
+4609,Drug Reaction
+4610,Hypoglycemia
+4611,Drug Reaction
+4612,Varicose veins
+4613,Hepatitis B
+4614,Chicken pox
+4615,Acne
+4616,Dengue
+4617,Varicose veins
+4618,Acne
+4619,Chronic cholestasis
+4620,Allergy
+4621,Hypoglycemia
+4622,Allergy
+4623,Allergy
+4624,Allergy
+4625,Impetigo
+4626,Chronic cholestasis
+4627,Hepatitis D
+4628,Alcoholic hepatitis
+4629,Allergy
+4630,Acne
+4631,Acne
+4632,Tuberculosis
+4633,Arthritis
+4634,Hyperthyroidism
+4635,Hypoglycemia
+4636,Allergy
+4637,Fungal infection
+4638,Acne
+4639,Allergy
+4640,Typhoid
+4641,Allergy
+4642,Paralysis (brain hemorrhage)
+4643,Varicose veins
+4644,Diabetes 
+4645,Varicose veins
+4646,Dimorphic hemmorhoids(piles)
+4647,Allergy
+4648,Allergy
+4649,Acne
+4650,Acne
+4651,Hepatitis E
+4652,Hypertension 
+4653,Varicose veins
+4654,Dimorphic hemmorhoids(piles)
+4655,Acne
+4656,Typhoid
+4657,Fungal infection
+4658,Hepatitis E
+4659,Gastroenteritis
+4660,Acne
+4661,Common Cold
+4662,Acne
+4663,Allergy
+4664,Osteoarthristis
+4665,Varicose veins
+4666,Migraine
+4667,Alcoholic hepatitis
+4668,Varicose veins
+4669,Allergy
+4670,Typhoid
+4671,Diabetes 
+4672,Heart attack
+4673,Allergy
+4674,Dimorphic hemmorhoids(piles)
+4675,Acne
+4676,Allergy
+4677,Drug Reaction
+4678,Pneumonia
+4679,Varicose veins
+4680,Acne
+4681,Fungal infection
+4682,Allergy
+4683,Hypothyroidism
+4684,Fungal infection
+4685,Allergy
+4686,Allergy
+4687,Chronic cholestasis
+4688,Allergy
+4689,Peptic ulcer diseae
+4690,Allergy
+4691,Allergy
+4692,Varicose veins
+4693,Acne
+4694,Fungal infection
+4695,Alcoholic hepatitis
+4696,Allergy
+4697,Hypertension 
+4698,Varicose veins
+4699,Acne
+4700,Acne
+4701,Allergy
+4702,Varicose veins
+4703,Varicose veins
+4704,Acne
+4705,Fungal infection
+4706,Acne
+4707,Allergy
+4708,Dengue
+4709,Allergy
+4710,Hepatitis E
+4711,Arthritis
+4712,Allergy
+4713,Dimorphic hemmorhoids(piles)
+4714,Varicose veins
+4715,Chronic cholestasis
+4716,Varicose veins
+4717,Jaundice
+4718,Allergy
+4719,Acne
+4720,Allergy
+4721,Acne
+4722,Chronic cholestasis
+4723,Allergy
+4724,Allergy
+4725,Allergy
+4726,Acne
+4727,Chronic cholestasis
+4728,Acne
+4729,Allergy
+4730,Varicose veins
+4731,Allergy
+4732,Allergy
+4733,Gastroenteritis
+4734,Osteoarthristis
+4735,Acne
+4736,Alcoholic hepatitis
+4737,Allergy
+4738,Hepatitis C
+4739,Migraine
+4740,Malaria
+4741,Urinary tract infection
+4742,Varicose veins
+4743,Peptic ulcer diseae
+4744,Varicose veins
+4745,Allergy
+4746,AIDS
+4747,Acne
+4748,AIDS
+4749,Acne
+4750,Paralysis (brain hemorrhage)
+4751,Varicose veins
+4752,Malaria
+4753,Acne
+4754,(vertigo) Paroymsal  Positional Vertigo
+4755,Varicose veins
+4756,Acne
+4757,Common Cold
+4758,Varicose veins
+4759,Bronchial Asthma
+4760,Varicose veins
+4761,Varicose veins
+4762,Chronic cholestasis
+4763,Varicose veins
+4764,Varicose veins
+4765,Heart attack
+4766,Hypertension 
+4767,Allergy
+4768,Allergy
+4769,Allergy
+4770,Acne
+4771,Varicose veins
+4772,Gastroenteritis
+4773,Hypoglycemia
+4774,Varicose veins
+4775,Acne
+4776,Drug Reaction
+4777,(vertigo) Paroymsal  Positional Vertigo
+4778,Varicose veins
+4779,Hyperthyroidism
+4780,Peptic ulcer diseae
+4781,Alcoholic hepatitis
+4782,Allergy
+4783,Paralysis (brain hemorrhage)
+4784,Varicose veins
+4785,Chronic cholestasis
+4786,Acne
+4787,Varicose veins
+4788,Allergy
+4789,Allergy
+4790,Allergy
+4791,AIDS
+4792,Allergy
+4793,Dengue
+4794,Tuberculosis
+4795,Allergy
+4796,Migraine
+4797,Chicken pox
+4798,Dengue
+4799,Varicose veins
+4800,Paralysis (brain hemorrhage)
+4801,Varicose veins
+4802,Osteoarthristis
+4803,Drug Reaction
+4804,Acne
+4805,Acne
+4806,Acne
+4807,Allergy
+4808,AIDS
+4809,Heart attack
+4810,Hypothyroidism
+4811,Allergy
+4812,Allergy
+4813,Varicose veins
+4814,Tuberculosis
+4815,Hyperthyroidism
+4816,Varicose veins
+4817,Psoriasis
+4818,Allergy
+4819,hepatitis A
+4820,Allergy
+4821,Allergy
+4822,Varicose veins
+4823,Varicose veins
+4824,Acne
+4825,Gastroenteritis
+4826,Bronchial Asthma
+4827,Pneumonia
+4828,Paralysis (brain hemorrhage)
+4829,Allergy
+4830,Allergy
+4831,Gastroenteritis
+4832,Chicken pox
+4833,Typhoid
+4834,Varicose veins
+4835,Allergy
+4836,Varicose veins
+4837,Psoriasis
+4838,Varicose veins
+4839,Allergy
+4840,Allergy
+4841,Varicose veins
+4842,Pneumonia
+4843,Hepatitis B
+4844,Acne
+4845,Allergy
+4846,Acne
+4847,Acne
+4848,Migraine
+4849,Allergy
+4850,Dengue
+4851,Allergy
+4852,Allergy
+4853,Allergy
+4854,Peptic ulcer diseae
+4855,GERD
+4856,Osteoarthristis
+4857,Chronic cholestasis
+4858,Diabetes 
+4859,Allergy
+4860,Acne
+4861,Acne
+4862,Pneumonia
+4863,Hypothyroidism
+4864,Migraine
+4865,AIDS
+4866,Acne
+4867,Arthritis
+4868,Malaria
+4869,Osteoarthristis
+4870,Acne
+4871,Cervical spondylosis
+4872,Allergy
+4873,Malaria
+4874,Varicose veins
+4875,Allergy
+4876,hepatitis A
+4877,GERD
+4878,Fungal infection
+4879,Allergy
+4880,Allergy
+4881,Acne
+4882,Hepatitis B
+4883,Acne
+4884,Varicose veins
+4885,Varicose veins
+4886,Dimorphic hemmorhoids(piles)
+4887,Allergy
+4888,AIDS
+4889,Allergy
+4890,Acne
+4891,Allergy
+4892,Arthritis
+4893,Allergy
+4894,Dimorphic hemmorhoids(piles)
+4895,hepatitis A
+4896,Allergy
+4897,Acne
+4898,Allergy
+4899,Varicose veins
+4900,Drug Reaction
+4901,Cervical spondylosis
+4902,Varicose veins
+4903,Varicose veins
+4904,GERD
+4905,Chronic cholestasis
+4906,Acne
+4907,Hepatitis E
+4908,Urinary tract infection
+4909,Hepatitis C
+4910,Common Cold
+4911,Acne
+4912,Allergy
+4913,Allergy
+4914,Dengue
+4915,Acne
+4916,hepatitis A
+4917,Hypoglycemia
+4918,Varicose veins
+4919,Dengue
+4920,Allergy
+4921,Acne
+4922,Dimorphic hemmorhoids(piles)
+4923,Diabetes 
+4924,Common Cold
+4925,Acne
+4926,Acne
+4927,Hepatitis D
+4928,Chronic cholestasis
+4929,Bronchial Asthma
+4930,Hypertension 
+4931,Impetigo
+4932,Hyperthyroidism
+4933,Varicose veins
+4934,Cervical spondylosis
+4935,Allergy
+4936,Hyperthyroidism
+4937,Gastroenteritis
+4938,Malaria
+4939,Allergy
+4940,Allergy
+4941,Acne
+4942,Acne
+4943,Pneumonia
+4944,Fungal infection
+4945,Chronic cholestasis
+4946,Malaria
+4947,Jaundice
+4948,Peptic ulcer diseae
+4949,Allergy
+4950,Allergy
+4951,Typhoid
+4952,Allergy
+4953,Varicose veins
+4954,Allergy
+4955,Varicose veins
+4956,Jaundice
+4957,Hepatitis E
+4958,Varicose veins
+4959,Hypertension 
+4960,Fungal infection
+4961,Hepatitis B
+4962,Impetigo
+4963,Allergy
+4964,Typhoid
+4965,Allergy
+4966,Varicose veins
+4967,Diabetes 
+4968,Varicose veins
+4969,Diabetes 
+4970,Acne
+4971,Allergy
+4972,Allergy
+4973,Bronchial Asthma
+4974,Varicose veins
+4975,Varicose veins
+4976,Allergy
+4977,Hyperthyroidism
+4978,Peptic ulcer diseae
+4979,Acne
+4980,Acne
+4981,Acne
+4982,Tuberculosis
+4983,hepatitis A
+4984,Acne
+4985,Cervical spondylosis
+4986,Migraine
+4987,Varicose veins
+4988,Paralysis (brain hemorrhage)
+4989,Allergy
+4990,Varicose veins
+4991,Drug Reaction
+4992,Varicose veins
+4993,AIDS
+4994,Acne
+4995,Common Cold
+4996,Migraine
+4997,Acne
+4998,Allergy
+4999,Pneumonia
+5000,Acne
+5001,Malaria
+5002,Allergy
+5003,Acne
+5004,Allergy
+5005,Tuberculosis
+5006,Hypertension 
+5007,Allergy
+5008,Alcoholic hepatitis
+5009,Varicose veins
+5010,(vertigo) Paroymsal  Positional Vertigo
+5011,Acne
+5012,Allergy
+5013,AIDS
+5014,Fungal infection
+5015,Varicose veins
+5016,Allergy
+5017,Allergy
+5018,Allergy
+5019,Varicose veins
+5020,Allergy
+5021,Jaundice
+5022,Paralysis (brain hemorrhage)
+5023,Acne
+5024,Dengue
+5025,Common Cold
+5026,Drug Reaction
+5027,Acne
+5028,Varicose veins
+5029,Allergy
+5030,Allergy
+5031,Paralysis (brain hemorrhage)
+5032,Varicose veins
+5033,Varicose veins
+5034,Varicose veins
+5035,Allergy
+5036,Varicose veins
+5037,Acne
+5038,Varicose veins
+5039,Varicose veins
+5040,Osteoarthristis
+5041,Acne
+5042,Varicose veins
+5043,Drug Reaction
+5044,Allergy
+5045,Acne
+5046,Varicose veins
+5047,Acne
+5048,Allergy
+5049,Drug Reaction
+5050,Chicken pox
+5051,Heart attack
+5052,Allergy
+5053,Acne
+5054,Varicose veins
+5055,Hypothyroidism
+5056,Common Cold
+5057,Dimorphic hemmorhoids(piles)
+5058,Allergy
+5059,Allergy
+5060,Acne
+5061,Dengue
+5062,Tuberculosis
+5063,Acne
+5064,Allergy
+5065,hepatitis A
+5066,Migraine
+5067,Heart attack
+5068,(vertigo) Paroymsal  Positional Vertigo
+5069,GERD
+5070,Acne
+5071,AIDS
+5072,Allergy
+5073,Hepatitis E
+5074,Urinary tract infection
+5075,Varicose veins
+5076,Fungal infection
+5077,Peptic ulcer diseae
+5078,Gastroenteritis
+5079,Acne
+5080,Peptic ulcer diseae
+5081,Hepatitis E
+5082,Dengue
+5083,Drug Reaction
+5084,Osteoarthristis
+5085,Allergy
+5086,Hypothyroidism
+5087,Hyperthyroidism
+5088,Alcoholic hepatitis
+5089,Arthritis
+5090,hepatitis A
+5091,Allergy
+5092,Acne
+5093,Varicose veins
+5094,Acne
+5095,Osteoarthristis
+5096,Hepatitis B
+5097,Acne
+5098,Chicken pox
+5099,Hyperthyroidism
+5100,Allergy
+5101,Allergy
+5102,Varicose veins
+5103,Allergy
+5104,Acne
+5105,Allergy
+5106,Chronic cholestasis
+5107,Alcoholic hepatitis
+5108,Gastroenteritis
+5109,Allergy
+5110,Acne
+5111,Acne
+5112,Allergy
+5113,Common Cold
+5114,(vertigo) Paroymsal  Positional Vertigo
+5115,Acne
+5116,Hepatitis D
+5117,Drug Reaction
+5118,Allergy
+5119,Tuberculosis
+5120,Acne
+5121,Varicose veins
+5122,Allergy
+5123,Allergy
+5124,Dengue
+5125,Acne
+5126,Allergy
+5127,Hypothyroidism
+5128,Varicose veins
+5129,Allergy
+5130,Hypertension 
+5131,Varicose veins
+5132,Varicose veins
+5133,Acne
+5134,Acne
+5135,Fungal infection
+5136,Allergy
+5137,Pneumonia
+5138,Acne
+5139,Migraine
+5140,Varicose veins
+5141,Fungal infection
+5142,Hepatitis D
+5143,Allergy
+5144,Hypoglycemia
+5145,Allergy
+5146,Hyperthyroidism
+5147,Chronic cholestasis
+5148,(vertigo) Paroymsal  Positional Vertigo
+5149,Chicken pox
+5150,Allergy
+5151,Hepatitis B
+5152,Varicose veins
+5153,Hypoglycemia
+5154,Varicose veins
+5155,GERD
+5156,Dimorphic hemmorhoids(piles)
+5157,Allergy
+5158,Bronchial Asthma
+5159,Allergy
+5160,Hepatitis C
+5161,Acne
+5162,Alcoholic hepatitis
+5163,(vertigo) Paroymsal  Positional Vertigo
+5164,Drug Reaction
+5165,Allergy
+5166,Allergy
+5167,Acne
+5168,Varicose veins
+5169,Varicose veins
+5170,Varicose veins
+5171,Hypothyroidism
+5172,Fungal infection
+5173,Migraine
+5174,Malaria
+5175,Allergy
+5176,Fungal infection
+5177,Varicose veins
+5178,Varicose veins
+5179,Psoriasis
+5180,Acne
+5181,Acne
+5182,Varicose veins
+5183,Hypoglycemia
+5184,Hypoglycemia
+5185,Acne
+5186,Allergy
+5187,Alcoholic hepatitis
+5188,Varicose veins
+5189,Urinary tract infection
+5190,Acne
+5191,Allergy
+5192,Bronchial Asthma
+5193,Allergy
+5194,Allergy
+5195,Allergy
+5196,GERD
+5197,Varicose veins
+5198,Hepatitis C
+5199,Varicose veins
+5200,Acne
+5201,GERD
+5202,GERD
+5203,Allergy
+5204,Varicose veins
+5205,Allergy
+5206,Varicose veins
+5207,Allergy
+5208,Varicose veins
+5209,Allergy
+5210,Varicose veins
+5211,Varicose veins
+5212,Osteoarthristis
+5213,Hepatitis B
+5214,Allergy
+5215,Jaundice
+5216,Fungal infection
+5217,Dengue
+5218,Varicose veins
+5219,Hypertension 
+5220,Allergy
+5221,Drug Reaction
+5222,Hyperthyroidism
+5223,Acne
+5224,Drug Reaction
+5225,Allergy
+5226,Varicose veins
+5227,Varicose veins
+5228,Acne
+5229,GERD
+5230,Allergy
+5231,Acne
+5232,Acne
+5233,Allergy
+5234,Varicose veins
+5235,Hyperthyroidism
+5236,hepatitis A
+5237,Allergy
+5238,Allergy
+5239,Allergy
+5240,Varicose veins
+5241,Common Cold
+5242,Varicose veins
+5243,Drug Reaction
+5244,Drug Reaction
+5245,Osteoarthristis
+5246,Varicose veins
+5247,Allergy
+5248,Allergy
+5249,Hypertension 
+5250,Acne
+5251,Allergy
+5252,Hypothyroidism
+5253,Hypothyroidism
+5254,Varicose veins
+5255,Common Cold
+5256,Impetigo
+5257,Fungal infection
+5258,Urinary tract infection
+5259,Allergy
+5260,Varicose veins
+5261,Allergy
+5262,GERD
+5263,Chronic cholestasis
+5264,Hepatitis E
+5265,Allergy
+5266,Bronchial Asthma
+5267,Varicose veins
+5268,Psoriasis
+5269,Acne
+5270,Osteoarthristis
+5271,Acne
+5272,Hyperthyroidism
+5273,Paralysis (brain hemorrhage)
+5274,Malaria
+5275,Acne
+5276,Acne
+5277,Migraine
+5278,(vertigo) Paroymsal  Positional Vertigo
+5279,Acne
+5280,Varicose veins
+5281,Hepatitis D
+5282,Osteoarthristis
+5283,Varicose veins
+5284,Varicose veins
+5285,Hypoglycemia
+5286,Dimorphic hemmorhoids(piles)
+5287,Allergy
+5288,Varicose veins
+5289,Cervical spondylosis
+5290,Hypoglycemia
+5291,Hepatitis C
+5292,Allergy
+5293,Heart attack
+5294,Pneumonia
+5295,Jaundice
+5296,Dengue
+5297,Varicose veins
+5298,Gastroenteritis
+5299,Acne
+5300,Hepatitis E
+5301,Psoriasis
+5302,Allergy
+5303,Impetigo
+5304,Acne
+5305,Heart attack
+5306,Allergy
+5307,Alcoholic hepatitis
+5308,Peptic ulcer diseae
+5309,Varicose veins
+5310,Gastroenteritis
+5311,Acne
+5312,Chicken pox
+5313,Acne
+5314,Allergy
+5315,Acne
+5316,Allergy
+5317,Allergy
+5318,Fungal infection
+5319,GERD
+5320,Allergy
+5321,Allergy
+5322,Acne
+5323,Hepatitis B
+5324,Acne
+5325,Varicose veins
+5326,Acne
+5327,Hypertension 
+5328,Malaria
+5329,Varicose veins
+5330,Varicose veins
+5331,Varicose veins
+5332,Allergy
+5333,Cervical spondylosis
+5334,Varicose veins
+5335,Acne
+5336,Cervical spondylosis
+5337,Allergy
+5338,Acne
+5339,Allergy
+5340,Varicose veins
+5341,Allergy
+5342,Acne
+5343,Chicken pox
+5344,Varicose veins
+5345,hepatitis A
+5346,Acne
+5347,Varicose veins
+5348,Hypertension 
+5349,Acne
+5350,Varicose veins
+5351,Pneumonia
+5352,Migraine
+5353,Varicose veins
+5354,AIDS
+5355,Hepatitis D
+5356,Acne
+5357,Alcoholic hepatitis
+5358,Malaria
+5359,Varicose veins
+5360,Allergy
+5361,Allergy
+5362,Acne
+5363,Alcoholic hepatitis
+5364,Allergy
+5365,Bronchial Asthma
+5366,Allergy
+5367,Allergy
+5368,Fungal infection
+5369,Varicose veins
+5370,Varicose veins
+5371,Heart attack
+5372,Chronic cholestasis
+5373,Allergy
+5374,Allergy
+5375,Varicose veins
+5376,Allergy
+5377,Allergy
+5378,Acne
+5379,Hepatitis C
+5380,Allergy
+5381,Acne
+5382,Varicose veins
+5383,Allergy
+5384,Hepatitis D
+5385,Varicose veins
+5386,Allergy
+5387,Jaundice
+5388,Acne
+5389,Diabetes 
+5390,Alcoholic hepatitis
+5391,Gastroenteritis
+5392,Dengue
+5393,Chicken pox
+5394,AIDS
+5395,Varicose veins
+5396,Hepatitis C
+5397,Varicose veins
+5398,Acne
+5399,Varicose veins
+5400,Hepatitis B
+5401,Diabetes 
+5402,Allergy
+5403,Chronic cholestasis
+5404,Acne
+5405,Varicose veins
+5406,Osteoarthristis
+5407,Dimorphic hemmorhoids(piles)
+5408,Dimorphic hemmorhoids(piles)
+5409,Varicose veins
+5410,Varicose veins
+5411,Typhoid
+5412,Psoriasis
+5413,Allergy
+5414,Allergy
+5415,Hypothyroidism
+5416,Common Cold
+5417,Varicose veins
+5418,Gastroenteritis
+5419,Acne
+5420,Varicose veins
+5421,Allergy
+5422,Allergy
+5423,Hepatitis E
+5424,Hypertension 
+5425,Allergy
+5426,Hyperthyroidism
+5427,(vertigo) Paroymsal  Positional Vertigo
+5428,Common Cold
+5429,Jaundice
+5430,Hepatitis C
+5431,Varicose veins
+5432,Drug Reaction
+5433,Varicose veins
+5434,Allergy
+5435,Varicose veins
+5436,Allergy
+5437,GERD
+5438,Alcoholic hepatitis
+5439,Peptic ulcer diseae
+5440,Chronic cholestasis
+5441,Acne
+5442,Peptic ulcer diseae
+5443,Dengue
+5444,Diabetes 
+5445,Allergy
+5446,Peptic ulcer diseae
+5447,Varicose veins
+5448,Drug Reaction
+5449,hepatitis A
+5450,Impetigo
+5451,Varicose veins
+5452,Osteoarthristis
+5453,Chronic cholestasis
+5454,Alcoholic hepatitis
+5455,Allergy
+5456,Hyperthyroidism
+5457,Hypothyroidism
+5458,Typhoid
+5459,Acne
+5460,Acne
+5461,Varicose veins
+5462,Acne
+5463,Impetigo
+5464,Malaria
+5465,Varicose veins
+5466,Bronchial Asthma
+5467,Osteoarthristis
+5468,Hypertension 
+5469,Varicose veins
+5470,Acne
+5471,Psoriasis
+5472,Typhoid
+5473,Dengue
+5474,Hepatitis B
+5475,Allergy
+5476,Dengue
+5477,Allergy
+5478,Varicose veins
+5479,Allergy
+5480,Fungal infection
+5481,Varicose veins
+5482,Hypoglycemia
+5483,Dengue
+5484,Acne
+5485,Varicose veins
+5486,Varicose veins
+5487,Varicose veins
+5488,Hepatitis E
+5489,Allergy
+5490,Acne
+5491,Allergy
+5492,Drug Reaction
+5493,Allergy
+5494,Urinary tract infection
+5495,Acne
+5496,Allergy
+5497,Varicose veins
+5498,Acne
+5499,Hepatitis E
+5500,Varicose veins
+5501,Acne
+5502,Allergy
+5503,Allergy
+5504,Chicken pox
+5505,Hypertension 
+5506,Varicose veins
+5507,Allergy
+5508,Acne
+5509,Allergy
+5510,Dengue
+5511,Allergy
+5512,Heart attack
+5513,Allergy
+5514,Urinary tract infection
+5515,Varicose veins
+5516,Fungal infection
+5517,hepatitis A
+5518,Diabetes 
+5519,Varicose veins
+5520,Acne
+5521,Allergy
+5522,Dimorphic hemmorhoids(piles)
+5523,Malaria
+5524,Acne
+5525,Varicose veins
+5526,Allergy
+5527,Allergy
+5528,Cervical spondylosis
+5529,Psoriasis
+5530,Acne
+5531,Dengue
+5532,Acne
+5533,Allergy
+5534,Allergy
+5535,Heart attack
+5536,Acne
+5537,Acne
+5538,Varicose veins
+5539,Impetigo
+5540,Acne
+5541,Allergy
+5542,Hypertension 
+5543,Acne
+5544,Gastroenteritis
+5545,Varicose veins
+5546,Acne
+5547,Peptic ulcer diseae
+5548,Allergy
+5549,Acne
+5550,Hepatitis C
+5551,Acne
+5552,Allergy
+5553,Varicose veins
+5554,Allergy
+5555,Gastroenteritis
+5556,Allergy
+5557,Typhoid
+5558,Varicose veins
+5559,Allergy
+5560,Hepatitis E
+5561,Hypothyroidism
+5562,Hepatitis B
+5563,Varicose veins
+5564,Allergy
+5565,Acne
+5566,Allergy
+5567,Varicose veins
+5568,Hypoglycemia
+5569,Acne
+5570,Acne
+5571,Hepatitis E
+5572,Allergy
+5573,Varicose veins
+5574,Allergy
+5575,Hepatitis B
+5576,Fungal infection
+5577,Varicose veins
+5578,Arthritis
+5579,Dimorphic hemmorhoids(piles)
+5580,Acne
+5581,Acne
+5582,Varicose veins
+5583,Typhoid
+5584,Allergy
+5585,Fungal infection
+5586,Allergy
+5587,Diabetes 
+5588,Alcoholic hepatitis
+5589,Varicose veins
+5590,Allergy
+5591,Acne
+5592,Tuberculosis
+5593,Migraine
+5594,Allergy
+5595,Acne
+5596,Acne
+5597,Chicken pox
+5598,Hypoglycemia
+5599,Arthritis
+5600,Acne
+5601,Paralysis (brain hemorrhage)
+5602,Hypothyroidism
+5603,Hepatitis E
+5604,Varicose veins
+5605,Dengue
+5606,hepatitis A
+5607,Migraine
+5608,Diabetes 
+5609,Allergy
+5610,Acne
+5611,Hepatitis B
+5612,Allergy
+5613,Hypoglycemia
+5614,hepatitis A
+5615,Acne
+5616,Varicose veins
+5617,Psoriasis
+5618,Bronchial Asthma
+5619,Acne
+5620,Varicose veins
+5621,Hepatitis D
+5622,Acne
+5623,Allergy
+5624,Hypoglycemia
+5625,Allergy
+5626,Osteoarthristis
+5627,Allergy
+5628,Pneumonia
+5629,Allergy
+5630,Allergy
+5631,Hepatitis C
+5632,Dimorphic hemmorhoids(piles)
+5633,Varicose veins
+5634,Varicose veins
+5635,Alcoholic hepatitis
+5636,Dimorphic hemmorhoids(piles)
+5637,AIDS
+5638,Fungal infection
+5639,Osteoarthristis
+5640,Common Cold
+5641,Allergy
+5642,Peptic ulcer diseae
+5643,Alcoholic hepatitis
+5644,Allergy
+5645,Allergy
+5646,Varicose veins
+5647,Acne
+5648,Psoriasis
+5649,Jaundice
+5650,Heart attack
+5651,hepatitis A
+5652,Typhoid
+5653,Allergy
+5654,Urinary tract infection
+5655,Varicose veins
+5656,Bronchial Asthma
+5657,Fungal infection
+5658,Varicose veins
+5659,Allergy
+5660,Acne
+5661,Acne
+5662,Heart attack
+5663,Drug Reaction
+5664,Varicose veins
+5665,Varicose veins
+5666,Cervical spondylosis
+5667,Acne
+5668,Allergy
+5669,Acne
+5670,Acne
+5671,Peptic ulcer diseae
+5672,Cervical spondylosis
+5673,Bronchial Asthma
+5674,Allergy
+5675,Hepatitis E
+5676,Allergy
+5677,Hepatitis C
+5678,Common Cold
+5679,Common Cold
+5680,Allergy
+5681,Allergy
+5682,Migraine
+5683,Allergy
+5684,Pneumonia
+5685,Dimorphic hemmorhoids(piles)
+5686,Alcoholic hepatitis
+5687,Allergy
+5688,AIDS
+5689,Chronic cholestasis
+5690,Varicose veins
+5691,Allergy
+5692,Impetigo
+5693,Acne
+5694,Varicose veins
+5695,Acne
+5696,Acne
+5697,Malaria
+5698,Varicose veins
+5699,Allergy
+5700,Acne
+5701,Diabetes 
+5702,Varicose veins
+5703,Acne
+5704,Jaundice
+5705,Cervical spondylosis
+5706,Allergy
+5707,Acne
+5708,Tuberculosis
+5709,Alcoholic hepatitis
+5710,Acne
+5711,Varicose veins
+5712,Allergy
+5713,Cervical spondylosis
+5714,Acne
+5715,Hypoglycemia
+5716,Allergy
+5717,Acne
+5718,Allergy
+5719,Varicose veins
+5720,Acne
+5721,Acne
+5722,Varicose veins
+5723,Varicose veins
+5724,Chicken pox
+5725,Hepatitis D
+5726,Bronchial Asthma
+5727,Acne
+5728,Peptic ulcer diseae
+5729,Acne
+5730,Allergy
+5731,Varicose veins
+5732,Allergy
+5733,Hepatitis D
+5734,Heart attack
+5735,Allergy
+5736,Jaundice
+5737,Peptic ulcer diseae
+5738,Varicose veins
+5739,Malaria
+5740,Fungal infection
+5741,Varicose veins
+5742,Varicose veins
+5743,Varicose veins
+5744,Acne
+5745,Varicose veins
+5746,Gastroenteritis
+5747,Hepatitis B
+5748,Chronic cholestasis
+5749,Acne
+5750,Acne
+5751,Allergy
+5752,Allergy
+5753,Varicose veins
+5754,Hepatitis E
+5755,Varicose veins
+5756,Allergy
+5757,Paralysis (brain hemorrhage)
+5758,Allergy
+5759,Psoriasis
+5760,Varicose veins
+5761,Gastroenteritis
+5762,Alcoholic hepatitis
+5763,Cervical spondylosis
+5764,Peptic ulcer diseae
+5765,Allergy
+5766,Allergy
+5767,Acne
+5768,Hyperthyroidism
+5769,Allergy
+5770,(vertigo) Paroymsal  Positional Vertigo
+5771,Pneumonia
+5772,Varicose veins
+5773,(vertigo) Paroymsal  Positional Vertigo
+5774,Hypertension 
+5775,Malaria
+5776,Diabetes 
+5777,Allergy
+5778,Hyperthyroidism
+5779,Acne
+5780,Allergy
+5781,Acne
+5782,Gastroenteritis
+5783,Chicken pox
+5784,Hypoglycemia
+5785,Varicose veins
+5786,Diabetes 
+5787,Impetigo
+5788,Varicose veins
+5789,Allergy
+5790,hepatitis A
+5791,Allergy
+5792,Allergy
+5793,Acne
+5794,Acne
+5795,Varicose veins
+5796,Allergy
+5797,Psoriasis
+5798,GERD
+5799,Varicose veins
+5800,Migraine
+5801,Allergy
+5802,Urinary tract infection
+5803,Acne
+5804,Varicose veins
+5805,Allergy
+5806,Acne
+5807,Urinary tract infection
+5808,Hypothyroidism
+5809,Osteoarthristis
+5810,(vertigo) Paroymsal  Positional Vertigo
+5811,Gastroenteritis
+5812,Varicose veins
+5813,GERD
+5814,Allergy
+5815,Paralysis (brain hemorrhage)
+5816,GERD
+5817,Dimorphic hemmorhoids(piles)
+5818,Allergy
+5819,Dimorphic hemmorhoids(piles)
+5820,Common Cold
+5821,Common Cold
+5822,Varicose veins
+5823,Pneumonia
+5824,Acne
+5825,Allergy
+5826,Pneumonia
+5827,Allergy
+5828,Jaundice
+5829,Dengue
+5830,hepatitis A
+5831,Arthritis
+5832,Acne
+5833,Varicose veins
+5834,Urinary tract infection
+5835,Malaria
+5836,Hepatitis C
+5837,Migraine
+5838,Acne
+5839,Dengue
+5840,Acne
+5841,Acne
+5842,Psoriasis
+5843,Acne
+5844,hepatitis A
+5845,Allergy
+5846,Chicken pox
+5847,Allergy
+5848,Cervical spondylosis
+5849,Chicken pox
+5850,Dengue
+5851,Hypothyroidism
+5852,Varicose veins
+5853,Urinary tract infection
+5854,Chicken pox
+5855,Typhoid
+5856,Chicken pox
+5857,Varicose veins
+5858,Varicose veins
+5859,Acne
+5860,Acne
+5861,Hypothyroidism
+5862,Allergy
+5863,Diabetes 
+5864,Acne
+5865,Acne
+5866,(vertigo) Paroymsal  Positional Vertigo
+5867,Allergy
+5868,Heart attack
+5869,Varicose veins
+5870,Varicose veins
+5871,Allergy
+5872,Common Cold
+5873,Acne
+5874,hepatitis A
+5875,Acne
+5876,Fungal infection
+5877,Varicose veins
+5878,Varicose veins
+5879,Bronchial Asthma
+5880,Acne
+5881,Varicose veins
+5882,Hepatitis B
+5883,Allergy
+5884,Alcoholic hepatitis
+5885,Fungal infection
+5886,Acne
+5887,Hyperthyroidism
+5888,Acne
+5889,Gastroenteritis
+5890,Allergy
+5891,Pneumonia
+5892,Tuberculosis
+5893,Diabetes 
+5894,Varicose veins
+5895,Hypoglycemia
+5896,hepatitis A
+5897,Varicose veins
+5898,Acne
+5899,Hepatitis B
+5900,Chronic cholestasis
+5901,Varicose veins
+5902,Allergy
+5903,Acne
+5904,Acne
+5905,Hyperthyroidism
+5906,Dimorphic hemmorhoids(piles)
+5907,Acne
+5908,Allergy
+5909,Bronchial Asthma
+5910,Acne
+5911,Fungal infection
+5912,GERD
+5913,Impetigo
+5914,Bronchial Asthma
+5915,Varicose veins
+5916,Allergy
+5917,Acne
+5918,AIDS
+5919,Malaria
+5920,Allergy
+5921,Acne
+5922,Acne
+5923,Acne
+5924,Allergy
+5925,Allergy
+5926,Acne
+5927,Varicose veins
+5928,Allergy
+5929,Allergy
+5930,Diabetes 
+5931,Acne
+5932,Jaundice
+5933,Common Cold
+5934,Hepatitis D
+5935,Hepatitis B
+5936,Varicose veins
+5937,Hepatitis B
+5938,Varicose veins
+5939,Common Cold
+5940,Varicose veins
+5941,Varicose veins
+5942,Varicose veins
+5943,Cervical spondylosis
+5944,Varicose veins
+5945,Varicose veins
+5946,Allergy
+5947,Allergy
+5948,Impetigo
+5949,Osteoarthristis
+5950,AIDS
+5951,Peptic ulcer diseae
+5952,Tuberculosis
+5953,GERD
+5954,Hypertension 
+5955,Varicose veins
+5956,Cervical spondylosis
+5957,Diabetes 
+5958,Hypertension 
+5959,Allergy
+5960,Hypertension 
+5961,GERD
+5962,Drug Reaction
+5963,hepatitis A
+5964,Acne
+5965,Allergy
+5966,Drug Reaction
+5967,Allergy
+5968,Varicose veins
+5969,Varicose veins
+5970,Varicose veins
+5971,Hypertension 
+5972,Osteoarthristis
+5973,Varicose veins
+5974,Varicose veins
+5975,Allergy
+5976,Allergy
+5977,Tuberculosis
+5978,Impetigo
+5979,Acne
+5980,Acne
+5981,Cervical spondylosis
+5982,Acne
+5983,Acne
+5984,Chronic cholestasis
+5985,Acne
+5986,AIDS
+5987,Jaundice
+5988,Allergy
+5989,Typhoid
+5990,Hepatitis D
+5991,Allergy
+5992,Varicose veins
+5993,Heart attack
+5994,Allergy
+5995,Migraine
+5996,Hepatitis E
+5997,Acne
+5998,AIDS
+5999,Allergy
+6000,Allergy
+6001,Jaundice
+6002,Common Cold
+6003,Peptic ulcer diseae
+6004,Peptic ulcer diseae
+6005,Acne
+6006,Acne
+6007,Hepatitis C
+6008,Urinary tract infection
+6009,Osteoarthristis
+6010,Allergy
+6011,Varicose veins
+6012,Hypertension 
+6013,Allergy
+6014,Allergy
+6015,Psoriasis
+6016,Allergy
+6017,Varicose veins
+6018,Chicken pox
+6019,Varicose veins
+6020,Malaria
+6021,Varicose veins
+6022,Heart attack
+6023,Varicose veins
+6024,Pneumonia
+6025,Fungal infection
+6026,Hepatitis B
+6027,Acne
+6028,Allergy
+6029,Varicose veins
+6030,Jaundice
+6031,Varicose veins
+6032,Hypothyroidism
+6033,Allergy
+6034,Diabetes 
+6035,Acne
+6036,Allergy
+6037,Acne
+6038,Varicose veins
+6039,Allergy
+6040,Allergy
+6041,Varicose veins
+6042,Varicose veins
+6043,Allergy
+6044,Acne
+6045,hepatitis A
+6046,Acne
+6047,Acne
+6048,hepatitis A
+6049,Bronchial Asthma
+6050,Malaria
+6051,Varicose veins
+6052,Cervical spondylosis
+6053,Impetigo
+6054,Dengue
+6055,Allergy
+6056,Alcoholic hepatitis
+6057,Acne
+6058,Alcoholic hepatitis
+6059,Allergy
+6060,(vertigo) Paroymsal  Positional Vertigo
+6061,Hepatitis D
+6062,Allergy
+6063,Hyperthyroidism
+6064,Paralysis (brain hemorrhage)
+6065,Varicose veins
+6066,Chronic cholestasis
+6067,Chronic cholestasis
+6068,Allergy
+6069,Allergy
+6070,Dimorphic hemmorhoids(piles)
+6071,Gastroenteritis
+6072,Allergy
+6073,Jaundice
+6074,Acne
+6075,Allergy
+6076,Chronic cholestasis
+6077,Chicken pox
+6078,Hypoglycemia
+6079,Acne
+6080,Diabetes 
+6081,Hypertension 
+6082,Peptic ulcer diseae
+6083,Hypothyroidism
+6084,Hepatitis C
+6085,Varicose veins
+6086,Allergy
+6087,Varicose veins
+6088,Allergy
+6089,Allergy
+6090,Varicose veins
+6091,Hypertension 
+6092,Allergy
+6093,GERD
+6094,Acne
+6095,Varicose veins
+6096,Peptic ulcer diseae
+6097,Hepatitis D
+6098,Pneumonia
+6099,Acne
+6100,Bronchial Asthma
+6101,Allergy
+6102,hepatitis A
+6103,Acne
+6104,Pneumonia
+6105,Varicose veins
+6106,Malaria
+6107,Hypoglycemia
+6108,Allergy
+6109,Allergy
+6110,Dimorphic hemmorhoids(piles)
+6111,Dimorphic hemmorhoids(piles)
+6112,Pneumonia
+6113,Hypertension 
+6114,Acne
+6115,Allergy
+6116,Acne
+6117,Varicose veins
+6118,Acne
+6119,Acne
+6120,Acne
+6121,Psoriasis
+6122,Allergy
+6123,Allergy
+6124,Acne
+6125,Acne
+6126,Fungal infection
+6127,Paralysis (brain hemorrhage)
+6128,Dimorphic hemmorhoids(piles)
+6129,Fungal infection
+6130,Malaria
+6131,Hypothyroidism
+6132,Acne
+6133,Fungal infection
+6134,Varicose veins
+6135,Alcoholic hepatitis
+6136,Acne
+6137,Heart attack
+6138,Common Cold
+6139,Allergy
+6140,Varicose veins
+6141,Hepatitis C
+6142,Allergy
+6143,Hepatitis B
+6144,Hepatitis E
+6145,GERD
+6146,Impetigo
+6147,Allergy
+6148,Allergy
+6149,Urinary tract infection
+6150,Acne
+6151,Dengue
+6152,Allergy
+6153,Typhoid
+6154,Heart attack
+6155,Varicose veins
+6156,Varicose veins
+6157,Bronchial Asthma
+6158,Allergy
+6159,Bronchial Asthma
+6160,Osteoarthristis
+6161,Acne
+6162,Hepatitis D
+6163,Cervical spondylosis
+6164,AIDS
+6165,Acne
+6166,Varicose veins
+6167,Allergy
+6168,Migraine
+6169,Hepatitis E
+6170,Hypoglycemia
+6171,Varicose veins
+6172,Bronchial Asthma
+6173,Arthritis
+6174,Allergy
+6175,Migraine
+6176,Hyperthyroidism
+6177,Hyperthyroidism
+6178,Dengue
+6179,Acne
+6180,Hepatitis E
+6181,Acne
+6182,Allergy
+6183,Allergy
+6184,Cervical spondylosis
+6185,Varicose veins
+6186,Paralysis (brain hemorrhage)
+6187,Varicose veins
+6188,Acne
+6189,Varicose veins
+6190,Allergy
+6191,Acne
+6192,Gastroenteritis
+6193,Hepatitis D
+6194,Allergy
+6195,hepatitis A
+6196,Acne
+6197,Varicose veins
+6198,Urinary tract infection
+6199,Allergy
+6200,Migraine
+6201,Allergy
+6202,Hepatitis C
+6203,Allergy
+6204,Allergy
+6205,Tuberculosis
+6206,Acne
+6207,Allergy
+6208,Common Cold
+6209,Acne
+6210,Allergy
+6211,Varicose veins
+6212,Diabetes 
+6213,Hepatitis E
+6214,Hyperthyroidism
+6215,Chicken pox
+6216,Migraine
+6217,Allergy
+6218,Tuberculosis
+6219,Acne
+6220,Chicken pox
+6221,Bronchial Asthma
+6222,Acne
+6223,Acne
+6224,Hepatitis D
+6225,Acne
+6226,Allergy
+6227,Paralysis (brain hemorrhage)
+6228,Varicose veins
+6229,Acne
+6230,Allergy
+6231,Varicose veins
+6232,Allergy
+6233,Allergy
+6234,Acne
+6235,hepatitis A
+6236,Hepatitis B
+6237,Osteoarthristis
+6238,Allergy
+6239,Impetigo
+6240,Tuberculosis
+6241,Common Cold
+6242,Dengue
+6243,Typhoid
+6244,Varicose veins
+6245,Hepatitis C
+6246,Hypothyroidism
+6247,Fungal infection
+6248,Varicose veins
+6249,Hypoglycemia
+6250,Acne
+6251,Peptic ulcer diseae
+6252,Varicose veins
+6253,Varicose veins
+6254,Migraine
+6255,Acne
+6256,Fungal infection
+6257,Hepatitis D
+6258,Allergy
+6259,Allergy
+6260,Allergy
+6261,Varicose veins
+6262,Acne
+6263,Bronchial Asthma
+6264,Allergy
+6265,Hepatitis B
+6266,Tuberculosis
+6267,Varicose veins
+6268,Varicose veins
+6269,Jaundice
+6270,Varicose veins
+6271,Allergy
+6272,Acne
+6273,Fungal infection
+6274,hepatitis A
+6275,Paralysis (brain hemorrhage)
+6276,Varicose veins
+6277,Acne
+6278,Migraine
+6279,Cervical spondylosis
+6280,Acne
+6281,Acne
+6282,Acne
+6283,Jaundice
+6284,Allergy
+6285,Peptic ulcer diseae
+6286,Varicose veins
+6287,Paralysis (brain hemorrhage)
+6288,Typhoid
+6289,Allergy
+6290,Varicose veins
+6291,Varicose veins
+6292,Dengue
+6293,Acne
+6294,Varicose veins
+6295,Allergy
+6296,Migraine
+6297,Alcoholic hepatitis
+6298,Allergy
+6299,Fungal infection
+6300,Tuberculosis
+6301,Allergy
+6302,Chronic cholestasis
+6303,Malaria
+6304,Allergy
+6305,Allergy
+6306,Allergy
+6307,Acne
+6308,Acne
+6309,Acne
+6310,Hepatitis D
+6311,Acne
+6312,Heart attack
+6313,hepatitis A
+6314,AIDS
+6315,Allergy
+6316,Urinary tract infection
+6317,Allergy
+6318,Acne
+6319,Varicose veins
+6320,Cervical spondylosis
+6321,Varicose veins
+6322,Dengue
+6323,Chronic cholestasis
+6324,Acne
+6325,Alcoholic hepatitis
+6326,Typhoid
+6327,Varicose veins
+6328,Diabetes 
+6329,(vertigo) Paroymsal  Positional Vertigo
+6330,Hepatitis B
+6331,Gastroenteritis
+6332,Arthritis
+6333,Heart attack
+6334,Allergy
+6335,Allergy
+6336,Alcoholic hepatitis
+6337,Varicose veins
+6338,Allergy
+6339,Allergy
+6340,Arthritis
+6341,Allergy
+6342,Migraine
+6343,Typhoid
+6344,Dengue
+6345,Hepatitis D
+6346,Allergy
+6347,Allergy
+6348,Acne
+6349,Jaundice
+6350,Drug Reaction
+6351,Osteoarthristis
+6352,Varicose veins
+6353,hepatitis A
+6354,Varicose veins
+6355,Heart attack
+6356,Bronchial Asthma
+6357,Arthritis
+6358,Acne
+6359,Chronic cholestasis
+6360,Dengue
+6361,Cervical spondylosis
+6362,Varicose veins
+6363,Hypertension 
+6364,hepatitis A
+6365,Osteoarthristis
+6366,Acne
+6367,Migraine
+6368,Varicose veins
+6369,Typhoid
+6370,Peptic ulcer diseae
+6371,Acne
+6372,Pneumonia
+6373,Varicose veins
+6374,Migraine
+6375,Paralysis (brain hemorrhage)
+6376,Impetigo
+6377,Peptic ulcer diseae
+6378,Allergy
+6379,Diabetes 
+6380,Hepatitis B
+6381,Psoriasis
+6382,Allergy
+6383,Drug Reaction
+6384,Typhoid
+6385,Acne
+6386,Varicose veins
+6387,Acne
+6388,Acne
+6389,Chronic cholestasis
+6390,Acne
+6391,Acne
+6392,Hypothyroidism
+6393,Varicose veins
+6394,Allergy
+6395,Osteoarthristis
+6396,Hepatitis C
+6397,Hepatitis C
+6398,Hypertension 
+6399,Bronchial Asthma
+6400,Varicose veins
+6401,Hyperthyroidism
+6402,Allergy
+6403,Acne
+6404,hepatitis A
+6405,Allergy
+6406,Allergy
+6407,Bronchial Asthma
+6408,Malaria
+6409,Pneumonia
+6410,AIDS
+6411,(vertigo) Paroymsal  Positional Vertigo
+6412,Varicose veins
+6413,Allergy
+6414,Acne
+6415,Allergy
+6416,Cervical spondylosis
+6417,Allergy
+6418,Varicose veins
+6419,Alcoholic hepatitis
+6420,Paralysis (brain hemorrhage)
+6421,Allergy
+6422,Varicose veins
+6423,Acne
+6424,Varicose veins
+6425,Hypertension 
+6426,Dimorphic hemmorhoids(piles)
+6427,Allergy
+6428,Allergy
+6429,Urinary tract infection
+6430,Acne
+6431,Varicose veins
+6432,(vertigo) Paroymsal  Positional Vertigo
+6433,Varicose veins
+6434,Hypoglycemia
+6435,Psoriasis
+6436,Bronchial Asthma
+6437,GERD
+6438,Malaria
+6439,Varicose veins
+6440,Hypothyroidism
+6441,Varicose veins
+6442,Acne
+6443,Varicose veins
+6444,Acne
+6445,Acne
+6446,Acne
+6447,Common Cold
+6448,Acne
+6449,Varicose veins
+6450,(vertigo) Paroymsal  Positional Vertigo
+6451,Bronchial Asthma
+6452,Allergy
+6453,Allergy
+6454,Paralysis (brain hemorrhage)
+6455,Allergy
+6456,Tuberculosis
+6457,Arthritis
+6458,Allergy
+6459,Acne
+6460,Allergy
+6461,Acne
+6462,Acne
+6463,Allergy
+6464,Varicose veins
+6465,Allergy
+6466,GERD
+6467,Allergy
+6468,Chronic cholestasis
+6469,Psoriasis
+6470,Psoriasis
+6471,Allergy
+6472,Malaria
+6473,Chicken pox
+6474,Gastroenteritis
+6475,Allergy
+6476,Allergy
+6477,Acne
+6478,(vertigo) Paroymsal  Positional Vertigo
+6479,Allergy
+6480,Malaria
+6481,Hypertension 
+6482,Varicose veins
+6483,Varicose veins
+6484,Acne
+6485,Varicose veins
+6486,Varicose veins
+6487,Varicose veins
+6488,Fungal infection
+6489,Allergy
+6490,Acne
+6491,Allergy
+6492,Varicose veins
+6493,Varicose veins
+6494,Heart attack
+6495,Acne
+6496,Alcoholic hepatitis
+6497,Varicose veins
+6498,Allergy
+6499,Allergy
+6500,Fungal infection
+6501,Migraine
+6502,Fungal infection
+6503,Allergy
+6504,Allergy
+6505,Paralysis (brain hemorrhage)
+6506,Varicose veins
+6507,Allergy
+6508,Impetigo
+6509,Paralysis (brain hemorrhage)
+6510,Acne
+6511,Common Cold
+6512,Hypertension 
+6513,Hepatitis D
+6514,Common Cold
+6515,Pneumonia
+6516,Acne
+6517,Varicose veins
+6518,Allergy
+6519,Varicose veins
+6520,Allergy
+6521,Peptic ulcer diseae
+6522,Urinary tract infection
+6523,Allergy
+6524,Allergy
+6525,Acne
+6526,Chicken pox
+6527,Paralysis (brain hemorrhage)
+6528,Bronchial Asthma
+6529,Arthritis
+6530,Acne
+6531,Varicose veins
+6532,Hepatitis C
+6533,Varicose veins
+6534,Acne
+6535,Impetigo
+6536,Paralysis (brain hemorrhage)
+6537,Hyperthyroidism
+6538,Allergy
+6539,Malaria
+6540,Allergy
+6541,Allergy
+6542,Acne
+6543,Acne
+6544,Acne
+6545,Heart attack
+6546,Allergy
+6547,Allergy
+6548,Acne
+6549,Common Cold
+6550,Varicose veins
+6551,Allergy
+6552,Varicose veins
+6553,Varicose veins
+6554,Heart attack
+6555,Allergy
+6556,Allergy
+6557,Allergy
+6558,Varicose veins
+6559,hepatitis A
+6560,Acne
+6561,Varicose veins
+6562,Allergy
+6563,Chronic cholestasis
+6564,Diabetes 
+6565,hepatitis A
+6566,Hepatitis D
+6567,Allergy
+6568,Varicose veins
+6569,Allergy
+6570,Acne
+6571,Acne
+6572,Tuberculosis
+6573,Acne
+6574,Paralysis (brain hemorrhage)
+6575,Allergy
+6576,Jaundice
+6577,Hypoglycemia
+6578,Psoriasis
+6579,Acne
+6580,Bronchial Asthma
+6581,Heart attack
+6582,Heart attack
+6583,Hepatitis D
+6584,Diabetes 
+6585,Allergy
+6586,(vertigo) Paroymsal  Positional Vertigo
+6587,AIDS
+6588,Bronchial Asthma
+6589,Allergy
+6590,Varicose veins
+6591,Pneumonia
+6592,Hepatitis D
+6593,Chronic cholestasis
+6594,GERD
+6595,Heart attack
+6596,Acne
+6597,Paralysis (brain hemorrhage)
+6598,Pneumonia
+6599,Impetigo
+6600,Gastroenteritis
+6601,Hepatitis D
+6602,Acne
+6603,Jaundice
+6604,Chicken pox
+6605,Varicose veins
+6606,Malaria
+6607,Acne
+6608,(vertigo) Paroymsal  Positional Vertigo
+6609,Urinary tract infection
+6610,Jaundice
+6611,Allergy
+6612,Hypothyroidism
+6613,Allergy
+6614,Peptic ulcer diseae
+6615,Hypothyroidism
+6616,Cervical spondylosis
+6617,Allergy
+6618,Acne
+6619,Allergy
+6620,Gastroenteritis
+6621,Varicose veins
+6622,Varicose veins
+6623,Hepatitis E
+6624,hepatitis A
+6625,Hypoglycemia
+6626,Gastroenteritis
+6627,Allergy
+6628,Allergy
+6629,Malaria
+6630,Allergy
+6631,Varicose veins
+6632,Bronchial Asthma
+6633,Allergy
+6634,Chicken pox
+6635,Fungal infection
+6636,Arthritis
+6637,Dimorphic hemmorhoids(piles)
+6638,Allergy
+6639,Hypertension 
+6640,Varicose veins
+6641,Varicose veins
+6642,Cervical spondylosis
+6643,Hypertension 
+6644,Varicose veins
+6645,Allergy
+6646,Acne
+6647,Tuberculosis
+6648,Peptic ulcer diseae
+6649,Acne
+6650,Allergy
+6651,Allergy
+6652,Acne
+6653,Fungal infection
+6654,Allergy
+6655,GERD
+6656,Hypoglycemia
+6657,Acne
+6658,Allergy
+6659,Acne
+6660,Varicose veins
+6661,Fungal infection
+6662,Varicose veins
+6663,Fungal infection
+6664,Bronchial Asthma
+6665,Typhoid
+6666,Acne
+6667,Acne
+6668,Allergy
+6669,Allergy
+6670,Hepatitis C
+6671,Gastroenteritis
+6672,Acne
+6673,AIDS
+6674,Pneumonia
+6675,Alcoholic hepatitis
+6676,Acne
+6677,Allergy
+6678,Varicose veins
+6679,Acne
+6680,Chicken pox
+6681,Gastroenteritis
+6682,(vertigo) Paroymsal  Positional Vertigo
+6683,(vertigo) Paroymsal  Positional Vertigo
+6684,Varicose veins
+6685,(vertigo) Paroymsal  Positional Vertigo
+6686,Allergy
+6687,Diabetes 
+6688,Tuberculosis
+6689,Allergy
+6690,Allergy
+6691,Acne
+6692,Acne
+6693,Varicose veins
+6694,Hypertension 
+6695,Allergy
+6696,Drug Reaction
+6697,Acne
+6698,hepatitis A
+6699,Acne
+6700,Allergy
+6701,Paralysis (brain hemorrhage)
+6702,Hepatitis D
+6703,Varicose veins
+6704,Allergy
+6705,Hepatitis D
+6706,Dimorphic hemmorhoids(piles)
+6707,Allergy
+6708,Arthritis
+6709,Varicose veins
+6710,Chronic cholestasis
+6711,Acne
+6712,Diabetes 
+6713,Acne
+6714,Acne
+6715,(vertigo) Paroymsal  Positional Vertigo
+6716,Acne
+6717,Varicose veins
+6718,Chicken pox
+6719,Hypoglycemia
+6720,Allergy
+6721,Heart attack
+6722,Osteoarthristis
+6723,Varicose veins
+6724,Acne
+6725,Varicose veins
+6726,Paralysis (brain hemorrhage)
+6727,Acne
+6728,Hypoglycemia
+6729,Varicose veins
+6730,AIDS
+6731,Varicose veins
+6732,Acne
+6733,Tuberculosis
+6734,Varicose veins
+6735,Varicose veins
+6736,AIDS
+6737,Acne
+6738,Acne
+6739,Acne
+6740,Hypothyroidism
+6741,Varicose veins
+6742,Hypertension 
+6743,Acne
+6744,Paralysis (brain hemorrhage)
+6745,Varicose veins
+6746,GERD
+6747,Acne
+6748,AIDS
+6749,Varicose veins
+6750,Varicose veins
+6751,Hepatitis E
+6752,Hypertension 
+6753,Acne
+6754,Varicose veins
+6755,Allergy
+6756,Varicose veins
+6757,Allergy
+6758,Migraine
+6759,Allergy
+6760,Acne
+6761,AIDS
+6762,Allergy
+6763,Allergy
+6764,Alcoholic hepatitis
+6765,Acne
+6766,Acne
+6767,Varicose veins
+6768,Fungal infection
+6769,Varicose veins
+6770,Cervical spondylosis
+6771,Varicose veins
+6772,Fungal infection
+6773,Acne
+6774,Acne
+6775,Hepatitis C
+6776,Acne
+6777,Fungal infection
+6778,Dengue
+6779,Allergy
+6780,(vertigo) Paroymsal  Positional Vertigo
+6781,Allergy
+6782,Chicken pox
+6783,Varicose veins
+6784,Acne
+6785,Typhoid
+6786,Allergy
+6787,Osteoarthristis
+6788,Varicose veins
+6789,Chicken pox
+6790,Hepatitis B
+6791,Allergy
+6792,Hepatitis C
+6793,Drug Reaction
+6794,Gastroenteritis
+6795,Psoriasis
+6796,Allergy
+6797,Allergy
+6798,Allergy
+6799,AIDS
+6800,Allergy
+6801,Acne
+6802,Psoriasis
+6803,Varicose veins
+6804,Varicose veins
+6805,Allergy
+6806,Migraine
+6807,Varicose veins
+6808,Allergy
+6809,(vertigo) Paroymsal  Positional Vertigo
+6810,Chicken pox
+6811,Peptic ulcer diseae
+6812,Varicose veins
+6813,Acne
+6814,Varicose veins
+6815,Gastroenteritis
+6816,Osteoarthristis
+6817,Allergy
+6818,Acne
+6819,Fungal infection
+6820,Acne
+6821,Hypertension 
+6822,Varicose veins
+6823,Varicose veins
+6824,Urinary tract infection
+6825,Allergy
+6826,Allergy
+6827,Hepatitis C
+6828,Osteoarthristis
+6829,Allergy
+6830,Allergy
+6831,Acne
+6832,Osteoarthristis
+6833,Varicose veins
+6834,GERD
+6835,Dimorphic hemmorhoids(piles)
+6836,Cervical spondylosis
+6837,Hepatitis D
+6838,Hepatitis C
+6839,Acne
+6840,Varicose veins
+6841,Drug Reaction
+6842,Migraine
+6843,Acne
+6844,Pneumonia
+6845,Acne
+6846,Hepatitis C
+6847,Allergy
+6848,Hypoglycemia
+6849,Acne
+6850,Varicose veins
+6851,Hypoglycemia
+6852,Allergy
+6853,Osteoarthristis
+6854,Acne
+6855,Acne
+6856,Cervical spondylosis
+6857,Gastroenteritis
+6858,Allergy
+6859,Varicose veins
+6860,Acne
+6861,Hypoglycemia
+6862,Hypothyroidism
+6863,Hyperthyroidism
+6864,Acne
+6865,(vertigo) Paroymsal  Positional Vertigo
+6866,Hepatitis B
+6867,hepatitis A
+6868,Allergy
+6869,Allergy
+6870,Migraine
+6871,Varicose veins
+6872,Acne
+6873,Allergy
+6874,Allergy
+6875,Varicose veins
+6876,AIDS
+6877,Pneumonia
+6878,Typhoid
+6879,Alcoholic hepatitis
+6880,Gastroenteritis
+6881,Fungal infection
+6882,Varicose veins
+6883,(vertigo) Paroymsal  Positional Vertigo
+6884,Varicose veins
+6885,Varicose veins
+6886,Varicose veins
+6887,Acne
+6888,Pneumonia
+6889,Allergy
+6890,Drug Reaction
+6891,Malaria
+6892,Acne
+6893,Osteoarthristis
+6894,Common Cold
+6895,Varicose veins
+6896,Heart attack
+6897,Varicose veins
+6898,Dimorphic hemmorhoids(piles)
+6899,Pneumonia
+6900,Acne
+6901,Allergy
+6902,Allergy
+6903,Common Cold
+6904,Allergy
+6905,Fungal infection
+6906,Allergy
+6907,Allergy
+6908,Hypertension 
+6909,Hypoglycemia
+6910,Acne
+6911,Pneumonia
+6912,Varicose veins
+6913,Hypoglycemia
+6914,Drug Reaction
+6915,Acne
+6916,Chronic cholestasis
+6917,Hyperthyroidism
+6918,Varicose veins
+6919,Fungal infection
+6920,Varicose veins
+6921,Allergy
+6922,Alcoholic hepatitis
+6923,Hypothyroidism
+6924,Urinary tract infection
+6925,Allergy
+6926,Hepatitis B
+6927,Allergy
+6928,Paralysis (brain hemorrhage)
+6929,Allergy
+6930,Arthritis
+6931,Hyperthyroidism
+6932,Allergy
+6933,Dengue
+6934,Acne
+6935,Chicken pox
+6936,Alcoholic hepatitis
+6937,Hepatitis B
+6938,Allergy
+6939,Typhoid
+6940,Osteoarthristis
+6941,Drug Reaction
+6942,Varicose veins
+6943,Acne
+6944,Alcoholic hepatitis
+6945,Varicose veins
+6946,Hepatitis D
+6947,Typhoid
+6948,Hepatitis C
+6949,Allergy
+6950,Jaundice
+6951,Acne
+6952,Acne
+6953,Hepatitis C
+6954,Peptic ulcer diseae
+6955,Acne
+6956,hepatitis A
+6957,Acne
+6958,Osteoarthristis
+6959,AIDS
+6960,Drug Reaction
+6961,Heart attack
+6962,Bronchial Asthma
+6963,Typhoid
+6964,Allergy
+6965,Hepatitis B
+6966,Common Cold
+6967,Allergy
+6968,Typhoid
+6969,Acne
+6970,Chronic cholestasis
+6971,Allergy
+6972,Hypothyroidism
+6973,Arthritis
+6974,Peptic ulcer diseae
+6975,Allergy
+6976,AIDS
+6977,Pneumonia
+6978,Allergy
+6979,Drug Reaction
+6980,Fungal infection
+6981,Acne
+6982,Varicose veins
+6983,Allergy
+6984,Acne
+6985,Varicose veins
+6986,Peptic ulcer diseae
+6987,Acne
+6988,Allergy
+6989,Varicose veins
+6990,Psoriasis
+6991,Hyperthyroidism
+6992,Allergy
+6993,Bronchial Asthma
+6994,Varicose veins
+6995,Acne
+6996,Arthritis
+6997,Dimorphic hemmorhoids(piles)
+6998,Fungal infection
+6999,Allergy
+7000,Hyperthyroidism
+7001,Chicken pox
+7002,Hypertension 
+7003,Cervical spondylosis
+7004,Allergy
+7005,Acne
+7006,Fungal infection
+7007,Hypertension 
+7008,Migraine
+7009,Varicose veins
+7010,Gastroenteritis
+7011,Hypertension 
+7012,Alcoholic hepatitis
+7013,Acne
+7014,Varicose veins
+7015,Varicose veins
+7016,Allergy
+7017,Allergy
+7018,Osteoarthristis
+7019,Varicose veins
+7020,Hypothyroidism
+7021,Hepatitis E
+7022,Varicose veins
+7023,Varicose veins
+7024,Allergy
+7025,Allergy
+7026,Allergy
+7027,Allergy
+7028,Dimorphic hemmorhoids(piles)
+7029,Varicose veins
+7030,Varicose veins
+7031,Varicose veins
+7032,Allergy
+7033,Allergy
+7034,Varicose veins
+7035,Pneumonia
+7036,Heart attack
+7037,Chronic cholestasis
+7038,Acne
+7039,Allergy
+7040,Allergy
+7041,Bronchial Asthma
+7042,Hepatitis B
+7043,Alcoholic hepatitis
+7044,Acne
+7045,Varicose veins
+7046,Varicose veins
+7047,Allergy
+7048,AIDS
+7049,Acne
+7050,Allergy
+7051,Chicken pox
+7052,Gastroenteritis
+7053,Varicose veins
+7054,Varicose veins
+7055,Acne
+7056,Urinary tract infection
+7057,Allergy
+7058,Acne
+7059,Chronic cholestasis
+7060,Varicose veins
+7061,Allergy
+7062,Acne
+7063,Common Cold
+7064,Varicose veins
+7065,AIDS
+7066,Tuberculosis
+7067,Bronchial Asthma
+7068,Acne
+7069,Dimorphic hemmorhoids(piles)
+7070,Hypoglycemia
+7071,hepatitis A
+7072,Allergy
+7073,Varicose veins
+7074,Allergy
+7075,Acne
+7076,Acne
+7077,Drug Reaction
+7078,Chicken pox
+7079,Allergy
+7080,hepatitis A
+7081,Hypertension 
+7082,Acne
+7083,Psoriasis
+7084,(vertigo) Paroymsal  Positional Vertigo
+7085,Pneumonia
+7086,Acne
+7087,Allergy
+7088,Hypothyroidism
+7089,Allergy
+7090,Allergy
+7091,AIDS
+7092,Tuberculosis
+7093,Varicose veins
+7094,Allergy
+7095,Allergy
+7096,Allergy
+7097,Arthritis
+7098,Allergy
+7099,Hyperthyroidism
+7100,Acne
+7101,Varicose veins
+7102,Acne
+7103,Allergy
+7104,Allergy
+7105,Allergy
+7106,Chicken pox
+7107,Typhoid
+7108,Acne
+7109,Acne
+7110,Impetigo
+7111,Osteoarthristis
+7112,Acne
+7113,Chicken pox
+7114,Fungal infection
+7115,Hyperthyroidism
+7116,Urinary tract infection
+7117,Acne
+7118,hepatitis A
+7119,Varicose veins
+7120,Allergy
+7121,Acne
+7122,Allergy
+7123,Acne
+7124,Varicose veins
+7125,Common Cold
+7126,hepatitis A
+7127,Dengue
+7128,Malaria
+7129,Acne
+7130,Allergy
+7131,(vertigo) Paroymsal  Positional Vertigo
+7132,Osteoarthristis
+7133,Allergy
+7134,Impetigo
+7135,Allergy
+7136,Allergy
+7137,Allergy
+7138,Varicose veins
+7139,Common Cold
+7140,Heart attack
+7141,Hyperthyroidism
+7142,Varicose veins
+7143,Hepatitis C
+7144,Hepatitis E
+7145,hepatitis A
+7146,Allergy
+7147,Acne
+7148,Migraine
+7149,Hyperthyroidism
+7150,AIDS
+7151,Arthritis
+7152,Allergy
+7153,Acne
+7154,Fungal infection
+7155,Typhoid
+7156,Alcoholic hepatitis
+7157,Diabetes 
+7158,Tuberculosis
+7159,Heart attack
+7160,Bronchial Asthma
+7161,Allergy
+7162,Acne
+7163,Allergy
+7164,Malaria
+7165,Alcoholic hepatitis
+7166,Acne
+7167,Allergy
+7168,Allergy
+7169,Allergy
+7170,Acne
+7171,Allergy
+7172,Hepatitis D
+7173,Acne
+7174,Allergy
+7175,Hepatitis B
+7176,Varicose veins
+7177,Tuberculosis
+7178,Allergy
+7179,Allergy
+7180,Varicose veins
+7181,Acne
+7182,Varicose veins
+7183,Acne
+7184,Chronic cholestasis
+7185,Acne
+7186,Fungal infection
+7187,Varicose veins
+7188,Acne
+7189,Allergy
+7190,Acne
+7191,Gastroenteritis
+7192,Bronchial Asthma
+7193,Allergy
+7194,Hypoglycemia
+7195,Allergy
+7196,Acne
+7197,Allergy
+7198,Varicose veins
+7199,Pneumonia
+7200,Allergy
+7201,Allergy
+7202,Paralysis (brain hemorrhage)
+7203,Hepatitis D
+7204,Acne
+7205,Bronchial Asthma
+7206,Peptic ulcer diseae
+7207,Acne
+7208,Jaundice
+7209,Chicken pox
+7210,Hepatitis E
+7211,Dengue
+7212,Allergy
+7213,Varicose veins
+7214,Allergy
+7215,Hepatitis B
+7216,Varicose veins
+7217,Heart attack
+7218,Gastroenteritis
+7219,Hyperthyroidism
+7220,Dimorphic hemmorhoids(piles)
+7221,Fungal infection
+7222,Varicose veins
+7223,Varicose veins
+7224,Allergy
+7225,Varicose veins
+7226,Allergy
+7227,Varicose veins
+7228,Acne
+7229,Allergy
+7230,Hepatitis C
+7231,Heart attack
+7232,Alcoholic hepatitis
+7233,Acne
+7234,Acne
+7235,Chronic cholestasis
+7236,Common Cold
+7237,Alcoholic hepatitis
+7238,Bronchial Asthma
+7239,Hepatitis D
+7240,Allergy
+7241,Varicose veins
+7242,Acne
+7243,Hepatitis D
+7244,Hepatitis E
+7245,Acne
+7246,Acne
+7247,Acne
+7248,Allergy
+7249,Acne
+7250,Acne
+7251,Acne
+7252,Typhoid
+7253,Varicose veins
+7254,Varicose veins
+7255,GERD
+7256,Varicose veins
+7257,Allergy
+7258,Acne
+7259,Allergy
+7260,Urinary tract infection
+7261,Hepatitis C
+7262,Paralysis (brain hemorrhage)
+7263,Paralysis (brain hemorrhage)
+7264,Gastroenteritis
+7265,Hyperthyroidism
+7266,Arthritis
+7267,Varicose veins
+7268,Acne
+7269,Common Cold
+7270,Dimorphic hemmorhoids(piles)
+7271,Varicose veins
+7272,Allergy
+7273,Hyperthyroidism
+7274,Acne
+7275,Allergy
+7276,Peptic ulcer diseae
+7277,Hypertension 
+7278,AIDS
+7279,Hepatitis D
+7280,Allergy
+7281,Migraine
+7282,Typhoid
+7283,Acne
+7284,Acne
+7285,Varicose veins
+7286,Typhoid
+7287,Allergy
+7288,Allergy
+7289,Varicose veins
+7290,Hepatitis D
+7291,Hepatitis C
+7292,Malaria
+7293,Acne
+7294,Allergy
+7295,Allergy
+7296,Allergy
+7297,Acne
+7298,Typhoid
+7299,Fungal infection
+7300,Dimorphic hemmorhoids(piles)
+7301,Acne
+7302,Varicose veins
+7303,Allergy
+7304,Fungal infection
+7305,Acne
+7306,Allergy
+7307,Acne
+7308,Allergy
+7309,Allergy
+7310,Hepatitis D
+7311,Varicose veins
+7312,Arthritis
+7313,Allergy
+7314,Tuberculosis
+7315,Allergy
+7316,Chicken pox
+7317,Acne
+7318,Acne
+7319,Varicose veins
+7320,Allergy
+7321,Allergy
+7322,Varicose veins
+7323,AIDS
+7324,Acne
+7325,Varicose veins
+7326,Varicose veins
+7327,Allergy
+7328,Hypothyroidism
+7329,Allergy
+7330,Varicose veins
+7331,Acne
+7332,Allergy
+7333,Acne
+7334,Drug Reaction
+7335,Allergy
+7336,Tuberculosis
+7337,Allergy
+7338,Varicose veins
+7339,Diabetes 
+7340,Allergy
+7341,Hypoglycemia
+7342,Osteoarthristis
+7343,Allergy
+7344,Allergy
+7345,Allergy
+7346,Allergy
+7347,Gastroenteritis
+7348,Allergy
+7349,Urinary tract infection
+7350,Jaundice
+7351,Allergy
+7352,Allergy
+7353,Hypoglycemia
+7354,Hypertension 
+7355,Hyperthyroidism
+7356,Acne
+7357,Allergy
+7358,Acne
+7359,Varicose veins
+7360,Dengue
+7361,Acne
+7362,Arthritis
+7363,Dengue
+7364,Allergy
+7365,Allergy
+7366,Acne
+7367,Allergy
+7368,Osteoarthristis
+7369,Fungal infection
+7370,Drug Reaction
+7371,Hepatitis D
+7372,Migraine
+7373,Typhoid
+7374,Impetigo
+7375,Chronic cholestasis
+7376,Acne
+7377,Peptic ulcer diseae
+7378,Varicose veins
+7379,Common Cold
+7380,AIDS
+7381,Allergy
+7382,Acne
+7383,Dengue
+7384,Allergy
+7385,Varicose veins
+7386,Allergy
+7387,(vertigo) Paroymsal  Positional Vertigo
+7388,GERD
+7389,Varicose veins
+7390,AIDS
+7391,Fungal infection
+7392,Allergy
+7393,Gastroenteritis
+7394,Varicose veins
+7395,Varicose veins
+7396,Varicose veins
+7397,Chicken pox
+7398,Varicose veins
+7399,Allergy
+7400,Jaundice
+7401,Drug Reaction
+7402,Varicose veins
+7403,Chronic cholestasis
+7404,Varicose veins
+7405,Acne
+7406,Heart attack
+7407,Acne
+7408,GERD
+7409,(vertigo) Paroymsal  Positional Vertigo
+7410,Allergy
+7411,Gastroenteritis
+7412,Allergy
+7413,Acne
+7414,Typhoid
+7415,Hypertension 
+7416,Tuberculosis
+7417,Varicose veins
+7418,Varicose veins
+7419,Tuberculosis
+7420,Drug Reaction
+7421,Allergy
+7422,Drug Reaction
+7423,Varicose veins
+7424,Cervical spondylosis
+7425,Allergy
+7426,Urinary tract infection
+7427,Varicose veins
+7428,Allergy
+7429,Allergy
+7430,Gastroenteritis
+7431,Hepatitis D
+7432,Diabetes 
+7433,Varicose veins
+7434,Acne
+7435,Diabetes 
+7436,Allergy
+7437,Varicose veins
+7438,Diabetes 
+7439,Varicose veins
+7440,Pneumonia
+7441,Varicose veins
+7442,Bronchial Asthma
+7443,Allergy
+7444,Acne
+7445,Peptic ulcer diseae
+7446,Dimorphic hemmorhoids(piles)
+7447,Varicose veins
+7448,Jaundice
+7449,Varicose veins
+7450,Diabetes 
+7451,Acne
+7452,Allergy
+7453,Migraine
+7454,Fungal infection
+7455,Acne
+7456,Tuberculosis
+7457,Varicose veins
+7458,Osteoarthristis
+7459,Allergy
+7460,Varicose veins
+7461,Acne
+7462,Gastroenteritis
+7463,Cervical spondylosis
+7464,Acne
+7465,Acne
+7466,Dimorphic hemmorhoids(piles)
+7467,Hepatitis E
+7468,Acne
+7469,Allergy
+7470,Pneumonia
+7471,Malaria
+7472,Varicose veins
+7473,Hypoglycemia
+7474,Varicose veins
+7475,Dengue
+7476,Chronic cholestasis
+7477,Acne
+7478,Typhoid
+7479,Allergy
+7480,Malaria
+7481,Tuberculosis
+7482,Hyperthyroidism
+7483,Varicose veins
+7484,Allergy
+7485,Acne
+7486,Acne
+7487,Osteoarthristis
+7488,Hepatitis D
+7489,Paralysis (brain hemorrhage)
+7490,Acne
+7491,Acne
+7492,Arthritis
+7493,Allergy
+7494,Acne
+7495,Allergy
+7496,Dimorphic hemmorhoids(piles)
+7497,Varicose veins
+7498,Hepatitis E
+7499,Acne
+7500,Allergy
+7501,Bronchial Asthma
+7502,Allergy
+7503,Drug Reaction
+7504,Hepatitis B
+7505,Common Cold
+7506,Varicose veins
+7507,Hepatitis E
+7508,Acne
+7509,Common Cold
+7510,Dengue
+7511,Acne
+7512,Allergy
+7513,Hypothyroidism
+7514,Peptic ulcer diseae
+7515,Acne
+7516,(vertigo) Paroymsal  Positional Vertigo
+7517,Allergy
+7518,Arthritis
+7519,Allergy
+7520,Allergy
+7521,Gastroenteritis
+7522,Allergy
+7523,Allergy
+7524,Varicose veins
+7525,Allergy
+7526,Allergy
+7527,Acne
+7528,Malaria
+7529,Arthritis
+7530,Heart attack
+7531,Varicose veins
+7532,Varicose veins
+7533,Varicose veins
+7534,Gastroenteritis
+7535,Malaria
+7536,Acne
+7537,Hyperthyroidism
+7538,Varicose veins
+7539,Allergy
+7540,Psoriasis
+7541,Varicose veins
+7542,Urinary tract infection
+7543,Allergy
+7544,Common Cold
+7545,Psoriasis
+7546,Allergy
+7547,Chronic cholestasis
+7548,Allergy
+7549,Jaundice
+7550,Osteoarthristis
+7551,Varicose veins
+7552,Acne
+7553,Chicken pox
+7554,Allergy
+7555,Allergy
+7556,Hepatitis D
+7557,Impetigo
+7558,Heart attack
+7559,Malaria
+7560,Varicose veins
+7561,Dengue
+7562,Allergy
+7563,AIDS
+7564,Hepatitis D
+7565,Acne
+7566,Allergy
+7567,Acne
+7568,Acne
+7569,Alcoholic hepatitis
+7570,Acne
+7571,Hepatitis C
+7572,Jaundice
+7573,Varicose veins
+7574,Acne
+7575,Allergy
+7576,Chicken pox
+7577,Acne
+7578,Allergy
+7579,Diabetes 
+7580,Acne
+7581,Tuberculosis
+7582,Gastroenteritis
+7583,Arthritis
+7584,Hypothyroidism
+7585,Paralysis (brain hemorrhage)
+7586,Allergy
+7587,Dimorphic hemmorhoids(piles)
+7588,Allergy
+7589,Acne
+7590,Hypoglycemia
+7591,Allergy
+7592,Allergy
+7593,Paralysis (brain hemorrhage)
+7594,Dengue
+7595,Cervical spondylosis
+7596,Allergy
+7597,Allergy
+7598,Varicose veins
+7599,Allergy
+7600,Acne
+7601,Acne
+7602,Hepatitis D
+7603,Peptic ulcer diseae
+7604,Acne
+7605,hepatitis A
+7606,Allergy
+7607,Bronchial Asthma
+7608,Varicose veins
+7609,Varicose veins
+7610,Varicose veins
+7611,Common Cold
+7612,hepatitis A
+7613,Varicose veins
+7614,Allergy
+7615,Acne
+7616,Hepatitis E
+7617,Malaria
+7618,Allergy
+7619,Arthritis
+7620,Acne
+7621,Acne
+7622,Varicose veins
+7623,GERD
+7624,Allergy
+7625,Bronchial Asthma
+7626,Acne
+7627,Acne
+7628,(vertigo) Paroymsal  Positional Vertigo
+7629,Acne
+7630,Alcoholic hepatitis
+7631,GERD
+7632,Typhoid
+7633,Varicose veins
+7634,Drug Reaction
+7635,Varicose veins
+7636,Acne
+7637,Gastroenteritis
+7638,Allergy
+7639,Allergy
+7640,Varicose veins
+7641,Hypoglycemia
+7642,Peptic ulcer diseae
+7643,Varicose veins
+7644,Hepatitis E
+7645,Tuberculosis
+7646,Varicose veins
+7647,Varicose veins
+7648,Hepatitis E
+7649,Varicose veins
+7650,Varicose veins
+7651,Chicken pox
+7652,Allergy
+7653,Varicose veins
+7654,Allergy
+7655,Allergy
+7656,Allergy
+7657,Acne
+7658,Heart attack
+7659,AIDS
+7660,Diabetes 
+7661,Acne
+7662,Varicose veins
+7663,Tuberculosis
+7664,Cervical spondylosis
+7665,Dimorphic hemmorhoids(piles)
+7666,Dengue
+7667,Fungal infection
+7668,Varicose veins
+7669,Hepatitis E
+7670,AIDS
+7671,Psoriasis
+7672,Allergy
+7673,Allergy
+7674,Common Cold
+7675,Allergy
+7676,Bronchial Asthma
+7677,Bronchial Asthma
+7678,GERD
+7679,Hepatitis B
+7680,Diabetes 
+7681,Acne
+7682,Allergy
+7683,Impetigo
+7684,Acne
+7685,Hepatitis C
+7686,hepatitis A
+7687,Varicose veins
+7688,Acne
+7689,hepatitis A
+7690,Chronic cholestasis
+7691,Hyperthyroidism
+7692,Acne
+7693,Varicose veins
+7694,Varicose veins
+7695,Urinary tract infection
+7696,Varicose veins
+7697,Acne
+7698,Allergy
+7699,Fungal infection
+7700,Fungal infection
+7701,Varicose veins
+7702,Hypothyroidism
+7703,Allergy
+7704,Hepatitis D
+7705,Osteoarthristis
+7706,Varicose veins
+7707,Acne
+7708,Dengue
+7709,Varicose veins
+7710,Varicose veins
+7711,Allergy
+7712,Allergy
+7713,Hyperthyroidism
+7714,Chronic cholestasis
+7715,Paralysis (brain hemorrhage)
+7716,Impetigo
+7717,Acne
+7718,Allergy
+7719,Varicose veins
+7720,Acne
+7721,Allergy
+7722,Osteoarthristis
+7723,Hyperthyroidism
+7724,Varicose veins
+7725,Allergy
+7726,Allergy
+7727,Chronic cholestasis
+7728,Allergy
+7729,Gastroenteritis
+7730,Allergy
+7731,Acne
+7732,Acne
+7733,Osteoarthristis
+7734,Hypothyroidism
+7735,Acne
+7736,Acne
+7737,Acne
+7738,Dimorphic hemmorhoids(piles)
+7739,Acne
+7740,Drug Reaction
+7741,Acne
+7742,Allergy
+7743,Acne
+7744,Varicose veins
+7745,Allergy
+7746,Allergy
+7747,Allergy
+7748,Varicose veins
+7749,Varicose veins
+7750,Arthritis
+7751,Acne
+7752,(vertigo) Paroymsal  Positional Vertigo
+7753,Migraine
+7754,Hypertension 
+7755,Varicose veins
+7756,Paralysis (brain hemorrhage)
+7757,Allergy
+7758,Varicose veins
+7759,Bronchial Asthma
+7760,Typhoid
+7761,Impetigo
+7762,Dengue
+7763,Acne
+7764,Acne
+7765,Hyperthyroidism
+7766,Diabetes 
+7767,Hyperthyroidism
+7768,Hepatitis D
+7769,Varicose veins
+7770,Allergy
+7771,Acne
+7772,Tuberculosis
+7773,Migraine
+7774,Acne
+7775,Typhoid
+7776,(vertigo) Paroymsal  Positional Vertigo
+7777,Allergy
+7778,Pneumonia
+7779,Hyperthyroidism
+7780,Malaria
+7781,Chronic cholestasis
+7782,Hypertension 
+7783,Hepatitis E
+7784,Cervical spondylosis
+7785,Varicose veins
+7786,Varicose veins
+7787,Varicose veins
+7788,Jaundice
+7789,Cervical spondylosis
+7790,Gastroenteritis
+7791,Acne
+7792,Allergy
+7793,Hepatitis B
+7794,Varicose veins
+7795,Allergy
+7796,Allergy
+7797,Peptic ulcer diseae
+7798,Acne
+7799,Allergy
+7800,AIDS
+7801,Psoriasis
+7802,Bronchial Asthma
+7803,Typhoid
+7804,Acne
+7805,Arthritis
+7806,Allergy
+7807,Allergy
+7808,(vertigo) Paroymsal  Positional Vertigo
+7809,Hyperthyroidism
+7810,Acne
+7811,Hypoglycemia
+7812,Diabetes 
+7813,Impetigo
+7814,Peptic ulcer diseae
+7815,Acne
+7816,Allergy
+7817,Allergy
+7818,Allergy
+7819,Acne
+7820,Hyperthyroidism
+7821,Typhoid
+7822,Allergy
+7823,Acne
+7824,Tuberculosis
+7825,hepatitis A
+7826,Bronchial Asthma
+7827,Allergy
+7828,Allergy
+7829,Hepatitis D
+7830,Hypothyroidism
+7831,Acne
+7832,Hyperthyroidism
+7833,Varicose veins
+7834,Gastroenteritis
+7835,Allergy
+7836,Acne
+7837,Acne
+7838,Allergy
+7839,Psoriasis
+7840,Acne
+7841,Allergy
+7842,Varicose veins
+7843,Hyperthyroidism
+7844,Alcoholic hepatitis
+7845,Hepatitis C
+7846,Allergy
+7847,Varicose veins
+7848,Alcoholic hepatitis
+7849,Acne
+7850,Acne
+7851,Common Cold
+7852,Typhoid
+7853,Allergy
+7854,Malaria
+7855,Varicose veins
+7856,Hepatitis D
+7857,Allergy
+7858,Allergy
+7859,GERD
+7860,Acne
+7861,Allergy
+7862,Osteoarthristis
+7863,Allergy
+7864,Acne
+7865,Acne
+7866,Allergy
+7867,Allergy
+7868,Allergy
+7869,Allergy
+7870,Acne
+7871,Hepatitis C
+7872,Allergy
+7873,Fungal infection
+7874,Acne
+7875,Acne
+7876,Impetigo
+7877,Common Cold
+7878,Allergy
+7879,Osteoarthristis
+7880,Migraine
+7881,Allergy
+7882,Dimorphic hemmorhoids(piles)
+7883,Tuberculosis
+7884,Varicose veins
+7885,Acne
+7886,Urinary tract infection
+7887,Alcoholic hepatitis
+7888,AIDS
+7889,Hepatitis E
+7890,Acne
+7891,Hypertension 
+7892,Allergy
+7893,Allergy
+7894,Varicose veins
+7895,Heart attack
+7896,Malaria
+7897,Allergy
+7898,Bronchial Asthma
+7899,Allergy
+7900,Bronchial Asthma
+7901,Migraine
+7902,Dimorphic hemmorhoids(piles)
+7903,Allergy
+7904,Allergy
+7905,Arthritis
+7906,Varicose veins
+7907,Varicose veins
+7908,Allergy
+7909,Allergy
+7910,Acne
+7911,Chronic cholestasis
+7912,Cervical spondylosis
+7913,Allergy
+7914,Peptic ulcer diseae
+7915,Acne
+7916,Tuberculosis
+7917,Allergy
+7918,Allergy
+7919,Acne
+7920,Osteoarthristis
+7921,Osteoarthristis
+7922,Tuberculosis
+7923,Acne
+7924,(vertigo) Paroymsal  Positional Vertigo
+7925,Acne
+7926,Acne
+7927,Allergy
+7928,Varicose veins
+7929,Alcoholic hepatitis
+7930,Acne
+7931,Allergy
+7932,Allergy
+7933,Acne
+7934,Allergy
+7935,Heart attack
+7936,Psoriasis
+7937,Gastroenteritis
+7938,Pneumonia
+7939,Hepatitis C
+7940,Common Cold
+7941,Allergy
+7942,Acne
+7943,AIDS
+7944,Hypertension 
+7945,Fungal infection
+7946,Chicken pox
+7947,Migraine
+7948,Varicose veins
+7949,Varicose veins
+7950,Typhoid
+7951,Varicose veins
+7952,Allergy
+7953,Varicose veins
+7954,Varicose veins
+7955,Allergy
+7956,Varicose veins
+7957,Dimorphic hemmorhoids(piles)
+7958,Hepatitis B
+7959,Hepatitis D
+7960,Varicose veins
+7961,Malaria
+7962,Heart attack
+7963,hepatitis A
+7964,GERD
+7965,Varicose veins
+7966,Psoriasis
+7967,Hypoglycemia
+7968,Allergy
+7969,Varicose veins
+7970,Pneumonia
+7971,Allergy
+7972,Drug Reaction
+7973,Acne
+7974,Hepatitis D
+7975,Hepatitis E
+7976,Allergy
+7977,Dengue
+7978,Drug Reaction
+7979,Allergy
+7980,Allergy
+7981,Varicose veins
+7982,hepatitis A
+7983,Allergy
+7984,Acne
+7985,Allergy
+7986,Varicose veins
+7987,Allergy
+7988,Hypothyroidism
+7989,Psoriasis
+7990,Acne
+7991,Bronchial Asthma
+7992,Dimorphic hemmorhoids(piles)
+7993,Acne
+7994,Pneumonia
+7995,Acne
+7996,Allergy
+7997,Varicose veins
+7998,Varicose veins
+7999,Chronic cholestasis
+8000,Diabetes 
+8001,Allergy
+8002,Hepatitis B
+8003,Allergy
+8004,Allergy
+8005,Varicose veins
+8006,Jaundice
+8007,Gastroenteritis
+8008,Acne
+8009,Dengue
+8010,Hepatitis B
+8011,Allergy
+8012,Varicose veins
+8013,Arthritis
+8014,Allergy
+8015,Hepatitis D
+8016,Hyperthyroidism
+8017,Allergy
+8018,Bronchial Asthma
+8019,Allergy
+8020,Acne
+8021,Typhoid
+8022,Acne
+8023,Varicose veins
+8024,Chicken pox
+8025,Allergy
+8026,Allergy
+8027,Urinary tract infection
+8028,Paralysis (brain hemorrhage)
+8029,Allergy
+8030,Varicose veins
+8031,Diabetes 
+8032,Gastroenteritis
+8033,Hypoglycemia
+8034,Allergy
+8035,Chicken pox
+8036,Hypoglycemia
+8037,Psoriasis
+8038,Acne
+8039,Hepatitis C
+8040,Arthritis
+8041,Hypothyroidism
+8042,Diabetes 
+8043,Acne
+8044,Heart attack
+8045,Varicose veins
+8046,Gastroenteritis
+8047,Bronchial Asthma
+8048,Acne
+8049,Cervical spondylosis
+8050,Varicose veins
+8051,Cervical spondylosis
+8052,Allergy
+8053,Allergy
+8054,Acne
+8055,Acne
+8056,Allergy
+8057,Allergy
+8058,Varicose veins
+8059,Acne
+8060,Varicose veins
+8061,Typhoid
+8062,Hepatitis D
+8063,Varicose veins
+8064,Varicose veins
+8065,Impetigo
+8066,Allergy
+8067,Acne
+8068,Allergy
+8069,Migraine
+8070,Allergy
+8071,Typhoid
+8072,Heart attack
+8073,Migraine
+8074,Diabetes 
+8075,Allergy
+8076,Psoriasis
+8077,Acne
+8078,Hypothyroidism
+8079,Peptic ulcer diseae
+8080,Paralysis (brain hemorrhage)
+8081,Urinary tract infection
+8082,Bronchial Asthma
+8083,Paralysis (brain hemorrhage)
+8084,Hepatitis C
+8085,Acne
+8086,Allergy
+8087,Hyperthyroidism
+8088,Bronchial Asthma
+8089,Jaundice
+8090,Allergy
+8091,Typhoid
+8092,Diabetes 
+8093,Heart attack
+8094,Acne
+8095,Varicose veins
+8096,Peptic ulcer diseae
+8097,Peptic ulcer diseae
+8098,Allergy
+8099,Acne
+8100,Acne
+8101,Diabetes 
+8102,Varicose veins
+8103,Psoriasis
+8104,Allergy
+8105,Acne
+8106,Allergy
+8107,Acne
+8108,Allergy
+8109,Varicose veins
+8110,Varicose veins
+8111,Varicose veins
+8112,Allergy
+8113,Hepatitis C
+8114,Alcoholic hepatitis
+8115,Allergy
+8116,Allergy
+8117,Psoriasis
+8118,Tuberculosis
+8119,Hepatitis B
+8120,Acne
+8121,Varicose veins
+8122,Allergy
+8123,Varicose veins
+8124,Bronchial Asthma
+8125,Acne
+8126,Osteoarthristis
+8127,Varicose veins
+8128,Gastroenteritis
+8129,Gastroenteritis
+8130,hepatitis A
+8131,Allergy
+8132,Hypoglycemia
+8133,Gastroenteritis
+8134,Fungal infection
+8135,Acne
+8136,Hypoglycemia
+8137,Acne
+8138,Allergy
+8139,Gastroenteritis
+8140,Acne
+8141,Allergy
+8142,Dengue
+8143,Acne
+8144,Arthritis
+8145,Allergy
+8146,Allergy
+8147,GERD
+8148,Allergy
+8149,Acne
+8150,Hepatitis D
+8151,Dimorphic hemmorhoids(piles)
+8152,Jaundice
+8153,Chronic cholestasis
+8154,Allergy
+8155,Varicose veins
+8156,Varicose veins
+8157,Allergy
+8158,Hyperthyroidism
+8159,Acne
+8160,Varicose veins
+8161,Acne
+8162,Acne
+8163,Allergy
+8164,Paralysis (brain hemorrhage)
+8165,Paralysis (brain hemorrhage)
+8166,Acne
+8167,Allergy
+8168,Pneumonia
+8169,Impetigo
+8170,Allergy
+8171,Varicose veins
+8172,Urinary tract infection
+8173,Arthritis
+8174,Acne
+8175,Varicose veins
+8176,Acne
+8177,Varicose veins
+8178,Varicose veins
+8179,AIDS
+8180,Heart attack
+8181,Hyperthyroidism
+8182,Impetigo
+8183,Allergy
+8184,Paralysis (brain hemorrhage)
+8185,Acne
+8186,Allergy
+8187,Allergy
+8188,Varicose veins
+8189,Varicose veins
+8190,Acne
+8191,Acne
+8192,Common Cold
+8193,Hepatitis D
+8194,GERD
+8195,Paralysis (brain hemorrhage)
+8196,Alcoholic hepatitis
+8197,Allergy
+8198,Allergy
+8199,Paralysis (brain hemorrhage)
+8200,Gastroenteritis
+8201,Acne
+8202,Varicose veins
+8203,Allergy
+8204,Hepatitis D
+8205,Acne
+8206,Varicose veins
+8207,Hypoglycemia
+8208,Tuberculosis
+8209,Allergy
+8210,Allergy
+8211,Acne
+8212,Acne
+8213,Varicose veins
+8214,Allergy
+8215,Allergy
+8216,Allergy
+8217,Varicose veins
+8218,(vertigo) Paroymsal  Positional Vertigo
+8219,Migraine
+8220,Heart attack
+8221,Acne
+8222,Malaria
+8223,Diabetes 
+8224,Allergy
+8225,Cervical spondylosis
+8226,Chicken pox
+8227,Varicose veins
+8228,Diabetes 
+8229,Varicose veins
+8230,Allergy
+8231,Acne
+8232,Impetigo
+8233,Allergy
+8234,Fungal infection
+8235,Acne
+8236,Allergy
+8237,Drug Reaction
+8238,Malaria
+8239,hepatitis A
+8240,Varicose veins
+8241,Allergy
+8242,Allergy
+8243,Allergy
+8244,Allergy
+8245,Varicose veins
+8246,Jaundice
+8247,Bronchial Asthma
+8248,Varicose veins
+8249,Varicose veins
+8250,Dimorphic hemmorhoids(piles)
+8251,Acne
+8252,Varicose veins
+8253,Allergy
+8254,Hepatitis B
+8255,Chicken pox
+8256,Hepatitis D
+8257,Acne
+8258,Typhoid
+8259,Hepatitis E
+8260,Varicose veins
+8261,Diabetes 
+8262,Drug Reaction
+8263,Allergy
+8264,Varicose veins
+8265,Varicose veins
+8266,Allergy
+8267,Varicose veins
+8268,Allergy
+8269,Osteoarthristis
+8270,Varicose veins
+8271,Allergy
+8272,GERD
+8273,Urinary tract infection
+8274,Allergy
+8275,Allergy
+8276,Varicose veins
+8277,Acne
+8278,Cervical spondylosis
+8279,Urinary tract infection
+8280,Allergy
+8281,Alcoholic hepatitis
+8282,Acne
+8283,Peptic ulcer diseae
+8284,Allergy
+8285,Hepatitis B
+8286,Allergy
+8287,Peptic ulcer diseae
+8288,Acne
+8289,Allergy
+8290,Hypoglycemia
+8291,Allergy
+8292,Arthritis
+8293,(vertigo) Paroymsal  Positional Vertigo
+8294,Allergy
+8295,Fungal infection
+8296,Cervical spondylosis
+8297,Allergy
+8298,Allergy
+8299,Typhoid
+8300,Allergy
+8301,Varicose veins
+8302,Varicose veins
+8303,Urinary tract infection
+8304,hepatitis A
+8305,Allergy
+8306,Hypothyroidism
+8307,Dimorphic hemmorhoids(piles)
+8308,Varicose veins
+8309,Allergy
+8310,Impetigo
+8311,Acne
+8312,Allergy
+8313,Common Cold
+8314,(vertigo) Paroymsal  Positional Vertigo
+8315,Acne
+8316,Arthritis
+8317,Varicose veins
+8318,Allergy
+8319,hepatitis A
+8320,Allergy
+8321,Varicose veins
+8322,Fungal infection
+8323,Dengue
+8324,Dimorphic hemmorhoids(piles)
+8325,Allergy
+8326,Cervical spondylosis
+8327,Typhoid
+8328,Allergy
+8329,Allergy
+8330,Hypoglycemia
+8331,Acne
+8332,Varicose veins
+8333,Osteoarthristis
+8334,Fungal infection
+8335,hepatitis A
+8336,Alcoholic hepatitis
+8337,Fungal infection
+8338,Hypertension 
+8339,Varicose veins
+8340,Alcoholic hepatitis
+8341,Acne
+8342,Fungal infection
+8343,Chicken pox
+8344,Acne
+8345,Migraine
+8346,Varicose veins
+8347,Allergy
+8348,Alcoholic hepatitis
+8349,Allergy
+8350,Acne
+8351,Allergy
+8352,Varicose veins
+8353,Paralysis (brain hemorrhage)
+8354,Chronic cholestasis
+8355,Varicose veins
+8356,Varicose veins
+8357,Psoriasis
+8358,Migraine
+8359,Heart attack
+8360,Allergy
+8361,Acne
+8362,Pneumonia
+8363,Psoriasis
+8364,Jaundice
+8365,(vertigo) Paroymsal  Positional Vertigo
+8366,Acne
+8367,Allergy
+8368,Hypothyroidism
+8369,Osteoarthristis
+8370,Cervical spondylosis
+8371,Acne
+8372,Varicose veins
+8373,Acne
+8374,Acne
+8375,Allergy
+8376,Varicose veins
+8377,Acne
+8378,Acne
+8379,Peptic ulcer diseae
+8380,Allergy
+8381,Hepatitis C
+8382,Varicose veins
+8383,Peptic ulcer diseae
+8384,Varicose veins
+8385,Dimorphic hemmorhoids(piles)
+8386,Chronic cholestasis
+8387,Varicose veins
+8388,Acne
+8389,Hepatitis B
+8390,Hepatitis E
+8391,Allergy
+8392,hepatitis A
+8393,Varicose veins
+8394,Chronic cholestasis
+8395,Varicose veins
+8396,Allergy
+8397,Acne
+8398,Urinary tract infection
+8399,Acne
+8400,Hepatitis B
+8401,Allergy
+8402,Jaundice
+8403,Osteoarthristis
+8404,Varicose veins
+8405,Hepatitis C
+8406,Fungal infection
+8407,Hepatitis E
+8408,Allergy
+8409,Typhoid
+8410,Dengue
+8411,Varicose veins
+8412,Acne
+8413,Allergy
+8414,Hepatitis E
+8415,Varicose veins
+8416,Acne
+8417,Allergy
+8418,(vertigo) Paroymsal  Positional Vertigo
+8419,Varicose veins
+8420,Varicose veins
+8421,Acne
+8422,Varicose veins
+8423,Dimorphic hemmorhoids(piles)
+8424,Drug Reaction
+8425,Bronchial Asthma
+8426,Allergy
+8427,Allergy
+8428,Diabetes 
+8429,Chronic cholestasis
+8430,Dimorphic hemmorhoids(piles)
+8431,Acne
+8432,Chronic cholestasis
+8433,Typhoid
+8434,Allergy
+8435,Allergy
+8436,Acne
+8437,(vertigo) Paroymsal  Positional Vertigo
+8438,Acne
+8439,GERD
+8440,Hyperthyroidism
+8441,Varicose veins
+8442,Varicose veins
+8443,Varicose veins
+8444,Common Cold
+8445,Allergy
+8446,Acne
+8447,Hyperthyroidism
+8448,Hypoglycemia
+8449,Acne
+8450,Hyperthyroidism
+8451,Bronchial Asthma
+8452,Hypothyroidism
+8453,Cervical spondylosis
+8454,Varicose veins
+8455,Allergy
+8456,Common Cold
+8457,Allergy
+8458,Arthritis
+8459,Psoriasis
+8460,Allergy
+8461,Heart attack
+8462,Hypoglycemia
+8463,Acne
+8464,Jaundice
+8465,Varicose veins
+8466,Hypoglycemia
+8467,Osteoarthristis
+8468,Varicose veins
+8469,Migraine
+8470,Acne
+8471,Varicose veins
+8472,Acne
+8473,Cervical spondylosis
+8474,Drug Reaction
+8475,Dimorphic hemmorhoids(piles)
+8476,Paralysis (brain hemorrhage)
+8477,(vertigo) Paroymsal  Positional Vertigo
+8478,hepatitis A
+8479,Typhoid
+8480,Allergy
+8481,Acne
+8482,Psoriasis
+8483,Acne
+8484,Peptic ulcer diseae
+8485,Acne
+8486,Drug Reaction
+8487,Acne
+8488,Varicose veins
+8489,Varicose veins
+8490,Typhoid
+8491,Varicose veins
+8492,hepatitis A
+8493,Acne
+8494,Hepatitis D
+8495,Urinary tract infection
+8496,Acne
+8497,Acne
+8498,Acne
+8499,Psoriasis
+8500,Allergy
+8501,Gastroenteritis
+8502,Alcoholic hepatitis
+8503,Varicose veins
+8504,Varicose veins
+8505,Acne
+8506,Dengue
+8507,Chicken pox
+8508,Chicken pox
+8509,Varicose veins
+8510,Urinary tract infection
+8511,Varicose veins
+8512,Jaundice
+8513,Hepatitis E
+8514,Hyperthyroidism
+8515,Dimorphic hemmorhoids(piles)
+8516,Varicose veins
+8517,Hepatitis C
+8518,Varicose veins
+8519,Acne
+8520,Chicken pox
+8521,AIDS
+8522,Allergy
+8523,Bronchial Asthma
+8524,Acne
+8525,GERD
+8526,Hyperthyroidism
+8527,Acne
+8528,Allergy
+8529,Acne
+8530,Varicose veins
+8531,Allergy
+8532,Acne
+8533,Allergy
+8534,Acne
+8535,Acne
+8536,Varicose veins
+8537,Fungal infection
+8538,Chronic cholestasis
+8539,Hypoglycemia
+8540,Hypoglycemia
+8541,Varicose veins
+8542,Pneumonia
+8543,Varicose veins
+8544,Psoriasis
+8545,Varicose veins
+8546,Varicose veins
+8547,Hepatitis B
+8548,Tuberculosis
+8549,Cervical spondylosis
+8550,Hepatitis D
+8551,Varicose veins
+8552,Acne
+8553,Varicose veins
+8554,(vertigo) Paroymsal  Positional Vertigo
+8555,Cervical spondylosis
+8556,Varicose veins
+8557,hepatitis A
+8558,Allergy
+8559,Malaria
+8560,hepatitis A
+8561,Allergy
+8562,Acne
+8563,Heart attack
+8564,Fungal infection
+8565,Acne
+8566,Allergy
+8567,Cervical spondylosis
+8568,Varicose veins
+8569,Varicose veins
+8570,Malaria
+8571,Cervical spondylosis
+8572,Dimorphic hemmorhoids(piles)
+8573,Acne
+8574,Drug Reaction
+8575,Chronic cholestasis
+8576,Psoriasis
+8577,Allergy
+8578,Hepatitis D
+8579,Allergy
+8580,Paralysis (brain hemorrhage)
+8581,Varicose veins
+8582,Allergy
+8583,Acne
+8584,Allergy
+8585,Alcoholic hepatitis
+8586,Allergy
+8587,Acne
+8588,Fungal infection
+8589,Acne
+8590,Hepatitis C
+8591,Malaria
+8592,Acne
+8593,Allergy
+8594,Acne
+8595,Chicken pox
+8596,Dimorphic hemmorhoids(piles)
+8597,Allergy
+8598,Allergy
+8599,Hypothyroidism
+8600,Allergy
+8601,Acne
+8602,Malaria
+8603,Osteoarthristis
+8604,Varicose veins
+8605,Acne
+8606,Allergy
+8607,Fungal infection
+8608,Varicose veins
+8609,Varicose veins
+8610,Allergy
+8611,Allergy
+8612,Jaundice
+8613,GERD
+8614,Hypothyroidism
+8615,Malaria
+8616,Allergy
+8617,Allergy
+8618,Typhoid
+8619,Acne
+8620,Acne
+8621,Dimorphic hemmorhoids(piles)
+8622,Allergy
+8623,Allergy
+8624,Acne
+8625,Varicose veins
+8626,Varicose veins
+8627,Allergy
+8628,Acne
+8629,Acne
+8630,Acne
+8631,Malaria
+8632,Varicose veins
+8633,Acne
+8634,Allergy
+8635,Acne
+8636,Allergy
+8637,Hypothyroidism
+8638,Acne
+8639,Varicose veins
+8640,Hyperthyroidism
+8641,Allergy
+8642,Varicose veins
+8643,Allergy
+8644,Allergy
+8645,Allergy
+8646,Chicken pox
+8647,Allergy
+8648,Acne
+8649,Diabetes 
+8650,Allergy
+8651,Urinary tract infection
+8652,Fungal infection
+8653,Acne
+8654,Alcoholic hepatitis
+8655,Arthritis
+8656,Acne
+8657,Varicose veins
+8658,Tuberculosis
+8659,Acne
+8660,Acne
+8661,Allergy
+8662,Psoriasis
+8663,Arthritis
+8664,Varicose veins
+8665,Allergy
+8666,AIDS
+8667,Chicken pox
+8668,hepatitis A
+8669,Psoriasis
+8670,Allergy
+8671,Varicose veins
+8672,Allergy
+8673,Varicose veins
+8674,Varicose veins
+8675,Allergy
+8676,Acne
+8677,Dengue
+8678,Hepatitis D
+8679,Varicose veins
+8680,Acne
+8681,Allergy
+8682,Arthritis
+8683,Allergy
+8684,hepatitis A
+8685,Tuberculosis
+8686,Varicose veins
+8687,Urinary tract infection
+8688,Acne
+8689,Gastroenteritis
+8690,Varicose veins
+8691,Varicose veins
+8692,Acne
+8693,Hyperthyroidism
+8694,Acne
+8695,Diabetes 
+8696,Hepatitis B
+8697,Acne
+8698,(vertigo) Paroymsal  Positional Vertigo
+8699,Common Cold
+8700,Acne
+8701,Arthritis
+8702,Pneumonia
+8703,Varicose veins
+8704,Varicose veins
+8705,Acne
+8706,Common Cold
+8707,Drug Reaction
+8708,Acne
+8709,Impetigo
+8710,Varicose veins
+8711,Osteoarthristis
+8712,Chicken pox
+8713,Allergy
+8714,Jaundice
+8715,Hyperthyroidism
+8716,Alcoholic hepatitis
+8717,Varicose veins
+8718,Chronic cholestasis
+8719,Allergy
+8720,Impetigo
+8721,Allergy
+8722,Drug Reaction
+8723,Hypoglycemia
+8724,Varicose veins
+8725,Varicose veins
+8726,Jaundice
+8727,Peptic ulcer diseae
+8728,Allergy
+8729,Acne
+8730,Allergy
+8731,Acne
+8732,Heart attack
+8733,Malaria
+8734,Drug Reaction
+8735,Allergy
+8736,Acne
+8737,Allergy
+8738,Allergy
+8739,Varicose veins
+8740,Impetigo
+8741,Allergy
+8742,Hypertension 
+8743,Allergy
+8744,Acne
+8745,Varicose veins
+8746,Peptic ulcer diseae
+8747,Alcoholic hepatitis
+8748,Allergy
+8749,Acne
+8750,Paralysis (brain hemorrhage)
+8751,Malaria
+8752,Hypoglycemia
+8753,GERD
+8754,Alcoholic hepatitis
+8755,Common Cold
+8756,Allergy
+8757,Acne
+8758,Acne
+8759,Allergy
+8760,Varicose veins
+8761,Allergy
+8762,Varicose veins
+8763,Allergy
+8764,Acne
+8765,Varicose veins
+8766,Acne
+8767,Paralysis (brain hemorrhage)
+8768,Fungal infection
+8769,Acne
+8770,Chronic cholestasis
+8771,Hypothyroidism
+8772,Varicose veins
+8773,Acne
+8774,Allergy
+8775,Bronchial Asthma
+8776,Varicose veins
+8777,Malaria
+8778,Acne
+8779,Allergy
+8780,Varicose veins
+8781,Hypertension 
+8782,Peptic ulcer diseae
+8783,Acne
+8784,Allergy
+8785,Acne
+8786,hepatitis A
+8787,Tuberculosis
+8788,Varicose veins
+8789,Migraine
+8790,Allergy
+8791,Varicose veins
+8792,Common Cold
+8793,Acne
+8794,Psoriasis
+8795,Varicose veins
+8796,Varicose veins
+8797,Hyperthyroidism
+8798,Varicose veins
+8799,Hyperthyroidism
+8800,Fungal infection
+8801,Allergy
+8802,Varicose veins
+8803,Migraine
+8804,Varicose veins
+8805,Allergy
+8806,Allergy
+8807,Tuberculosis
+8808,Paralysis (brain hemorrhage)
+8809,Hypothyroidism
+8810,Allergy
+8811,Dimorphic hemmorhoids(piles)
+8812,Allergy
+8813,Acne
+8814,Allergy
+8815,Varicose veins
+8816,Allergy
+8817,Acne
+8818,Varicose veins
+8819,Heart attack
+8820,Allergy
+8821,AIDS
+8822,GERD
+8823,Diabetes 
+8824,Gastroenteritis
+8825,Fungal infection
+8826,Tuberculosis
+8827,Allergy
+8828,Varicose veins
+8829,Acne
+8830,Acne
+8831,Allergy
+8832,Acne
+8833,Urinary tract infection
+8834,Hypoglycemia
+8835,Peptic ulcer diseae
+8836,Diabetes 
+8837,Allergy
+8838,Allergy
+8839,Acne
+8840,Typhoid
+8841,Hepatitis D
+8842,Hypothyroidism
+8843,Alcoholic hepatitis
+8844,Acne
+8845,Urinary tract infection
+8846,Cervical spondylosis
+8847,Hepatitis E
+8848,Varicose veins
+8849,Acne
+8850,Hypoglycemia
+8851,GERD
+8852,Hypoglycemia
+8853,Allergy
+8854,Acne
+8855,Varicose veins
+8856,Fungal infection
+8857,Heart attack
+8858,Varicose veins
+8859,Dengue
+8860,Varicose veins
+8861,Jaundice
+8862,Allergy
+8863,Allergy
+8864,Psoriasis
+8865,Hepatitis C
+8866,Impetigo
+8867,Hepatitis D
+8868,Gastroenteritis
+8869,Peptic ulcer diseae
+8870,Hypertension 
+8871,Hepatitis D
+8872,Arthritis
+8873,hepatitis A
+8874,Allergy
+8875,Tuberculosis
+8876,Allergy
+8877,Acne
+8878,Allergy
+8879,Acne
+8880,Cervical spondylosis
+8881,Acne
+8882,Pneumonia
+8883,Varicose veins
+8884,Cervical spondylosis
+8885,Varicose veins
+8886,Allergy
+8887,Chicken pox
+8888,Common Cold
+8889,Allergy
+8890,Varicose veins
+8891,Varicose veins
+8892,Hepatitis D
+8893,Hepatitis D
+8894,Hepatitis C
+8895,Allergy
+8896,Bronchial Asthma
+8897,Heart attack
+8898,Arthritis
+8899,Allergy
+8900,Dimorphic hemmorhoids(piles)
+8901,Allergy
+8902,Gastroenteritis
+8903,Acne
+8904,Allergy
+8905,Allergy
+8906,Varicose veins
+8907,Hypertension 
+8908,Tuberculosis
+8909,Acne
+8910,Chronic cholestasis
+8911,Varicose veins
+8912,Acne
+8913,Hepatitis C
+8914,Allergy
+8915,Allergy
+8916,Typhoid
+8917,Allergy
+8918,Acne
+8919,Allergy
+8920,Acne
+8921,Allergy
+8922,Hypothyroidism
+8923,(vertigo) Paroymsal  Positional Vertigo
+8924,Varicose veins
+8925,Allergy
+8926,Allergy
+8927,Allergy
+8928,Peptic ulcer diseae
+8929,Impetigo
+8930,Chicken pox
+8931,Acne
+8932,Migraine
+8933,Allergy
+8934,Varicose veins
+8935,Varicose veins
+8936,Diabetes 
+8937,Acne
+8938,Allergy
+8939,Allergy
+8940,Arthritis
+8941,Alcoholic hepatitis
+8942,Acne
+8943,Osteoarthristis
+8944,Varicose veins
+8945,Malaria
+8946,Allergy
+8947,Varicose veins
+8948,Urinary tract infection
+8949,Hepatitis B
+8950,Acne
+8951,Acne
+8952,Diabetes 
+8953,Acne
+8954,Allergy
+8955,Acne
+8956,Allergy
+8957,Dengue
+8958,GERD
+8959,Acne
+8960,Hepatitis B
+8961,Allergy
+8962,Psoriasis
+8963,Urinary tract infection
+8964,Varicose veins
+8965,Allergy
+8966,Varicose veins
+8967,Fungal infection
+8968,Chicken pox
+8969,Hepatitis D
+8970,Pneumonia
+8971,Allergy
+8972,Allergy
+8973,Varicose veins
+8974,Allergy
+8975,Impetigo
+8976,Allergy
+8977,Acne
+8978,Hypothyroidism
+8979,Hypothyroidism
+8980,Dengue
+8981,Acne
+8982,Jaundice
